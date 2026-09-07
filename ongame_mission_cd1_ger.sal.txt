@@ -1,0 +1,13 @@
+Schneeballwerfer
+Söldner Bogenschütze
+Söldner Axtkämpfer
+Söldner anheuern:
+Den Tribut zahlen, um Söldner anzuheuern
+Bogenschütze
+Speerkämpfer
+Axtkämpfer
+Meister-Bogenschütze
+Meister-Axtkämpfer
+Meister-Bogenschütze
+Meister-Speerkämpfer
+Bjarnis Onkel

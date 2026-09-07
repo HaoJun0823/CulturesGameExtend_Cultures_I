@@ -1,0 +1,1105 @@
+source_file|index|german
+data_gui_language_ger.tab.txt|0|Deutsch
+data_gui_language_ger.tab.txt|1|Credits
+data_gui_language_ger.tab.txt|2|Hauptmenü
+data_gui_language_ger.tab.txt|3|Einzelspieler
+data_gui_language_ger.tab.txt|4|Mehrspieler
+data_gui_language_ger.tab.txt|5|Einstellungen
+data_gui_language_ger.tab.txt|6|Intro
+data_gui_language_ger.tab.txt|7|Credits
+data_gui_language_ger.tab.txt|8|Einzelspieler
+data_gui_language_ger.tab.txt|9|Tutorial
+data_gui_language_ger.tab.txt|10|Einzelnes Szenario
+data_gui_language_ger.tab.txt|11|Kampagne
+data_gui_language_ger.tab.txt|12|Für Einsteiger
+data_gui_language_ger.tab.txt|13|Spiel fortsetzen
+data_gui_language_ger.tab.txt|14|Spielstand laden
+data_gui_language_ger.tab.txt|15|Karte wählen
+data_gui_language_ger.tab.txt|16|Mission wählen
+data_gui_language_ger.tab.txt|17|Einsteigerkarten
+data_gui_language_ger.tab.txt|18|Spielstand wählen
+data_gui_language_ger.tab.txt|19|Tutorial
+data_gui_language_ger.tab.txt|20|Einstellungen
+data_gui_language_ger.tab.txt|21|Einstellungen Grafik
+data_gui_language_ger.tab.txt|22|Einstellungen Sound
+data_gui_language_ger.tab.txt|23|Schwierigkeitsgrad
+data_gui_language_ger.tab.txt|24|einfach
+data_gui_language_ger.tab.txt|25|normal
+data_gui_language_ger.tab.txt|26|Detailstufe
+data_gui_language_ger.tab.txt|27|Scrollgeschwindigkeit
+data_gui_language_ger.tab.txt|28|Helligkeit
+data_gui_language_ger.tab.txt|29|Grafikauflösung
+data_gui_language_ger.tab.txt|30|Mausradfunktion
+data_gui_language_ger.tab.txt|31|keine
+data_gui_language_ger.tab.txt|32|Zoomen
+data_gui_language_ger.tab.txt|33|Kippen
+data_gui_language_ger.tab.txt|34|Hardwaremauszeiger
+data_gui_language_ger.tab.txt|35|Tonqualität
+data_gui_language_ger.tab.txt|36|Lautstärke Musik
+data_gui_language_ger.tab.txt|37|Lautstärke Geräusche
+data_gui_language_ger.tab.txt|38|Netzwerkoptionen
+data_gui_language_ger.tab.txt|39|Cultures Onlineserver
+data_gui_language_ger.tab.txt|40|Mehrspielermodus
+data_gui_language_ger.tab.txt|41|Cultures im Internet
+data_gui_language_ger.tab.txt|42|Klick auf den Button, um mit dem CULTURES
+data_gui_language_ger.tab.txt|43|Internetserver verbunden zu werden.
+data_gui_language_ger.tab.txt|44|CULTURES wird beendet.
+data_gui_language_ger.tab.txt|45|Verbindungsart
+data_gui_language_ger.tab.txt|46|Name eingeben
+data_gui_language_ger.tab.txt|47|Spielername:
+data_gui_language_ger.tab.txt|48|Spiel eröffnen
+data_gui_language_ger.tab.txt|49|Spiel beitreten
+data_gui_language_ger.tab.txt|50|Verbindungsdaten
+data_gui_language_ger.tab.txt|51|IP Adresse:
+data_gui_language_ger.tab.txt|52|Telefonnummer:
+data_gui_language_ger.tab.txt|53|Wähle Modem:
+data_gui_language_ger.tab.txt|54|Offene Spiele
+data_gui_language_ger.tab.txt|55|Spielinfo
+data_gui_language_ger.tab.txt|56|Spielstand
+data_gui_language_ger.tab.txt|57|(unbekannter Spielstand)
+data_gui_language_ger.tab.txt|58|(unbekannte Karte)
+data_gui_language_ger.tab.txt|59|Spiel beitreten
+data_gui_language_ger.tab.txt|60|Lobby
+data_gui_language_ger.tab.txt|61|Datenabgleich
+data_gui_language_ger.tab.txt|62|Spiel wählen
+data_gui_language_ger.tab.txt|63|Militärmacht
+data_gui_language_ger.tab.txt|64|Wirtschaftsmacht
+data_gui_language_ger.tab.txt|65|Spielstand laden
+data_gui_language_ger.tab.txt|66|Spiel fortsetzen
+data_gui_language_ger.tab.txt|67|Karte wählen
+data_gui_language_ger.tab.txt|68|Spielstand wählen
+data_gui_language_ger.tab.txt|69|Baue Verbindung zur Lobby auf...
+data_gui_language_ger.tab.txt|70|Lese Service Provider...
+data_gui_language_ger.tab.txt|71|Verbindung wird aufgebaut...
+data_gui_language_ger.tab.txt|72|Spiel wird angelegt...
+data_gui_language_ger.tab.txt|73|Trete Spiel bei...
+data_gui_language_ger.tab.txt|74|Verbindung wird beendet...
+data_gui_language_ger.tab.txt|75|Möchtest du das Spiel wirklich beenden?
+data_gui_language_ger.tab.txt|76|Möchtest du diesen Spieler rauswerfen?
+data_gui_language_ger.tab.txt|77|Möchtest du wirklich komplett abbrechen?
+data_gui_language_ger.tab.txt|78|Möchtest du diese Runde wirklich verlassen?
+data_gui_language_ger.tab.txt|79|Highscore
+data_gui_language_ger.tab.txt|80|Spielstand für
+data_gui_language_ger.tab.txt|81|Spieler
+data_gui_language_ger.tab.txt|82|Spieler
+data_gui_language_ger.tab.txt|83|Daten werden abgeglichen, bitte warten...
+data_gui_language_ger.tab.txt|84|Starte Bonuskarte...
+data_gui_language_ger.tab.txt|85|Ist in dieser Demoversion nicht verfügbar!
+data_gui_language_ger.tab.txt|86|Kein Zugriff auf CD möglich! Bitte beende alle Programme, die auf das CD-Laufwerk zugreifen (z.B. CD-Player u.a.) und starte Cultures neu.
+data_gui_language_ger.tab.txt|87|Keine Orginal-CD gefunden! Drücke 'Nochmal suchen' für einen erneuten Versuch oder 'Netzwerkspiel', um einem lokalen Netzwerkspiel beizutreten.
+data_gui_language_ger.tab.txt|88|Keine Orginal-CD gefunden! Drücke 'Nochmal suchen' für einen erneuten Versuch oder 'Abbruch', um das Spiel zu beenden.
+data_gui_language_ger.tab.txt|89|Nochmal suchen
+data_gui_language_ger.tab.txt|90|Netzwerkspiel
+data_gui_language_ger.tab.txt|91|Abbrechen
+data_gui_language_ger.tab.txt|92|Du brauchst mehr Mitspieler für diese Karte!
+data_gui_language_ger.tab.txt|93|Kein Netzwerkspieler vorhanden!
+data_gui_language_ger.tab.txt|94|Verbindung zum Host ist abgebrochen!
+data_gui_language_ger.tab.txt|95|Der Host hat dich aus dem Spiel geworfen!
+data_gui_language_ger.tab.txt|96|Eine Farbe ist doppelt!
+data_gui_language_ger.tab.txt|97|Spiel ist voll!
+data_gui_language_ger.tab.txt|98|Falsche Programmversion!
+data_gui_language_ger.tab.txt|99|Falsche Kartenversion!
+data_gui_language_ger.tab.txt|100|(Kein Kartenbild vorhanden)
+data_gui_language_ger.tab.txt|101|Wenn du alleine spielen willst...
+data_gui_language_ger.tab.txt|102|Wenn du mit Freunden spielen willst...
+data_gui_language_ger.tab.txt|103|Grafik- und Soundeinstellungen.
+data_gui_language_ger.tab.txt|104|Spielt das Intro ab.
+data_gui_language_ger.tab.txt|105|Die Macher des Spiels.
+data_gui_language_ger.tab.txt|106|Zurück zum vorherigen Menü.
+data_gui_language_ger.tab.txt|107|Beendet das Spiel.
+data_gui_language_ger.tab.txt|108|Im Tutorial bekommst du eine Einführung in das Spiel.
+data_gui_language_ger.tab.txt|109|Hier kannst du ein einzelnes Szenario spielen.
+data_gui_language_ger.tab.txt|110|Startet eine Kampagne mit mehreren Missionen.
+data_gui_language_ger.tab.txt|111|Hier sind bereits alle Bonusgegenstände in großer Menge vorhanden. Dafür können nicht alle Gebäude gebaut werden.
+data_gui_language_ger.tab.txt|112|Startet automatisch das zuletzt gespeicherte Einzelspieler-Spiel.
+data_gui_language_ger.tab.txt|113|Hier kannst du einen gespeicherten Spielstand laden.
+data_gui_language_ger.tab.txt|114|Zeigt die Highscore-Liste für Einzelspieler-Spiele.
+data_gui_language_ger.tab.txt|115|Hier kannst du Änderungen an den Grafikeinstellungen vornehmen.
+data_gui_language_ger.tab.txt|116|Hier kannst du Änderungen an den Soundeinstellungen vornehmen.
+data_gui_language_ger.tab.txt|117|Schaltet in den Einsteigermodus. Alle Missionen sind ein wenig leichter.
+data_gui_language_ger.tab.txt|118|Schaltet in den Standardmodus. Alle Missionen haben die normale Standardschwierigkeit.
+data_gui_language_ger.tab.txt|119|Ändert die Detailauflösung. Höhere Qualität kann die Geschwindigkeit des Spiels beeinflussen!
+data_gui_language_ger.tab.txt|120|Das Mausrad hat keine Funktion.
+data_gui_language_ger.tab.txt|121|Mit dem Mausrad kann man hinein- und herauszoomen.
+data_gui_language_ger.tab.txt|122|Mit dem Mausrad ändert man den Blickwinkel.
+data_gui_language_ger.tab.txt|123|Schaltet den Hardware-Mauszeiger ein. Achtung! Geht nicht bei allen PCs!
+data_gui_language_ger.tab.txt|124|Schaltet den Software-Mauszeiger ein. Ist hübscher, aber langsamer!
+data_gui_language_ger.tab.txt|125|Ändert die Soundqualität. Höhere Qualität kann die Geschwindigkeit des Spiels beeinflussen!
+data_gui_language_ger.tab.txt|126|Ändert die Geschwindigkeit, mit der der angezeigte Bildausschnitt verschoben werden kann.
+data_gui_language_ger.tab.txt|127|Ändert die Helligkeit.
+data_gui_language_ger.tab.txt|128|Regelt die Lautstärke für alle Musiktracks im Spiel.
+data_gui_language_ger.tab.txt|129|Regelt die Lautstärke für die Geräusche und Sprache im Spiel und im Intro.
+data_gui_language_ger.tab.txt|130|Startet ein neues Mehrspieler-Spiel, bei dem es um die militärische Vorherrschaft geht.
+data_gui_language_ger.tab.txt|131|Startet ein neues Mehrspieler-Spiel, bei dem es um wirtschaftliche Ziele geht.
+data_gui_language_ger.tab.txt|132|Zeigt alle Spielstände für Mehrspielerspiele an.
+data_gui_language_ger.tab.txt|133|Startet automatisch den letzten Mehrspieler-Spielstand.
+data_gui_language_ger.tab.txt|134|Dieser Spieler hat das Spiel erzeugt. Er ist der HOST.
+data_gui_language_ger.tab.txt|135|Hier kann der Host Spieler hinzufügen oder rauswerfen.
+data_gui_language_ger.tab.txt|136|Hier kann der Host Spieler hinzufügen oder rauswerfen. In diesem Spielstand kann die Gesamtzahl der Spieler nicht geändert werden.
+data_gui_language_ger.tab.txt|137|Hier kann der Host Spieler hinzufügen oder rauswerfen. In diesem Spiel kann kein KI-Spieler hinzugefügt werden.
+data_gui_language_ger.tab.txt|138|Das ist der lokale Spieler an diesem Rechner.
+data_gui_language_ger.tab.txt|139|Dies ist ein Spieler an einem anderen Rechner.
+data_gui_language_ger.tab.txt|140|Dieser Spieler ist schon gestorben...
+data_gui_language_ger.tab.txt|141|Dieser Spieler wird vom Computer gesteuert (KI-Spieler).
+data_gui_language_ger.tab.txt|142|Dieser Computerspieler ist schon gestorben...
+data_gui_language_ger.tab.txt|143|Zeigt die Spielerfarbe an. Der Host kann die Farbe auch ändern.
+data_gui_language_ger.tab.txt|144|Zeigt die Qualität der Verbindung zu diesem Spieler an. Je niedriger der Wert, desto besser.
+data_gui_language_ger.tab.txt|145|Zeigt den Status des Datenabgleich an.
+data_gui_language_ger.tab.txt|146|Startet das Spiel mit den jetzigen Einstellungen.
+data_gui_language_ger.tab.txt|147|Verbindet dich mit dem CULTURES-Onlineserver.
+data_gui_language_ger.tab.txt|148|Startet ein Netzwerkspiel über LAN, Internet, Modem oder serielles Kabel.
+data_gui_language_ger.tab.txt|149|Zeigt die Highscore-Liste für Mehrspielerspiele.
+data_gui_language_ger.tab.txt|150|Achtung! Du musst eine korrekt installierte Internetanbindung haben, um dieses Feature zu nutzen!
+data_gui_language_ger.tab.txt|151|Hier kannst du ein neues Mehrspielerspiel als Host anbieten.
+data_gui_language_ger.tab.txt|152|Hier kannst du einem angebotenen Spiel beitreten.
+data_gui_language_ger.tab.txt|153|Sucht nach offenen Spielen unter der angegeben IP-Adresse.
+data_gui_language_ger.tab.txt|154|Über das gewählte Modem und die eingegebene Telefonnummer wird eine Verbindung zu einem anderen PC hergestellt.
+data_gui_language_ger.tab.txt|155|Über die angegebenen Parameter wird eine Verbindung zu einem anderen Rechner hergestellt.
+data_gui_language_ger.tab.txt|156|Wähle den COM-Port, an dem das serielle Kabel angeschlossen ist (Vorgabewert ist 'COM 1').
+data_gui_language_ger.tab.txt|157|Wähle die Verbindungsgeschwindigkeit (Vorgabe: '115200 baud').
+data_gui_language_ger.tab.txt|158|Wähle die Anzahl der Stopbits (Vorgabe: '1 Stopbit').
+data_gui_language_ger.tab.txt|159|Wähle den Typ der Flow Control (Vorgabe: 'RTS/DTR Flow Control').
+data_gui_language_ger.tab.txt|160|Wähle die Parität (Vorgabe: 'No Parity').
+data_gui_language_ger.tab.txt|161|Kampagnenauswahl
+data_gui_language_ger.tab.txt|162|Die Entdeckung Vinlands
+data_gui_language_ger.tab.txt|163|Die Rache des Regengottes
+data_gui_language_ger.tab.txt|164|Wählt die Kampagne aus dem Hauptspiel.
+data_gui_language_ger.tab.txt|165|Wählt die Kampagne der Missions-CD.
+ongame_creat_feedback_ger.sal.txt|0|arbeitet
+ongame_creat_feedback_ger.sal.txt|1|ist beschäftigt
+ongame_creat_feedback_ger.sal.txt|2|wollte arbeiten
+ongame_creat_feedback_ger.sal.txt|3|hat versucht zu arbeiten
+ongame_creat_feedback_ger.sal.txt|4|hat gearbeitet
+ongame_creat_feedback_ger.sal.txt|5|war beschäftigt
+ongame_creat_feedback_ger.sal.txt|6|baut {A_HOUSE}
+ongame_creat_feedback_ger.sal.txt|7|wollte {A_HOUSE} bauen
+ongame_creat_feedback_ger.sal.txt|8|hat {A_HOUSE} gebaut
+ongame_creat_feedback_ger.sal.txt|9|baut eine Straße
+ongame_creat_feedback_ger.sal.txt|10|wollte eine Straße bauen
+ongame_creat_feedback_ger.sal.txt|11|hat eine Straße gebaut
+ongame_creat_feedback_ger.sal.txt|12|und trägt {A_GOOD}
+ongame_creat_feedback_ger.sal.txt|13|und transportiert {A_GOOD}
+ongame_creat_feedback_ger.sal.txt|14|und sucht {GOOD}
+ongame_creat_feedback_ger.sal.txt|15|und benötigt {GOOD}
+ongame_creat_feedback_ger.sal.txt|16|aber fand {NO_GOOD}
+ongame_creat_feedback_ger.sal.txt|17|aber findet {NO_GOOD}
+ongame_creat_feedback_ger.sal.txt|18|und hat {A_GOOD} ausgeliefert
+ongame_creat_feedback_ger.sal.txt|19|und liefert {A_GOOD} aus
+ongame_creat_feedback_ger.sal.txt|20|
+ongame_creat_feedback_ger.sal.txt|21|ist hungrig
+ongame_creat_feedback_ger.sal.txt|22|hat Hunger
+ongame_creat_feedback_ger.sal.txt|23|wollte essen
+ongame_creat_feedback_ger.sal.txt|24|hatte Hunger
+ongame_creat_feedback_ger.sal.txt|25|hat gegessen
+ongame_creat_feedback_ger.sal.txt|26|hat gespeist
+ongame_creat_feedback_ger.sal.txt|27|ist müde
+ongame_creat_feedback_ger.sal.txt|28|war müde, fand aber keinen Schlafplatz
+ongame_creat_feedback_ger.sal.txt|29|hat geschlafen
+ongame_creat_feedback_ger.sal.txt|30|sucht einen Ehepartner
+ongame_creat_feedback_ger.sal.txt|31|fand keinen Ehepartner
+ongame_creat_feedback_ger.sal.txt|32|hat geheiratet
+ongame_creat_feedback_ger.sal.txt|33|will beten
+ongame_creat_feedback_ger.sal.txt|34|fand keinen Ort zum Beten
+ongame_creat_feedback_ger.sal.txt|35|hat gebetet
+ongame_creat_feedback_ger.sal.txt|36|sucht etwas Gesellschaft
+ongame_creat_feedback_ger.sal.txt|37|fand keinen Gesprächspartner
+ongame_creat_feedback_ger.sal.txt|38|hat sich unterhalten
+ongame_creat_feedback_ger.sal.txt|39|möchte Essen zubereiten
+ongame_creat_feedback_ger.sal.txt|40|möchte gerne kochen
+ongame_creat_feedback_ger.sal.txt|41|wollte Essen zubereiten
+ongame_creat_feedback_ger.sal.txt|42|wollte kochen
+ongame_creat_feedback_ger.sal.txt|43|hat Essen zubereitet
+ongame_creat_feedback_ger.sal.txt|44|hat eine leckere Mahlzeit gekocht
+ongame_creat_feedback_ger.sal.txt|45|und geht zu seinem Arbeitsplatz
+ongame_creat_feedback_ger.sal.txt|46|aber konnte seinen Arbeitsplatz nicht erreichen
+ongame_creat_feedback_ger.sal.txt|47|lernt einen neuen Beruf
+ongame_creat_feedback_ger.sal.txt|48|wollte einen neuen Beruf lernen
+ongame_creat_feedback_ger.sal.txt|49|hat einen neuen Beruf gelernt
+ongame_creat_feedback_ger.sal.txt|50|greift einen Feind an
+ongame_creat_feedback_ger.sal.txt|51|greift gegnerische Gebäude an
+ongame_creat_feedback_ger.sal.txt|52|sucht Ausrüstungsgegenstände
+ongame_creat_feedback_ger.sal.txt|53|wollte sich ausrüsten
+ongame_creat_feedback_ger.sal.txt|54|hat sich ausgerüstet
+ongame_creat_feedback_ger.sal.txt|55|repariert {A_HOUSE}
+ongame_creat_feedback_ger.sal.txt|56|wollte {A_HOUSE} reparieren
+ongame_creat_feedback_ger.sal.txt|57|hat {A_HOUSE} repariert
+ongame_creat_feedback_ger.sal.txt|58|gräbt nach Wasser
+ongame_creat_feedback_ger.sal.txt|59|wollte nach Wasser graben
+ongame_creat_feedback_ger.sal.txt|60|gräbt nach Wasser
+ongame_creatures_ger.sal.txt|0|(Nicht belegt)
+ongame_creatures_ger.sal.txt|1|Zivilist
+ongame_creatures_ger.sal.txt|2|Obstbauer
+ongame_creatures_ger.sal.txt|3|[ Obstbauer
+ongame_creatures_ger.sal.txt|4|Pilzesammler
+ongame_creatures_ger.sal.txt|5|[ Pilzesammler
+ongame_creatures_ger.sal.txt|6|Farmer
+ongame_creatures_ger.sal.txt|7|[ Farmer
+ongame_creatures_ger.sal.txt|8|Müller
+ongame_creatures_ger.sal.txt|9|[ Müller
+ongame_creatures_ger.sal.txt|10|Bäcker
+ongame_creatures_ger.sal.txt|11|[ Bäcker
+ongame_creatures_ger.sal.txt|12|Bierbrauer
+ongame_creatures_ger.sal.txt|13|[ Bierbrauer
+ongame_creatures_ger.sal.txt|14|Druide
+ongame_creatures_ger.sal.txt|15|[ Druide
+ongame_creatures_ger.sal.txt|16|Jäger
+ongame_creatures_ger.sal.txt|17|[ Jäger
+ongame_creatures_ger.sal.txt|18|Fischer
+ongame_creatures_ger.sal.txt|19|[ Fischer
+ongame_creatures_ger.sal.txt|20|Weber
+ongame_creatures_ger.sal.txt|21|[ Weber
+ongame_creatures_ger.sal.txt|22|Schäfer
+ongame_creatures_ger.sal.txt|23|[ Schäfer
+ongame_creatures_ger.sal.txt|24|Lederschneider
+ongame_creatures_ger.sal.txt|25|[ Lederschneider
+ongame_creatures_ger.sal.txt|26|Schuster
+ongame_creatures_ger.sal.txt|27|[ Schuster
+ongame_creatures_ger.sal.txt|28|Holzfäller
+ongame_creatures_ger.sal.txt|29|[ Holzfäller
+ongame_creatures_ger.sal.txt|30|Werkzeugschreiner
+ongame_creatures_ger.sal.txt|31|[ Werkzeugschreiner
+ongame_creatures_ger.sal.txt|32|Tischler
+ongame_creatures_ger.sal.txt|33|[ Tischler
+ongame_creatures_ger.sal.txt|34|Lehmsammler
+ongame_creatures_ger.sal.txt|35|[ Lehmsammler
+ongame_creatures_ger.sal.txt|36|Steinmetz
+ongame_creatures_ger.sal.txt|37|[ Steinmetz
+ongame_creatures_ger.sal.txt|38|Töpfer
+ongame_creatures_ger.sal.txt|39|[ Töpfer
+ongame_creatures_ger.sal.txt|40|Werkzeugschmied
+ongame_creatures_ger.sal.txt|41|[ Werkzeugschmied
+ongame_creatures_ger.sal.txt|42|Eisenschürfer
+ongame_creatures_ger.sal.txt|43|[ Eisenschürfer
+ongame_creatures_ger.sal.txt|44|Eisenschmelzer
+ongame_creatures_ger.sal.txt|45|[ Eisenschmelzer
+ongame_creatures_ger.sal.txt|46|Goldsucher
+ongame_creatures_ger.sal.txt|47|[ Goldsucher
+ongame_creatures_ger.sal.txt|48|Goldschmied
+ongame_creatures_ger.sal.txt|49|[ Goldschmied
+ongame_creatures_ger.sal.txt|50|Bogenmacher
+ongame_creatures_ger.sal.txt|51|[ Bogenmacher
+ongame_creatures_ger.sal.txt|52|Rüstungsschmied
+ongame_creatures_ger.sal.txt|53|[ Rüstungsschmied
+ongame_creatures_ger.sal.txt|54|Waffenschmied
+ongame_creatures_ger.sal.txt|55|[ Waffenschmied
+ongame_creatures_ger.sal.txt|56|Speermacher
+ongame_creatures_ger.sal.txt|57|[ Speermacher
+ongame_creatures_ger.sal.txt|58|Träger
+ongame_creatures_ger.sal.txt|59|[ Träger
+ongame_creatures_ger.sal.txt|60|Bauarbeiter
+ongame_creatures_ger.sal.txt|61|[ Bauarbeiter
+ongame_creatures_ger.sal.txt|62|Händler
+ongame_creatures_ger.sal.txt|63|Kundschafter
+ongame_creatures_ger.sal.txt|64|Schwertkämpfer I
+ongame_creatures_ger.sal.txt|65|Schwertkämpfer II
+ongame_creatures_ger.sal.txt|66|Schwertkämpfer III
+ongame_creatures_ger.sal.txt|67|Speerträger I
+ongame_creatures_ger.sal.txt|68|Speerträger II
+ongame_creatures_ger.sal.txt|69|Speerträger III
+ongame_creatures_ger.sal.txt|70|Bogenschütze I
+ongame_creatures_ger.sal.txt|71|Bogenschütze II
+ongame_creatures_ger.sal.txt|72|Bogenschütze III
+ongame_creatures_ger.sal.txt|73|Frau
+ongame_creatures_ger.sal.txt|74|Mädchen
+ongame_creatures_ger.sal.txt|75|Junge
+ongame_creatures_ger.sal.txt|76|Baby (Mädchen)
+ongame_creatures_ger.sal.txt|77|Baby (Junge)
+ongame_creatures_ger.sal.txt|78|Schmetterling
+ongame_creatures_ger.sal.txt|79|Moskito
+ongame_creatures_ger.sal.txt|80|Kaninchen
+ongame_creatures_ger.sal.txt|81|Muli
+ongame_creatures_ger.sal.txt|82|Fisch
+ongame_creatures_ger.sal.txt|83|Schaf
+ongame_creatures_ger.sal.txt|84|Wildschwein
+ongame_creatures_ger.sal.txt|85|Bär
+ongame_creatures_ger.sal.txt|86|Bison
+ongame_goods_ger.sal.txt|0|Stein
+ongame_goods_ger.sal.txt|1|Stein
+ongame_goods_ger.sal.txt|2|einen Stein
+ongame_goods_ger.sal.txt|3|keine Steine
+ongame_goods_ger.sal.txt|4|Holz
+ongame_goods_ger.sal.txt|5|Holz
+ongame_goods_ger.sal.txt|6|Holz
+ongame_goods_ger.sal.txt|7|kein Holz
+ongame_goods_ger.sal.txt|8|Nahrung
+ongame_goods_ger.sal.txt|9|Nahrung
+ongame_goods_ger.sal.txt|10|Nahrung
+ongame_goods_ger.sal.txt|11|keine Nahrung
+ongame_goods_ger.sal.txt|12|Lehm
+ongame_goods_ger.sal.txt|13|Lehmklumpen
+ongame_goods_ger.sal.txt|14|Lehm
+ongame_goods_ger.sal.txt|15|keinen Lehm
+ongame_goods_ger.sal.txt|16|Leder
+ongame_goods_ger.sal.txt|17|Leder
+ongame_goods_ger.sal.txt|18|ein Lederstück
+ongame_goods_ger.sal.txt|19|kein Leder
+ongame_goods_ger.sal.txt|20|Kadaver
+ongame_goods_ger.sal.txt|21|Kadaver
+ongame_goods_ger.sal.txt|22|einen Kadaver
+ongame_goods_ger.sal.txt|23|keinen Kadaver
+ongame_goods_ger.sal.txt|24|Weizen
+ongame_goods_ger.sal.txt|25|Weizen
+ongame_goods_ger.sal.txt|26|Weizen
+ongame_goods_ger.sal.txt|27|keinen Weizen
+ongame_goods_ger.sal.txt|28|Mehl
+ongame_goods_ger.sal.txt|29|Mehl
+ongame_goods_ger.sal.txt|30|Mehl
+ongame_goods_ger.sal.txt|31|kein Mehl
+ongame_goods_ger.sal.txt|32|Wasser
+ongame_goods_ger.sal.txt|33|Wasser
+ongame_goods_ger.sal.txt|34|Wasser
+ongame_goods_ger.sal.txt|35|kein Wasser
+ongame_goods_ger.sal.txt|36|Wolle
+ongame_goods_ger.sal.txt|37|Wolle
+ongame_goods_ger.sal.txt|38|Wolle
+ongame_goods_ger.sal.txt|39|keine Wolle
+ongame_goods_ger.sal.txt|40|Holzwerkzeug
+ongame_goods_ger.sal.txt|41|Holzwerkzeug
+ongame_goods_ger.sal.txt|42|ein Holzwerkzeug
+ongame_goods_ger.sal.txt|43|kein Holzwerkzeug
+ongame_goods_ger.sal.txt|44|Eisenwerkzeug
+ongame_goods_ger.sal.txt|45|Eisenwerkzeug
+ongame_goods_ger.sal.txt|46|ein Eisenwerkeug
+ongame_goods_ger.sal.txt|47|kein Eisenwerkzeug
+ongame_goods_ger.sal.txt|48|Eisenerz
+ongame_goods_ger.sal.txt|49|Eisenerz
+ongame_goods_ger.sal.txt|50|ein Eisenerz
+ongame_goods_ger.sal.txt|51|kein Eisenerz
+ongame_goods_ger.sal.txt|52|Goldnugget
+ongame_goods_ger.sal.txt|53|Goldnugget
+ongame_goods_ger.sal.txt|54|ein Goldnugget
+ongame_goods_ger.sal.txt|55|keine Goldnuggets
+ongame_goods_ger.sal.txt|56|Lederrüstung
+ongame_goods_ger.sal.txt|57|Lederrüstung
+ongame_goods_ger.sal.txt|58|eine Lederrüstung
+ongame_goods_ger.sal.txt|59|keine Lederrüstung
+ongame_goods_ger.sal.txt|60|Waffenrock
+ongame_goods_ger.sal.txt|61|Waffenrock
+ongame_goods_ger.sal.txt|62|ein Waffenrock
+ongame_goods_ger.sal.txt|63|keinen Waffenrock
+ongame_goods_ger.sal.txt|64|Schuhe
+ongame_goods_ger.sal.txt|65|Schuhe
+ongame_goods_ger.sal.txt|66|Schuhe
+ongame_goods_ger.sal.txt|67|keine Schuhe
+ongame_goods_ger.sal.txt|68|Möbel
+ongame_goods_ger.sal.txt|69|Möbelstück
+ongame_goods_ger.sal.txt|70|Möbel
+ongame_goods_ger.sal.txt|71|keine Möbel
+ongame_goods_ger.sal.txt|72|Geschirr
+ongame_goods_ger.sal.txt|73|Geschirr
+ongame_goods_ger.sal.txt|74|Geschirr
+ongame_goods_ger.sal.txt|75|kein Geschirr
+ongame_goods_ger.sal.txt|76|Eisen
+ongame_goods_ger.sal.txt|77|Eisen
+ongame_goods_ger.sal.txt|78|Eisen
+ongame_goods_ger.sal.txt|79|kein Eisen
+ongame_goods_ger.sal.txt|80|Schwert
+ongame_goods_ger.sal.txt|81|Schwert
+ongame_goods_ger.sal.txt|82|ein Schwert
+ongame_goods_ger.sal.txt|83|kein Schwert
+ongame_goods_ger.sal.txt|84|Speer
+ongame_goods_ger.sal.txt|85|Speer
+ongame_goods_ger.sal.txt|86|einen Speer
+ongame_goods_ger.sal.txt|87|keinen Speer
+ongame_goods_ger.sal.txt|88|Bogen
+ongame_goods_ger.sal.txt|89|Bogen
+ongame_goods_ger.sal.txt|90|einen Bogen
+ongame_goods_ger.sal.txt|91|keinen Bogen
+ongame_goods_ger.sal.txt|92|Eisenrüstung
+ongame_goods_ger.sal.txt|93|Eisenrüstung
+ongame_goods_ger.sal.txt|94|eine Eisenrüstung
+ongame_goods_ger.sal.txt|95|keine Eisenrüstung
+ongame_goods_ger.sal.txt|96|Pilze
+ongame_goods_ger.sal.txt|97|Pilz
+ongame_goods_ger.sal.txt|98|einen Pilz
+ongame_goods_ger.sal.txt|99|keine Pilze
+ongame_goods_ger.sal.txt|100|Öl
+ongame_goods_ger.sal.txt|101|Ölfläschchen
+ongame_goods_ger.sal.txt|102|ein Ölfläschchen
+ongame_goods_ger.sal.txt|103|kein Öl
+ongame_goods_ger.sal.txt|104|Gold
+ongame_goods_ger.sal.txt|105|Gold
+ongame_goods_ger.sal.txt|106|Gold
+ongame_goods_ger.sal.txt|107|kein Gold
+ongame_goods_ger.sal.txt|108|Bier
+ongame_goods_ger.sal.txt|109|Bier
+ongame_goods_ger.sal.txt|110|Bier
+ongame_goods_ger.sal.txt|111|kein Bier
+ongame_houses_ger.sal.txt|0|Wohnzelt
+ongame_houses_ger.sal.txt|1|ein Wohnzelt
+ongame_houses_ger.sal.txt|2|Zweifamilienhaus
+ongame_houses_ger.sal.txt|3|ein Zweifamilienhaus
+ongame_houses_ger.sal.txt|4|Dreifamilienhaus
+ongame_houses_ger.sal.txt|5|ein Dreifamilienhaus
+ongame_houses_ger.sal.txt|6|Holzfällerzelt
+ongame_houses_ger.sal.txt|7|ein Holzfällerzelt
+ongame_houses_ger.sal.txt|8|Jägerzelt
+ongame_houses_ger.sal.txt|9|ein Jägerzelt
+ongame_houses_ger.sal.txt|10|Steinmetzzelt
+ongame_houses_ger.sal.txt|11|ein Steinmetzzelt
+ongame_houses_ger.sal.txt|12|Fischerzelt
+ongame_houses_ger.sal.txt|13|ein Fischerzelt
+ongame_houses_ger.sal.txt|14|Werkzeugschreinerei
+ongame_houses_ger.sal.txt|15|eine Werkzeugschreinerei
+ongame_houses_ger.sal.txt|16|Bauernhof
+ongame_houses_ger.sal.txt|17|einen Bauernhof
+ongame_houses_ger.sal.txt|18|Lehmarbeiterzelt
+ongame_houses_ger.sal.txt|19|ein Lehmarbeiterzelt
+ongame_houses_ger.sal.txt|20|Schäferhütte
+ongame_houses_ger.sal.txt|21|eine Schäferhütte
+ongame_houses_ger.sal.txt|22|Obstfarm
+ongame_houses_ger.sal.txt|23|eine Obstfarm
+ongame_houses_ger.sal.txt|24|Töpferei
+ongame_houses_ger.sal.txt|25|eine Töpferei
+ongame_houses_ger.sal.txt|26|Mühle
+ongame_houses_ger.sal.txt|27|eine Mühle
+ongame_houses_ger.sal.txt|28|Bäckerei
+ongame_houses_ger.sal.txt|29|eine Bäckerei
+ongame_houses_ger.sal.txt|30|Brunnen
+ongame_houses_ger.sal.txt|31|einen Brunnen
+ongame_houses_ger.sal.txt|32|Pilzsammlerhütte
+ongame_houses_ger.sal.txt|33|eine Pilzsammlerhütte
+ongame_houses_ger.sal.txt|34|Brauerei
+ongame_houses_ger.sal.txt|35|eine Brauerei
+ongame_houses_ger.sal.txt|36|Werkzeugschmiede
+ongame_houses_ger.sal.txt|37|eine Werkzeugschmiede
+ongame_houses_ger.sal.txt|38|Eisenschmelze
+ongame_houses_ger.sal.txt|39|eine Eisenschmelze
+ongame_houses_ger.sal.txt|40|Eisenmine
+ongame_houses_ger.sal.txt|41|eine Eisenmine
+ongame_houses_ger.sal.txt|42|Goldschmiede
+ongame_houses_ger.sal.txt|43|eine Goldschmiede
+ongame_houses_ger.sal.txt|44|Goldmine
+ongame_houses_ger.sal.txt|45|eine Goldmine
+ongame_houses_ger.sal.txt|46|Webstube
+ongame_houses_ger.sal.txt|47|eine Webstube
+ongame_houses_ger.sal.txt|48|Schusterei
+ongame_houses_ger.sal.txt|49|eine Schusterei
+ongame_houses_ger.sal.txt|50|Lederschneiderei
+ongame_houses_ger.sal.txt|51|eine Lederschneiderei
+ongame_houses_ger.sal.txt|52|*alt Schneiderei
+ongame_houses_ger.sal.txt|53|*alt eine Schneiderei
+ongame_houses_ger.sal.txt|54|Möbelwerkstatt
+ongame_houses_ger.sal.txt|55|eine Möbelwerkstatt
+ongame_houses_ger.sal.txt|56|Bogenschnitzerei
+ongame_houses_ger.sal.txt|57|eine Bogenschnitzerei
+ongame_houses_ger.sal.txt|58|Speermacherei
+ongame_houses_ger.sal.txt|59|eine Speermacherei
+ongame_houses_ger.sal.txt|60|Schwertschmiede
+ongame_houses_ger.sal.txt|61|eine Schwertschmiede
+ongame_houses_ger.sal.txt|62|Rüstungsschmiede
+ongame_houses_ger.sal.txt|63|eine Rüstungsschmiede
+ongame_houses_ger.sal.txt|64|Kaserne
+ongame_houses_ger.sal.txt|65|eine Kaserne
+ongame_houses_ger.sal.txt|66|Tempel
+ongame_houses_ger.sal.txt|67|einen Tempel
+ongame_houses_ger.sal.txt|68|Verteidigungsturm
+ongame_houses_ger.sal.txt|69|einen Verteidigungsturm
+ongame_houses_ger.sal.txt|70|*alt Händler
+ongame_houses_ger.sal.txt|71|*alt ein Händler
+ongame_houses_ger.sal.txt|72|Schule
+ongame_houses_ger.sal.txt|73|eine Schule
+ongame_houses_ger.sal.txt|74|Vorratszelt
+ongame_houses_ger.sal.txt|75|ein Vorratszelt
+ongame_houses_ger.sal.txt|76|Lagerhaus
+ongame_houses_ger.sal.txt|77|ein Lagerhaus
+ongame_houses_ger.sal.txt|78|Hauptlager
+ongame_houses_ger.sal.txt|79|ein Hauptlager
+ongame_houses_ger.sal.txt|80|Hauptlager
+ongame_houses_ger.sal.txt|81|ein Hauptlager
+ongame_houses_ger.sal.txt|82|Lager
+ongame_houses_ger.sal.txt|83|einLager
+ongame_houses_ger.sal.txt|84|Wohniglu
+ongame_houses_ger.sal.txt|85|ein Wohniglu
+ongame_houses_ger.sal.txt|86|Fischeriglu
+ongame_houses_ger.sal.txt|87|ein Fischeriglu
+ongame_houses_ger.sal.txt|88|Jägeriglu
+ongame_houses_ger.sal.txt|89|ein Jägeriglu
+ongame_houses_ger.sal.txt|90|Eistempel
+ongame_houses_ger.sal.txt|91|ein Eistempel
+ongame_houses_ger.sal.txt|92|Eisfestung
+ongame_houses_ger.sal.txt|93|eine Eisfestung
+ongame_houses_ger.sal.txt|94|Wigwam
+ongame_houses_ger.sal.txt|95|ein Wigwam
+ongame_houses_ger.sal.txt|96|Vorratszelt
+ongame_houses_ger.sal.txt|97|ein Vorratszelt
+ongame_houses_ger.sal.txt|98|Holzfällerzelt
+ongame_houses_ger.sal.txt|99|ein Holzfällerzelt
+ongame_houses_ger.sal.txt|100|Sammlerzelt
+ongame_houses_ger.sal.txt|101|ein Sammlerzelt
+ongame_houses_ger.sal.txt|102|Fischerzelt
+ongame_houses_ger.sal.txt|103|ein Fischerzelt
+ongame_houses_ger.sal.txt|104|Jägerzelt
+ongame_houses_ger.sal.txt|105|ein Jägerzelt
+ongame_houses_ger.sal.txt|106|Kriegszelt
+ongame_houses_ger.sal.txt|107|ein Kriegszelt
+ongame_houses_ger.sal.txt|108|Donnerturm
+ongame_houses_ger.sal.txt|109|ein Donnerturm
+ongame_houses_ger.sal.txt|110|Ahnenstätte (Tempel)
+ongame_houses_ger.sal.txt|111|eine Ahnenstätte (Tempel)
+ongame_houses_ger.sal.txt|112|Wohnhaus
+ongame_houses_ger.sal.txt|113|ein Wohnhaus
+ongame_houses_ger.sal.txt|114|Bauernhaus
+ongame_houses_ger.sal.txt|115|ein Bauernhaus
+ongame_houses_ger.sal.txt|116|Holzfällergebäude
+ongame_houses_ger.sal.txt|117|ein Holzfällergebäude
+ongame_houses_ger.sal.txt|118|Lagerstätte
+ongame_houses_ger.sal.txt|119|eine Lagerstätte
+ongame_houses_ger.sal.txt|120|Fischerei
+ongame_houses_ger.sal.txt|121|eine Fischerei
+ongame_houses_ger.sal.txt|122|Jägerstätte
+ongame_houses_ger.sal.txt|123|eine Jägerstätte
+ongame_houses_ger.sal.txt|124|Tempel
+ongame_houses_ger.sal.txt|125|ein Tempel
+ongame_houses_ger.sal.txt|126|Kriegerlager
+ongame_houses_ger.sal.txt|127|eine Kriegerlager
+ongame_houses_ger.sal.txt|128|Kriegsturm
+ongame_houses_ger.sal.txt|129|ein Kriegsturm
+ongame_houses_ger.sal.txt|130|Goldschmied
+ongame_houses_ger.sal.txt|131|ein Goldschmied
+ongame_houses_ger.sal.txt|132|Goldmine
+ongame_houses_ger.sal.txt|133|eine Goldmine
+ongame_misc_2_ger.sal.txt|0|%s möchte %s heiraten
+ongame_misc_2_ger.sal.txt|1|%s hat einen neuen Beruf (%s) erfunden
+ongame_misc_2_ger.sal.txt|2|%s hat einen neuen Beruf (%s) in der Schule gelernt
+ongame_misc_2_ger.sal.txt|3|%s, von Beruf %s, ist gestorben
+ongame_misc_2_ger.sal.txt|4|Eine Hungersnot bahnt sich an - behalte deine Nahrungsproduktion im Auge
+ongame_misc_2_ger.sal.txt|5|Macht Ausbildung zum %s (%d%% Lernerfolg)
+ongame_misc_2_ger.sal.txt|6|Verfügbar: 
+ongame_misc_2_ger.sal.txt|7|Keine Punkte zu vergeben
+ongame_misc_2_ger.sal.txt|8|Ersten Handelposten anzeigen
+ongame_misc_2_ger.sal.txt|9|Zweiten Handelposten anzeigen
+ongame_misc_2_ger.sal.txt|10|Händler
+ongame_misc_2_ger.sal.txt|11|Baustelle
+ongame_misc_2_ger.sal.txt|12|Onlinehilfe
+ongame_misc_2_ger.sal.txt|13|Angebot
+ongame_misc_2_ger.sal.txt|14|Wunsch
+ongame_misc_2_ger.sal.txt|15|Musik Einstellungen
+ongame_misc_2_ger.sal.txt|16|Spielstände
+ongame_misc_2_ger.sal.txt|17|Musiken
+ongame_misc_2_ger.sal.txt|18|Einstellungen
+ongame_misc_2_ger.sal.txt|19|Musikoptionen
+ongame_misc_2_ger.sal.txt|20|Automatisches Speichern
+ongame_misc_2_ger.sal.txt|21|jede Minute
+ongame_misc_2_ger.sal.txt|22|alle 5 Minuten
+ongame_misc_2_ger.sal.txt|23|alle 15 Minuten
+ongame_misc_2_ger.sal.txt|24|aus
+ongame_misc_2_ger.sal.txt|25|Scrollmodus
+ongame_misc_2_ger.sal.txt|26|mittlere Maus
+ongame_misc_2_ger.sal.txt|27|Bildschirmgrenze
+ongame_misc_2_ger.sal.txt|28|beides
+ongame_misc_2_ger.sal.txt|29|Scrollgeschwindigkeit
+ongame_misc_2_ger.sal.txt|30|langsam
+ongame_misc_2_ger.sal.txt|31|mittel
+ongame_misc_2_ger.sal.txt|32|schnell
+ongame_misc_2_ger.sal.txt|33|Grafikdetails
+ongame_misc_2_ger.sal.txt|34|wenig (schneller)
+ongame_misc_2_ger.sal.txt|35|mittel
+ongame_misc_2_ger.sal.txt|36|viel
+ongame_misc_2_ger.sal.txt|37|Bildschirmhelligkeit
+ongame_misc_2_ger.sal.txt|38|dunkeler
+ongame_misc_2_ger.sal.txt|39|heller
+ongame_misc_2_ger.sal.txt|40|Maus
+ongame_misc_2_ger.sal.txt|41|Software
+ongame_misc_2_ger.sal.txt|42|Hardware
+ongame_misc_2_ger.sal.txt|43|Mausrad
+ongame_misc_2_ger.sal.txt|44|Perspektive wechseln
+ongame_misc_2_ger.sal.txt|45|Zoomen
+ongame_misc_2_ger.sal.txt|46|unbelegt
+ongame_misc_2_ger.sal.txt|47|Tonqualität
+ongame_misc_2_ger.sal.txt|48|niedrig
+ongame_misc_2_ger.sal.txt|49|mittel
+ongame_misc_2_ger.sal.txt|50|hoch
+ongame_misc_2_ger.sal.txt|51|Lautstärke Geräusche
+ongame_misc_2_ger.sal.txt|52|leiser
+ongame_misc_2_ger.sal.txt|53|lauter
+ongame_misc_2_ger.sal.txt|54|Lautstärke Musik
+ongame_misc_2_ger.sal.txt|55|leiser
+ongame_misc_2_ger.sal.txt|56|lauter
+ongame_misc_2_ger.sal.txt|57|Karte als PCX speichern
+ongame_misc_2_ger.sal.txt|58|Karte in 25% der Originalgröße als PCX speichern
+ongame_misc_2_ger.sal.txt|59|Karte in 100% der Originalgröße als PCX speichern
+ongame_misc_2_ger.sal.txt|60|Lade Spielstand %d
+ongame_misc_2_ger.sal.txt|61|Speichere Spielstand %d
+ongame_misc_2_ger.sal.txt|62|Starte Musiksammlung %d
+ongame_misc_2_ger.sal.txt|63|Bauen-Fenster öffnen
+ongame_misc_2_ger.sal.txt|64|Weiteres Beobachtungs-Fenster öffnen
+ongame_misc_2_ger.sal.txt|65|Partner
+ongame_misc_2_ger.sal.txt|66|MISSIONSZIELE
+ongame_misc_2_ger.sal.txt|67|BRIEFING
+ongame_misc_2_ger.sal.txt|68|Missionsziele
+ongame_misc_2_ger.sal.txt|69|Letztes Briefing
+ongame_misc_2_ger.sal.txt|70|%s ist gestorben!
+ongame_misc_2_ger.sal.txt|71|Möchten Sie das Spiel verlassen?
+ongame_misc_2_ger.sal.txt|72|Ja, leider
+ongame_misc_2_ger.sal.txt|73|Ja, ich muß auf Toilette
+ongame_misc_2_ger.sal.txt|74|Ja, es sind schon 3 Tage um...
+ongame_misc_2_ger.sal.txt|75|Ja, muß auch mal schlafen
+ongame_misc_2_ger.sal.txt|76|Ja, muß zur Arbeit
+ongame_misc_2_ger.sal.txt|77|Ja, ist spät geworden
+ongame_misc_2_ger.sal.txt|78|Ja, aber ich spiele gleich weiter
+ongame_misc_2_ger.sal.txt|79|Ja, hab' Hunger
+ongame_misc_2_ger.sal.txt|80|Ja, aber nur ungern
+ongame_misc_2_ger.sal.txt|81|Ja, Telefon klingelt
+ongame_misc_2_ger.sal.txt|82|Ja, mein Chef kommt grad!
+ongame_misc_2_ger.sal.txt|83|Ja, meine Frau quängelt
+ongame_misc_2_ger.sal.txt|84|Ja, mein Mann quängelt
+ongame_misc_2_ger.sal.txt|85|Ja, muß noch einkaufen
+ongame_misc_2_ger.sal.txt|86|Ja, Pizza ist fertig
+ongame_misc_2_ger.sal.txt|87|Ja, mein Hund muß Gassi
+ongame_misc_2_ger.sal.txt|88|Ja, ich höre Einbrecher
+ongame_misc_2_ger.sal.txt|89|Ja, mein PC braucht ne Pause
+ongame_misc_2_ger.sal.txt|90|Ja, aber nur kurz
+ongame_misc_2_ger.sal.txt|91|Ja, mein PC qualmt schon
+ongame_misc_2_ger.sal.txt|92|Nein, bloß nicht!
+ongame_misc_2_ger.sal.txt|93|Möchten Sie das Haus abreißen?
+ongame_misc_2_ger.sal.txt|94|Ja!
+ongame_misc_2_ger.sal.txt|95|Nein!
+ongame_misc_2_ger.sal.txt|96|Möchten Sie den Wegweiser abreißen?
+ongame_misc_2_ger.sal.txt|97|Ja!
+ongame_misc_2_ger.sal.txt|98|Nein!
+ongame_misc_2_ger.sal.txt|99|Zurück zum Menü...
+ongame_misc_2_ger.sal.txt|100|MISSION ERFÜLLT!
+ongame_misc_2_ger.sal.txt|101|MISSION VERLOREN!
+ongame_misc_ger.sal.txt|0|Bewegen
+ongame_misc_ger.sal.txt|1|Verschiebt das Fenster
+ongame_misc_ger.sal.txt|2|Schließt das Fenster
+ongame_misc_ger.sal.txt|3|Minimiert das Fenster
+ongame_misc_ger.sal.txt|4|Abbrechen
+ongame_misc_ger.sal.txt|5|Viel Spaß bei CULTURES!
+ongame_misc_ger.sal.txt|6|Version:
+ongame_misc_ger.sal.txt|7|Hilfe
+ongame_misc_ger.sal.txt|8|Übersichtskarte
+ongame_misc_ger.sal.txt|9|Technologiebaum
+ongame_misc_ger.sal.txt|10|Figurenliste
+ongame_misc_ger.sal.txt|11|Statistiken
+ongame_misc_ger.sal.txt|12|Diplomatie
+ongame_misc_ger.sal.txt|13|Missionsbriefing
+ongame_misc_ger.sal.txt|14|Hilfe
+ongame_misc_ger.sal.txt|15|Hauptmenü
+ongame_misc_ger.sal.txt|16|ESC Taste
+ongame_misc_ger.sal.txt|17|ENTER Taste
+ongame_misc_ger.sal.txt|18|F1 Taste
+ongame_misc_ger.sal.txt|19|F2 Taste
+ongame_misc_ger.sal.txt|20|F3 Taste
+ongame_misc_ger.sal.txt|21|F4 Taste
+ongame_misc_ger.sal.txt|22|F5 Taste
+ongame_misc_ger.sal.txt|23|F6 Taste
+ongame_misc_ger.sal.txt|24|F7 Taste
+ongame_misc_ger.sal.txt|25|F8 Taste
+ongame_misc_ger.sal.txt|26|F9 Taste
+ongame_misc_ger.sal.txt|27|F10 Taste
+ongame_misc_ger.sal.txt|28|F11 Taste
+ongame_misc_ger.sal.txt|29|F12 Taste
+ongame_misc_ger.sal.txt|30|Nummernblock Taste 1
+ongame_misc_ger.sal.txt|31|Nummernblock Taste 2
+ongame_misc_ger.sal.txt|32|Nummernblock Taste 3
+ongame_misc_ger.sal.txt|33|Nummernblock Taste 4
+ongame_misc_ger.sal.txt|34|Nummernblock Taste 5
+ongame_misc_ger.sal.txt|35|Nummernblock Taste 6
+ongame_misc_ger.sal.txt|36|Nummernblock Taste 7
+ongame_misc_ger.sal.txt|37|Nummernblock Taste 8
+ongame_misc_ger.sal.txt|38|Nummernblock Taste 9
+ongame_misc_ger.sal.txt|39|Nummernblock Taste 0
+ongame_misc_ger.sal.txt|40|Richtungstaste Hoch
+ongame_misc_ger.sal.txt|41|Richtungstaste Runter
+ongame_misc_ger.sal.txt|42|Richtungstaste Links
+ongame_misc_ger.sal.txt|43|Richtungstaste Rechts
+ongame_misc_ger.sal.txt|44|(unbekannte Taste)
+ongame_misc_ger.sal.txt|45|HAUPTMENÜ
+ongame_misc_ger.sal.txt|46|SPIELSTAND LADEN
+ongame_misc_ger.sal.txt|47|SPIELSTAND SPEICHERN
+ongame_misc_ger.sal.txt|48|EINSTELLUNGEN
+ongame_misc_ger.sal.txt|49|BILDSCHIRMAUFLÖSUNGEN
+ongame_misc_ger.sal.txt|50|CD-SPIELER
+ongame_misc_ger.sal.txt|51|DEBUG
+ongame_misc_ger.sal.txt|52|Zurück zum Hauptmenü
+ongame_misc_ger.sal.txt|53|Laden
+ongame_misc_ger.sal.txt|54|Speichern
+ongame_misc_ger.sal.txt|55|Beobachtungskamera
+ongame_misc_ger.sal.txt|56|Übersichtskarte
+ongame_misc_ger.sal.txt|57|Baue Haus
+ongame_misc_ger.sal.txt|58|Übersicht Figuren
+ongame_misc_ger.sal.txt|59|Übersicht Gebäude
+ongame_misc_ger.sal.txt|60|Statistiken
+ongame_misc_ger.sal.txt|61|Technologische Entwicklung
+ongame_misc_ger.sal.txt|62|Hilfe
+ongame_misc_ger.sal.txt|63|Bildschirmauflösung
+ongame_misc_ger.sal.txt|64|CD-Spieler
+ongame_misc_ger.sal.txt|65|Einstellungen
+ongame_misc_ger.sal.txt|66|Spielstand 1
+ongame_misc_ger.sal.txt|67|Spielstand 2
+ongame_misc_ger.sal.txt|68|Spielstand 3
+ongame_misc_ger.sal.txt|69|Spielstand 4
+ongame_misc_ger.sal.txt|70|Spielstand 5
+ongame_misc_ger.sal.txt|71|Spielstand 6
+ongame_misc_ger.sal.txt|72|Spielstand 7
+ongame_misc_ger.sal.txt|73|Spielstand 8
+ongame_misc_ger.sal.txt|74|Spielstand 9
+ongame_misc_ger.sal.txt|75|Spielstand 10
+ongame_misc_ger.sal.txt|76|Speichere Spielstand 1
+ongame_misc_ger.sal.txt|77|Speichere Spielstand 2
+ongame_misc_ger.sal.txt|78|Speichere Spielstand 3
+ongame_misc_ger.sal.txt|79|Speichere Spielstand 4
+ongame_misc_ger.sal.txt|80|Speichere Spielstand 5
+ongame_misc_ger.sal.txt|81|Speichere Spielstand 6
+ongame_misc_ger.sal.txt|82|Speichere Spielstand 7
+ongame_misc_ger.sal.txt|83|Speichere Spielstand 8
+ongame_misc_ger.sal.txt|84|Speichere Spielstand 9
+ongame_misc_ger.sal.txt|85|Speichere Spielstand 10
+ongame_misc_ger.sal.txt|86|Automatisches Speichern jede Minute
+ongame_misc_ger.sal.txt|87|Automatisches Speichern alle 5 Minuten
+ongame_misc_ger.sal.txt|88|Automatisches Speichern alle 15 Minuten
+ongame_misc_ger.sal.txt|89|Automatisches Speichern ausschalten
+ongame_misc_ger.sal.txt|90|Scrolle, wenn dritte Maustaste gedrückt
+ongame_misc_ger.sal.txt|91|Scrolle, wenn Maus am Bildschirmrand
+ongame_misc_ger.sal.txt|92|Scrolle, wenn dritte Maustaste gedrückt oder am Bildschirmrand
+ongame_misc_ger.sal.txt|93|Benutze Software-Mauszeiger
+ongame_misc_ger.sal.txt|94|Benutze Hardware-Mauszeiger
+ongame_misc_ger.sal.txt|95|Niedrige Detailstufe (schneller)
+ongame_misc_ger.sal.txt|96|Mittlere Detailstufe
+ongame_misc_ger.sal.txt|97|Höchste Detailstufe (langsamer)
+ongame_misc_ger.sal.txt|98|Bildschirm-Helligkeit erhöhen
+ongame_misc_ger.sal.txt|99|Bildschirm-Helligkeit erniedrigen
+ongame_misc_ger.sal.txt|100|%d * %d Pixel - %d Bit Farbtiefe
+ongame_misc_ger.sal.txt|101|Stoppe CD-Spieler
+ongame_misc_ger.sal.txt|102|Starte Track %d
+ongame_misc_ger.sal.txt|103|FERTIG
+ongame_misc_ger.sal.txt|104|Das ist %s\r\n
+ongame_misc_ger.sal.txt|105|· %s ist %d Jahre alt\r\n
+ongame_misc_ger.sal.txt|106|Er
+ongame_misc_ger.sal.txt|107|Sie
+ongame_misc_ger.sal.txt|108|* Er arbeitet als %s\r\n
+ongame_misc_ger.sal.txt|109|* Möchte %s werden\r\n
+ongame_misc_ger.sal.txt|110|* Hat gerade nichts zu tun\r\n
+ongame_misc_ger.sal.txt|111|* Hat kein Zuhause\r\n
+ongame_misc_ger.sal.txt|112|* Geht einer Arbeit nach\r\n
+ongame_misc_ger.sal.txt|113|* Macht Ausbildung zum %s\r\n
+ongame_misc_ger.sal.txt|114|    (%d%% Lernerfolg)\r\n
+ongame_misc_ger.sal.txt|115|Meisterbriefe:\r\n
+ongame_misc_ger.sal.txt|116|  * %s\r\n
+ongame_misc_ger.sal.txt|117|  Keine\r\n
+ongame_misc_ger.sal.txt|118|* Ist mit %s verheiratet\r\n
+ongame_misc_ger.sal.txt|119|* Möchte %s heiraten\r\n
+ongame_misc_ger.sal.txt|120|* Wünscht sich ein Kind\r\n
+ongame_misc_ger.sal.txt|121|* Hat kürzlich %d mal gegessen\r\n
+ongame_misc_ger.sal.txt|122|* Hat kürzlich %d mal gearbeitet\r\n
+ongame_misc_ger.sal.txt|123|* Hat kürzlich %d mal gegessen\r\n
+ongame_misc_ger.sal.txt|124|* Bekam bereits %d Kinder\r\n
+ongame_misc_ger.sal.txt|125|Arbeit
+ongame_misc_ger.sal.txt|126|Mer.
+ongame_misc_ger.sal.txt|127|Abbrechen
+ongame_misc_ger.sal.txt|128|Arbeitsplatz zuweisen
+ongame_misc_ger.sal.txt|129|Arbeitsplatz wegnehmen
+ongame_misc_ger.sal.txt|130|Arbeitsplatz anzeigen
+ongame_misc_ger.sal.txt|131|Arbeitsbereich anzeigen
+ongame_misc_ger.sal.txt|132|Arbeitsbereich Mittelpunkt setzen
+ongame_misc_ger.sal.txt|133|Beruf wechseln
+ongame_misc_ger.sal.txt|134|Baue Haus
+ongame_misc_ger.sal.txt|135|Wohnung zuweisen
+ongame_misc_ger.sal.txt|136|Wohnung wegnehmen
+ongame_misc_ger.sal.txt|137|Heirate
+ongame_misc_ger.sal.txt|138|Ach nö
+ongame_misc_ger.sal.txt|139|Ein Junge wäre nett!
+ongame_misc_ger.sal.txt|140|Vielleicht ein Mädchen?!
+ongame_misc_ger.sal.txt|141|Besser nicht
+ongame_misc_ger.sal.txt|142|Allgemein
+ongame_misc_ger.sal.txt|143|%d%% fertig
+ongame_misc_ger.sal.txt|144|%s ist hungrig
+ongame_misc_ger.sal.txt|145|%s hat kein Zuhause
+ongame_misc_ger.sal.txt|146|%s hat sich verlaufen
+ongame_misc_ger.sal.txt|147|%s braucht jemanden zum reden
+ongame_misc_ger.sal.txt|148|%s möchte beten
+ongame_misc_ger.sal.txt|149|%s möchte heiraten
+ongame_misc_ger.sal.txt|150|%s wünscht sich ein Kind
+ongame_misc_ger.sal.txt|151|%s ist nun erwachsen
+ongame_misc_ger.sal.txt|152|%s möchte in Wohnung einziehen
+ongame_misc_ger.sal.txt|153|%s hat nichts zu tun
+ongame_misc_ger.sal.txt|154|%s kann eine Ware nicht finden
+ongame_misc_ger.sal.txt|155|%s hat die gewünschte Warenmenge hergestellt
+ongame_misc_ger.sal.txt|156|%s ist sehr erfahren und kann trainiert werden
+ongame_misc_ger.sal.txt|157|%s hat neuen Beruf erfunden
+ongame_misc_ger.sal.txt|158|%s findet keinen Weg nach Hause
+ongame_misc_ger.sal.txt|159|%s hat die Ausbildung in der Schule abgeschlossen
+ongame_misc_ger.sal.txt|160|%s wartet in der Schule
+ongame_misc_ger.sal.txt|161|%s erreicht seinen Arbeitsplatz nicht
+ongame_misc_ger.sal.txt|162|%s hat ein Gebäude verlassen, weil er hungrig ist
+ongame_misc_ger.sal.txt|163|%s besitzt keinen gültigen Handelsvertrag
+ongame_misc_ger.sal.txt|164|%s findet keine Waren, um den Handelsvertrag zu erfüllen
+ongame_misc_ger.sal.txt|165|Ein Haus wurde fertig gestellt
+ongame_misc_ger.sal.txt|166|Dieses Haus steht schon lange leer
+ongame_misc_ger.sal.txt|167|Diesem Haus sind die Rohstoffe ausgegangen
+ongame_misc_ger.sal.txt|168|<point attacked>
+ongame_misc_ger.sal.txt|169|%s ist gestorben
+ongame_misc_ger.sal.txt|170|%s hat seine Einstelllung zu ihrem Volk geändert
+ongame_misc_ger.sal.txt|171|Das Volk von %s hat diese Welt verlassen
+ongame_misc_ger.sal.txt|172|Ein Dorfbewohner ist gestorben
+ongame_misc_ger.sal.txt|173|OK
+ongame_misc_ger.sal.txt|174|Heirate
+ongame_misc_ger.sal.txt|175|Ach nö
+ongame_misc_ger.sal.txt|176|Ein Junge wäre nett!
+ongame_misc_ger.sal.txt|177|Vielleicht ein Mädchen?!
+ongame_misc_ger.sal.txt|178|Besser nicht
+ongame_misc_ger.sal.txt|179|Ja
+ongame_misc_ger.sal.txt|180|Nein
+ongame_misc_ger.sal.txt|181|Leute
+ongame_misc_ger.sal.txt|182|Nachrichten zu den Leuten an/aus
+ongame_misc_ger.sal.txt|183|Arbeit
+ongame_misc_ger.sal.txt|184|Nachrichten zu den Arbeitern an/aus
+ongame_misc_ger.sal.txt|185|Häuser
+ongame_misc_ger.sal.txt|186|Nachrichten zu den Gebäuden an/aus
+ongame_misc_ger.sal.txt|187|STATISTIKEN
+ongame_misc_ger.sal.txt|188|Leute
+ongame_misc_ger.sal.txt|189|Berufe
+ongame_misc_ger.sal.txt|190|Gebäude
+ongame_misc_ger.sal.txt|191|Gebäudeliste
+ongame_misc_ger.sal.txt|192|Waren
+ongame_misc_ger.sal.txt|193|Verschiedenes
+ongame_misc_ger.sal.txt|194|Friedhof
+ongame_misc_ger.sal.txt|195|1Std
+ongame_misc_ger.sal.txt|196|2Std
+ongame_misc_ger.sal.txt|197|5Std
+ongame_misc_ger.sal.txt|198|10Std
+ongame_misc_ger.sal.txt|199|Gesamt
+ongame_misc_ger.sal.txt|200|Männer
+ongame_misc_ger.sal.txt|201|Frauen
+ongame_misc_ger.sal.txt|202|Kinder
+ongame_misc_ger.sal.txt|203|Soldaten
+ongame_misc_ger.sal.txt|204|Schwertkämpfer
+ongame_misc_ger.sal.txt|205|Speerträger
+ongame_misc_ger.sal.txt|206|Bogenschützen
+ongame_misc_ger.sal.txt|207|Gesamt
+ongame_misc_ger.sal.txt|208|Wohnungen
+ongame_misc_ger.sal.txt|209|Arbeitsplätze
+ongame_misc_ger.sal.txt|210|Gesamt
+ongame_misc_ger.sal.txt|211|Hochzeiten
+ongame_misc_ger.sal.txt|212|Geburten
+ongame_misc_ger.sal.txt|213|Todesfälle
+ongame_misc_ger.sal.txt|214|DIPLOMATIE
+ongame_misc_ger.sal.txt|215|Feind
+ongame_misc_ger.sal.txt|216|Neutral
+ongame_misc_ger.sal.txt|217|Freund
+ongame_misc_ger.sal.txt|218|Übersicht
+ongame_misc_ger.sal.txt|219|Tabelle
+ongame_misc_ger.sal.txt|220|Es wurde kein anderer Stamm gesichtet!
+ongame_misc_ger.sal.txt|221|Mein Volk befindet sich mit euch im Krieg! Sollte es einer eurer Leute wagen, sich uns zu nähern, werden wir sofort angreifen!
+ongame_misc_ger.sal.txt|222|Zwischen euch und meinem Volk herrscht Friede, doch haben wir keine Freundschaft geschlossen.
+ongame_misc_ger.sal.txt|223|Friede und Freundschaft verbindet unsere beiden Stämme. Unsere Lagerstätten stehen euren Händlern zum Tausch offen.
+ongame_misc_ger.sal.txt|224|Du bist ihm feindlich gesinnt.
+ongame_misc_ger.sal.txt|225|Du stehst ihm neutral gegenüber.
+ongame_misc_ger.sal.txt|226|Du bist ihm freundlich gesinnt.
+ongame_misc_ger.sal.txt|227|Um den Diplomatiestatus zu ändern, betätige den entsprechenden Button.
+ongame_misc_ger.sal.txt|228|Wenn ihr wollt, dass Friede zwischen unseren Völkern einkehrt, zahlt uns folgenden Tribut:
+ongame_misc_ger.sal.txt|229|Wenn ihr wollt, dass wir mit euch Freundschaft schließen, zahlt uns folgenden Tribut:
+ongame_misc_ger.sal.txt|230|Er wird seine Einstellung wohl nicht mehr ändern.
+ongame_misc_ger.sal.txt|231|Bezahle Tribut
+ongame_misc_ger.sal.txt|232|davon im Lager
+ongame_misc_ger.sal.txt|233|HILFE
+ongame_misc_ger.sal.txt|234|Zum Textanfang
+ongame_misc_ger.sal.txt|235|Rückwärts
+ongame_misc_ger.sal.txt|236|Vorwärts
+ongame_misc_ger.sal.txt|237|Zum Textende
+ongame_misc_ger.sal.txt|238|TECHNOLOGIE
+ongame_misc_ger.sal.txt|239|Bewohner
+ongame_misc_ger.sal.txt|240|Zum Textanfang
+ongame_misc_ger.sal.txt|241|Rückwärts
+ongame_misc_ger.sal.txt|242|Vorwärts
+ongame_misc_ger.sal.txt|243|Zum Textende
+ongame_misc_ger.sal.txt|244|Autoscroll
+ongame_misc_ger.sal.txt|245|Schließe Übersicht
+ongame_misc_ger.sal.txt|246|Leute an/aus
+ongame_misc_ger.sal.txt|247|Soldaten an/aus
+ongame_misc_ger.sal.txt|248|Tiere an/aus
+ongame_misc_ger.sal.txt|249|Gebäude an/aus
+ongame_misc_ger.sal.txt|250|Straßen an/aus
+ongame_misc_ger.sal.txt|251|Wegweiser an/aus
+ongame_misc_ger.sal.txt|252|FIGURENLISTE
+ongame_misc_ger.sal.txt|253|Typ
+ongame_misc_ger.sal.txt|254|Beruf
+ongame_misc_ger.sal.txt|255|Meisterbrief
+ongame_misc_ger.sal.txt|256|Mängel
+ongame_misc_ger.sal.txt|257|Männer an/aus
+ongame_misc_ger.sal.txt|258|Frauen an/aus
+ongame_misc_ger.sal.txt|259|Kinder an/aus
+ongame_misc_ger.sal.txt|260|Soldaten an/aus
+ongame_misc_ger.sal.txt|261|Berufe
+ongame_misc_ger.sal.txt|262|Lösche Berufsfilter
+ongame_misc_ger.sal.txt|263|Meisterbriefe
+ongame_misc_ger.sal.txt|264|Lösche Meisterbrief-Filter
+ongame_misc_ger.sal.txt|265|Alleinstehend an/aus
+ongame_misc_ger.sal.txt|266|Arbeitslos an/aus
+ongame_misc_ger.sal.txt|267|Wohnungslos an/aus
+ongame_misc_ger.sal.txt|268|Hungrig an/aus
+ongame_misc_ger.sal.txt|269|Kinderlos an/aus
+ongame_misc_ger.sal.txt|270|Verfügbare Bonuspunkte an/aus
+ongame_misc_ger.sal.txt|271|Alle Filter zurücksetzen
+ongame_misc_ger.sal.txt|272|Jahre alt
+ongame_misc_ger.sal.txt|273|%d Einwohner in der Liste
+ongame_misc_ger.sal.txt|274|Baue Straße
+ongame_misc_ger.sal.txt|275|Grabe nach Wasser
+ongame_misc_ger.sal.txt|276|Baue Zaun
+ongame_misc_ger.sal.txt|277|Baue Wegweiser
+ongame_misc_ger.sal.txt|278|EIGENE HANDELSANGEBOTE
+ongame_misc_ger.sal.txt|279|Springe zur Figur
+ongame_misc_ger.sal.txt|280|Kleines Beobachtungsfenster
+ongame_misc_ger.sal.txt|281|Figur umbenennen
+ongame_misc_ger.sal.txt|282|Beruf wechseln
+ongame_misc_ger.sal.txt|283|Arbeitsplatz zuweisen
+ongame_misc_ger.sal.txt|284|Arbeitsplatz wegnehmen
+ongame_misc_ger.sal.txt|285|Arbeitsbereich Mittelpunkt setzen
+ongame_misc_ger.sal.txt|286|Arbeitsbereich anzeigen
+ongame_misc_ger.sal.txt|287|Springe zum Arbeitshaus
+ongame_misc_ger.sal.txt|288|Baue ein Haus
+ongame_misc_ger.sal.txt|289|Aggressiv-Modus
+ongame_misc_ger.sal.txt|290|Defensiv-Modus
+ongame_misc_ger.sal.txt|291|Gehe dahin
+ongame_misc_ger.sal.txt|292|Schlaf!
+ongame_misc_ger.sal.txt|293|Iss!
+ongame_misc_ger.sal.txt|294|Stopp!
+ongame_misc_ger.sal.txt|295|Baue einen Wegweiser
+ongame_misc_ger.sal.txt|296|Rode den Wald
+ongame_misc_ger.sal.txt|297|Den Handelsvertrag wechseln
+ongame_misc_ger.sal.txt|298|Ersten Handelsposten zuweisen
+ongame_misc_ger.sal.txt|299|Zweiten Handelsposten zuweisen
+ongame_misc_ger.sal.txt|300|Ersten Handelsposten löschen
+ongame_misc_ger.sal.txt|301|Zweiten Handelsposten löschen
+ongame_misc_ger.sal.txt|302|Eine Wohnung zuweisen
+ongame_misc_ger.sal.txt|303|Die Wohnung wegnehmen
+ongame_misc_ger.sal.txt|304|Springe zur Wohnung
+ongame_misc_ger.sal.txt|305|Springe zum Ehepartner
+ongame_misc_ger.sal.txt|306|Ehepartner suchen
+ongame_misc_ger.sal.txt|307|Dem Kundschafter folgen
+ongame_misc_ger.sal.txt|308|Bekomme einen Jungen
+ongame_misc_ger.sal.txt|309|Bekomme ein Mädchen
+ongame_misc_ger.sal.txt|310|Beobachte Figur
+ongame_misc_ger.sal.txt|311|Verfügbare Bonuspunkte: %d
+ongame_misc_ger.sal.txt|312|Bonus
+ongame_misc_ger.sal.txt|313|Angriffsstärke
+ongame_misc_ger.sal.txt|314|Verteidigungsfähigkeit
+ongame_misc_ger.sal.txt|315|Angriffsradius
+ongame_misc_ger.sal.txt|316|Beobachtungsradius
+ongame_misc_ger.sal.txt|317|Partner
+ongame_misc_ger.sal.txt|318|Wohnung
+ongame_misc_ger.sal.txt|319|Arbeitsplatz
+ongame_misc_ger.sal.txt|320|Springe zum Haus
+ongame_misc_ger.sal.txt|321|Haus abreißen
+ongame_misc_ger.sal.txt|322|Wechsle Verteidigungsmodus
+ongame_misc_ger.sal.txt|323|Handelsangebote
+ongame_misc_ger.sal.txt|324|Verteidigungsmodus aktiviert
+ongame_misc_ger.sal.txt|325|Verteidigungsmodus nicht aktiviert
+ongame_misc_ger.sal.txt|326|Produktion:
+ongame_misc_ger.sal.txt|327|Produktion erhöhen
+ongame_misc_ger.sal.txt|328|Produktion verringern
+ongame_misc_ger.sal.txt|329|Kapazität %d
+ongame_misc_ger.sal.txt|330|Benötigte Waren:
+ongame_misc_ger.sal.txt|331|Handelsangebote
+ongame_misc_ger.sal.txt|332|Lager:
+ongame_misc_ger.sal.txt|333|Kosten:
+ongame_misc_ger.sal.txt|334|fehlt %d (im Lager %d)
+ongame_misc_ger.sal.txt|335|Vorheriger Rekrut/Soldat
+ongame_misc_ger.sal.txt|336|Nächster Rekrut/Soldat
+ongame_misc_ger.sal.txt|337|Bilde Rekruten aus/Rüste Soldat aus
+ongame_misc_ger.sal.txt|338|Zum Zivilisten machen
+ongame_misc_ger.sal.txt|339|Bogenschütze I
+ongame_misc_ger.sal.txt|340|Bogenschütze II
+ongame_misc_ger.sal.txt|341|Bogenschütze III
+ongame_misc_ger.sal.txt|342|Schwertkämpfer I
+ongame_misc_ger.sal.txt|343|Schwertkämpfer II
+ongame_misc_ger.sal.txt|344|Schwertkämpfer III
+ongame_misc_ger.sal.txt|345|Speerträger I
+ongame_misc_ger.sal.txt|346|Speerträger II
+ongame_misc_ger.sal.txt|347|Speerträger III
+ongame_misc_ger.sal.txt|348|Mit Bier ausrüsten
+ongame_misc_ger.sal.txt|349|Kaserne verlassen
+ongame_misc_ger.sal.txt|350|Verringere Mindestbestand
+ongame_misc_ger.sal.txt|351|Erhöhe Mindestbestand
+ongame_misc_ger.sal.txt|352|Verringere Wunschmenge
+ongame_misc_ger.sal.txt|353|Erhöhe Wunschmenge
+ongame_misc_ger.sal.txt|354|Springe zum Wegweiser
+ongame_misc_ger.sal.txt|355|Einflussbereich
+ongame_misc_ger.sal.txt|356|Umbenennen (nicht implementiert)
+ongame_misc_ger.sal.txt|357|Wegweiser entfernen
+ongame_misc_ger.sal.txt|358|Meter
+ongame_misc_ger.sal.txt|359|Name:
+ongame_misc_ger.sal.txt|360|Motivationsfaktoren: 
+ongame_misc_ger.sal.txt|361|Geselligkeit 
+ongame_misc_ger.sal.txt|362|Religion 
+ongame_misc_ger.sal.txt|363|Waren im Umkreis: 
+ongame_misc_ger.sal.txt|364|Springe zur Markierung
+ongame_misc_ger.sal.txt|365|Markierung entfernen
+ongame_misc_ger.sal.txt|366|Straßenbau Markierung
+ongame_misc_ger.sal.txt|367|Zaunbau Markierung
+ongame_misc_ger.sal.txt|368|Wasser Markierung
+ongame_misc_ger.sal.txt|369|Hausbau Markierung
+ongame_misc_ger.sal.txt|370|Schließt das Fenster
+ongame_misc_ger.sal.txt|371|Entfernen
+ongame_misc_ger.sal.txt|372|Laufbereich
+ongame_misc_ger.sal.txt|373|VE
+ongame_misc_ger.sal.txt|374|VC
+ongame_misc_ger.sal.txt|375|Debug
+ongame_misc_ger.sal.txt|376|Leeren
+ongame_misc_ger.sal.txt|377|Füllen
+ongame_misc_ger.sal.txt|378|Stärke
+ongame_misc_ger.sal.txt|379|Ausdauer
+ongame_misc_ger.sal.txt|380|Redekunst
+ongame_misc_ger.sal.txt|381|Frömmigkeit
+ongame_misc_ger.sal.txt|382|Nahrung
+ongame_misc_ger.sal.txt|383|Schlaf
+ongame_misc_ger.sal.txt|384|Unterhaltung
+ongame_misc_ger.sal.txt|385|Religion
+ongame_misc_ger.sal.txt|386|Mann
+ongame_misc_ger.sal.txt|387|Frau
+ongame_misc_ger.sal.txt|388|Kind
+ongame_misc_ger.sal.txt|389|Arbeiter
+ongame_misc_ger.sal.txt|390|Bauarbeiter
+ongame_misc_ger.sal.txt|391|Lehrling
+ongame_misc_ger.sal.txt|392|Träger
+ongame_misc_ger.sal.txt|393|lebt in Wohnung Nummer
+ongame_misc_ger.sal.txt|394|Besucher
+ongame_misc_ger.sal.txt|395|Wähle
+ongame_misc_ger.sal.txt|396|Wähle eine Figur
+ongame_misc_ger.sal.txt|397|Wähle ein Zuhause
+ongame_misc_ger.sal.txt|398|Wähle einen Arbeitsplatz
+ongame_misc_ger.sal.txt|399|Wähle ein Lager
+ongame_misc_ger.sal.txt|400|Wähle ein Haus
+ongame_misc_ger.sal.txt|401|Wähle eine Position
+ongame_misc_ger.sal.txt|402|Wähle eine Postition für das Haus
+ongame_misc_ger.sal.txt|403|Wähle eine Postition für das Landschaftselement
+ongame_misc_ger.sal.txt|404|Wähle eine Postition für den Wegweiser
+ongame_misc_ger.sal.txt|405|Wähle einen Startpunkt für die Straße
+ongame_misc_ger.sal.txt|406|Wähle einen Endpunkt für die Straße
+ongame_misc_ger.sal.txt|407|Wähle einen Startpunkt für den Zaun
+ongame_misc_ger.sal.txt|408|Wähle einen Endpunkt für den Zaun
+ongame_misc_ger.sal.txt|409|Wähle einen Startpunkt, um nach Wasser zu graben
+ongame_misc_ger.sal.txt|410|Wähle einen Endpunkt, um nach Wasser zu graben
+ongame_misc_ger.sal.txt|411|Sende
+ongame_misc_ger.sal.txt|412|Wähle eine Stelle, um Nahrung zu suchen
+ongame_misc_ger.sal.txt|413|Wähle eine Stelle, um den Wald zu roden
+ongame_misc_ger.sal.txt|414|Zeige den Laufbereich
+ongame_misc_ger.sal.txt|415|Zeige den Arbeitsbereich
+ongame_misc_ger.sal.txt|416|Setze den Arbeitsbereich-Mittelpunkt
+ongame_misc_ger.sal.txt|417|Zeige, wo Häuser gebaut werden können
+ongame_misc_ger.sal.txt|418|%s hat das Spiel verlassen!
+ongame_misc_ger.sal.txt|419|NETZWERKPROBLEME!!!
+ongame_misc_ger.sal.txt|420|Erwirtschafte %d %s ( %d bisher )
+ongame_misc_ger.sal.txt|421|Vernichte alle Gegner
+ongame_misc_ger.sal.txt|422|Erreiche eine Bevölkerungsgröße von %d Leuten ( %d bisher )
+ongame_misc_ger.sal.txt|423|fertig
+ongame_misc_ger.sal.txt|424|(automatisch gespeichert)
+ongame_misc_ger.sal.txt|425|(schnell gespeichert)
+ongame_misc_ger.sal.txt|426|Spieler
+ongame_misc_ger.sal.txt|427|Wegweiser
+ongame_misc_ger.sal.txt|428|Nummer %d
+ongame_mission_cd1_ger.sal.txt|0|Schneeballwerfer
+ongame_mission_cd1_ger.sal.txt|1|Söldner Bogenschütze
+ongame_mission_cd1_ger.sal.txt|2|Söldner Axtkämpfer
+ongame_mission_cd1_ger.sal.txt|3|Söldner anheuern:
+ongame_mission_cd1_ger.sal.txt|4|Den Tribut zahlen, um Söldner anzuheuern
+ongame_mission_cd1_ger.sal.txt|5|Bogenschütze
+ongame_mission_cd1_ger.sal.txt|6|Speerkämpfer
+ongame_mission_cd1_ger.sal.txt|7|Axtkämpfer
+ongame_mission_cd1_ger.sal.txt|8|Meister-Bogenschütze
+ongame_mission_cd1_ger.sal.txt|9|Meister-Axtkämpfer
+ongame_mission_cd1_ger.sal.txt|10|Meister-Bogenschütze
+ongame_mission_cd1_ger.sal.txt|11|Meister-Speerkämpfer
+ongame_mission_cd1_ger.sal.txt|12|Bjarnis Onkel
