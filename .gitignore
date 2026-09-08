@@ -1,0 +1,24 @@
+# 构建产物
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.log
+*.idb
+
+# VS 用户文件
+.vs/
+*.user
+*.suo
+
+# 临时/中间文件
+.temp/
+*.tmp
+*.bak
+
+# 运行期生成
+Logs/
+logs/
