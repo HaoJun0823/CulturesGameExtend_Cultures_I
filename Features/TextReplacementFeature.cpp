@@ -148,6 +148,58 @@ bool LoadTranslation(const char* path) {
 }
 
 // ===================================================================
+// InsertLineBreaks: 在 UTF-8 中文译文中按字符边界插入 '\n'
+//
+// 背景: 引擎渲染层对长文本按固定字节宽度(~56B)切行，UTF-8 字符(3B)
+//       会被从中间切碎 → 半截字符乱码。且超长行宽度计算溢出(INT_MAX
+//       附近) → 行被画到屏幕外 → 简报"缺段"。
+// 方案: 返回字典中文前，把长译文拆成 ≤51 字节(17 汉字)的行，行间插
+//       '\n'。sub_48BDC0 遇 '\n' 自动换行(0x48BDFE)，引擎再切行时
+//       切点落在 '\n' 上，不会切碎 UTF-8；且每行宽度 < 屏幕宽，溢出消失。
+//
+// 注意: 字典中文里已有 '\n' 的行保持原样；尾部 '\n' 会去除(避免空行)。
+// ===================================================================
+std::string InsertLineBreaks(const std::string& cn) {
+    if (cn.empty()) return cn;
+    std::string out;
+    out.reserve(cn.size() + cn.size() / 8);
+    int posBytes = 0;
+    size_t i = 0, n = cn.size();
+    while (i < n) {
+        unsigned char b = (unsigned char)cn[i];
+        int len;
+        if (b < 0x80) len = 1;
+        else if (b < 0xC0) len = 1;          // 孤立 continuation（异常数据，按单字节）
+        else if (b < 0xE0) len = 2;
+        else if (b < 0xF0) len = 3;
+        else len = 4;
+
+        if (len > 1 && i + len > n) len = 1; // 截断的 UTF-8 → 按单字节，避免越界
+
+        if (b == '\n' || b == '\r') {
+            // 字典自带换行: 提交当前行, 保留原换行
+            out.append(cn, i, 1);
+            posBytes = 0;
+            i += 1;
+            continue;
+        }
+
+        // 达到行宽上限(51B=17汉字): 插入换行
+        if (posBytes > 0 && posBytes + len > 51) {
+            out += '\n';
+            posBytes = 0;
+        }
+        out.append(cn, i, len);
+        posBytes += len;
+        i += len;
+    }
+    // 去除尾部换行（避免末尾空行）
+    while (!out.empty() && (out.back() == '\n' || out.back() == '\r'))
+        out.pop_back();
+    return out;
+}
+
+// ===================================================================
 // OnTextLookup: C handler for sub_48DEA0 hook (post-call)
 //   this_ptr = text_lib_obj (ecx 原始值)
 //   index    = string index
@@ -159,6 +211,51 @@ bool LoadTranslation(const char* path) {
 //   只要中文长度(字节) <= 原文长度(字节)即可安全覆写
 //   返回原始指针(游戏内部缓冲区)，避免堆指针导致游戏崩溃
 // ===================================================================
+// ===================================================================
+// GetStringGap: 计算当前字符串到下一字符串起点之间的可写字节数
+//   this_ptr = text_lib_obj (sub_48DEA0 的 ecx)
+//   index    = 当前字符串下标
+//   orig     = 当前字符串指针 (数据区基址 + off[index])
+//
+//   sub_48DEA0 结构:
+//     this+0x04 = count
+//     this+0x0C = 偏移表容器, *(容器+8) = uint32_t* off_table
+//     this+0x10 = 数据区容器, *(容器+8) = base
+//     返回 = base + off_table[index]
+//
+//   空隙 = off_table[index+1] - off_table[index]
+//   (当前字符串起点到下一字符串起点, 包含自身 NUL + 对齐填充)
+//   返回 -1 表示无法计算 (最后一项 / 下一项无效 / 偏移表不可读) — 调用方回退保守策略
+// =====================================================================
+static int GetStringGap(void* this_ptr, uint32_t index, const char* orig) {
+    if (!this_ptr || !orig) return -1;
+    const uint8_t* t = (const uint8_t*)this_ptr;
+    uint32_t count = *(const uint32_t*)(t + 0x04);
+    if (index + 1 >= count) return -1;  // 最后一项: 无下一项可参照
+
+    // 读取偏移表基址
+    const uint32_t* offTableBase = *(const uint32_t* const*)(t + 0x0C);
+    if (!offTableBase) return -1;
+    const uint32_t* offTable = *(const uint32_t* const*)offTableBase;
+    if (!offTable) return -1;
+
+    // 读取数据区基址
+    const uint32_t* dataBasePtr = *(const uint32_t* const*)(t + 0x10);
+    if (!dataBasePtr) return -1;
+    const char* dataBase = *(const char* const*)dataBasePtr;
+    if (!dataBase) return -1;
+
+    uint32_t curOff = offTable[index];
+    uint32_t nextOff = offTable[index + 1];
+    if (nextOff == 0xFFFFFFFFu) return -1;  // 下一项无效
+    if (nextOff <= curOff) return -1;       // 非升序 → 不可靠，保守
+
+    // 校验 orig 确实指向 数据区基址+curOff
+    if ((const char*)dataBase + curOff != orig) return -1;
+
+    return (int)(nextOff - curOff);
+}
+
 const char* OnTextLookup(void* this_ptr, uint32_t index) {
     g_callCount++;
 
@@ -169,28 +266,58 @@ const char* OnTextLookup(void* this_ptr, uint32_t index) {
 
     if (g_dict.empty()) return orig;
 
-    // 查字典，命中时就地覆写游戏内部缓冲区
+    // 查字典，命中时优先就地覆写；空隙不足则回退到字典堆指针
     auto it = g_dict.find(orig);
     if (it != g_dict.end()) {
         g_hitCount++;
-        const std::string& cn = it->second;
-        size_t cn_len = cn.size();
+        // 长译文先按 UTF-8 字符边界插入 '\n'（每行 ≤51B），
+        // 防止引擎按字节切行切碎 UTF-8 / 超长行宽度溢出画到屏外。
+        // 短译文(≤51B)原样返回，性能与行为不变。
+        const std::string& cn0 = it->second;
+        std::string cn;   // 排版后译文（短文本时为空 → 直接用 cn0）
+        if (cn0.size() > 51)
+            cn = InsertLineBreaks(cn0);
+        const std::string& cnr = cn.empty() ? cn0 : cn;
+        size_t cn_len = cnr.size();
         size_t orig_len = strlen(orig);
 
-        if (cn_len <= orig_len) {
-            // 中文(含NUL)可以安全放入原文的空间
-            memcpy((void*)orig, cn.c_str(), cn_len + 1);
-            if (g_hitCount <= 32) {
-                LOG_INFO(kCat, "HIT [%d] in-place %zu/%zu bytes", g_hitCount, cn_len, orig_len);
-            }
+        // 尝试利用相邻条目空隙放宽覆写边界 (>= 原文长度 + 1 NUL)
+        int gap = GetStringGap(this_ptr, index, orig);
+        bool canInPlace = false;
+        if (gap >= 0) {
+            canInPlace = (cn_len + 1 <= (size_t)gap);
         } else {
-            // 中文比原文长——跳过避免缓冲区溢出
-            if (g_hitCount <= 32) {
-                LOG_INFO(kCat, "SKIP [%d] too long %zu/%zu bytes", g_hitCount, cn_len, orig_len);
-            }
+            canInPlace = (cn_len <= orig_len);  // 保守回退: 原文空间内
         }
-        // 无论覆写与否，都返回原始指针(游戏内部缓冲区)
-        return orig;
+
+        if (canInPlace) {
+            // 中文(含NUL)可以安全放入 (原空间或相邻空隙)
+            memcpy((void*)orig, cnr.c_str(), cn_len + 1);
+            if (g_hitCount <= 64) {
+                LOG_INFO(kCat, "HIT [%d] in-place %zu bytes (gap=%d, orig=%zu)",
+                         g_hitCount, cn_len, gap, orig_len);
+            }
+            return orig;
+        }
+
+        // 空隙不足: 返回字典存储的堆指针 (进程生命周期内有效) 并注册到
+        // g_chineseStrs, 让 TextRenderer 按 UTF-8 CJK 渲染。
+        // 注意: cnr 是局部 std::string (cn 排版结果或 cn0 字典项)。
+        //   - cn 非空 → 排版结果必须持久: 存到堆上 (new) 并由 g_chineseStrs
+        //     记录, 进程内不释放 (与旧 HEAP 分支一致)。
+        //   - cn 为空 → cnr 即字典项 cn0, c_str() 生命周期同字典, 安全。
+        const char* heapPtr = cnr.c_str();
+        if (!cn.empty()) {
+            char* heap = new char[cn.size() + 1];
+            memcpy(heap, cn.c_str(), cn.size() + 1);
+            heapPtr = heap;
+        }
+        g_chineseStrs.insert(heapPtr);
+        if (g_hitCount <= 64) {
+            LOG_INFO(kCat, "HEAP [%d] %zu bytes (gap=%d < %zu), ptr=%p",
+                     g_hitCount, cn_len, gap, cn_len + 1, heapPtr);
+        }
+        return heapPtr;
     }
 
     return orig;

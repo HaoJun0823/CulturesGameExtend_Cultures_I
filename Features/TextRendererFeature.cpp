@@ -537,7 +537,22 @@ static void RenderStringCore(uint8_t* fb, int pitchBytes, int bpp,
                              int rowStartX, int cellW, void* font,
                              const char* str, uint32_t color, bool skipBlit,
                              int& outX, int& outY) {
+    // 剥离游戏任务名标记前缀 "*["（如 "*[*  冷战" -> "冷战"）。
+    // 德语原版引擎会对 "*[" 做特殊处理（任务标题标记），GDI 渲染接管后
+    // 会把 "*[" 当普通字符画出，导致屏幕上残留 "*[*"。
+    // 仅在字符串开头匹配，不影响中间的占位符（如 "{A_HOUSE}"）。
     const unsigned char* p = (const unsigned char*)str;
+    if (p[0] == '*' && p[1] == '[') {
+        p += 2;                       // 跳过 "*["
+        while (*p == ' ' || *p == '\t') p++;  // 跳过前缀后的空白
+    }
+    // 任务目标面板残留的 "{ " 前缀（"{ 建造一座猎人帐篷"）:
+    // 引擎对 "{...}" 占位符会做占位符替换，但任务面板首行前缀 "{ "
+    // 是任务目标标记，未被替换就传到渲染层。同样仅在开头剥离。
+    else if (p[0] == '{' && (p[1] == ' ' || p[1] == '\t')) {
+        p += 2;                       // 跳过 "{ "（含空白）
+        while (*p == ' ' || *p == '\t') p++;
+    }
     while (*p) {
         uint8_t b = *p++;
 
@@ -678,7 +693,7 @@ int OnStringRender(void* drawCtx, const char* str) {
         _snprintf_s(keyBuf, sizeof(keyBuf), _TRUNCATE, "%s|%d|%d|%p", str, x, y, di.fb);
         if (s_srSeen.insert(std::string(keyBuf)).second) {
             s_srLogCount++;
-            LOG_INFO(kCat, "OnStringRender draw: str='%.16s' x0=%d y=%d bpp=%d pitchBytes=%d fbW=%d fbH=%d color=0x%06X ctx=%p fb=%p cellW=%d palIdx=%d",
+            LOG_INFO(kCat, "OnStringRender draw: str='%s' x0=%d y=%d bpp=%d pitchBytes=%d fbW=%d fbH=%d color=0x%06X ctx=%p fb=%p cellW=%d palIdx=%d",
                      str, x, y, di.bpp, di.pitchBytes, di.fbW, di.fbH, renderColor,
                      drawCtx, di.fb, cellW, di.paletteIndex);
         }
