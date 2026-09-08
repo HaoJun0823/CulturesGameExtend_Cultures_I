@@ -142,6 +142,12 @@ bool LoadTranslation(const char* path) {
 //   this_ptr = text_lib_obj (ecx 原始值)
 //   index    = string index
 //   Returns: const char* (中文 UTF-8 或原始德语)
+//
+// 策略 (in-place 覆写):
+//   调用原始函数得到德语 char* (指向游戏内部缓冲区)
+//   查字典命中 → 将中文 UTF-8 直接覆写到游戏缓冲区
+//   只要中文长度(字节) <= 原文长度(字节)即可安全覆写
+//   返回原始指针(游戏内部缓冲区)，避免堆指针导致游戏崩溃
 // ===================================================================
 const char* OnTextLookup(void* this_ptr, uint32_t index) {
     g_callCount++;
@@ -151,34 +157,32 @@ const char* OnTextLookup(void* this_ptr, uint32_t index) {
 
     if (!orig || !*orig) return orig;
 
-    if (g_firstCall) {
-        g_firstCall = false;
-        LOG_INFO(kCat, "FIRST OnTextLookup: this=%p idx=%u orig='%s' dict_size=%zu",
-                 this_ptr, index, orig, g_dict.size());
-    }
-
     if (g_dict.empty()) return orig;
 
-    // 用德语文本内容查字典
+    // 查字典，命中时就地覆写游戏内部缓冲区
     auto it = g_dict.find(orig);
     if (it != g_dict.end()) {
         g_hitCount++;
-        const char* cn = it->second.c_str();
-        // 注册到 g_chineseStrs，让 TextRendererFeature 识别为 UTF-8
-        g_chineseStrs.insert(cn);
-        if (g_hitCount <= 32) {
-            LOG_INFO(kCat, "HIT [%d] '%s' -> '%s'", g_hitCount, orig, cn);
+        const std::string& cn = it->second;
+        size_t cn_len = cn.size();
+        size_t orig_len = strlen(orig);
+
+        if (cn_len <= orig_len) {
+            // 中文(含NUL)可以安全放入原文的空间
+            memcpy((void*)orig, cn.c_str(), cn_len + 1);
+            if (g_hitCount <= 32) {
+                LOG_INFO(kCat, "HIT [%d] in-place %zu/%zu bytes", g_hitCount, cn_len, orig_len);
+            }
+        } else {
+            // 中文比原文长——跳过避免缓冲区溢出
+            if (g_hitCount <= 32) {
+                LOG_INFO(kCat, "SKIP [%d] too long %zu/%zu bytes", g_hitCount, cn_len, orig_len);
+            }
         }
-        return cn;
+        // 无论覆写与否，都返回原始指针(游戏内部缓冲区)
+        return orig;
     }
 
-    g_missCount++;
-    // 记录未命中的唯一德语文本（用于扩充字典）
-    if ((int)g_loggedMisses.size() < g_maxMissLogs) {
-        if (g_loggedMisses.insert(orig).second) {
-            LOG_INFO(kCat, "MISS [%d] '%s'", g_missCount, orig);
-        }
-    }
     return orig;
 }
 
