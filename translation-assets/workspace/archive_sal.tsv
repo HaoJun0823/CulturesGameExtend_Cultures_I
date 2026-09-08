@@ -1,0 +1,979 @@
+﻿# Cultures Gold - SAL 界面文本存档
+# 格式: source_file	line_no	german	chinese
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	0	arbeitet	工作中
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	1	ist beschäftigt	正忙
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	2	wollte arbeiten	想干活
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	3	hat versucht zu arbeiten	试着干活
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	4	hat gearbeitet	干完活了
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	5	war beschäftigt	刚忙完
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	6	baut {A_HOUSE}	正在建造{A_HOUSE}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	7	wollte {A_HOUSE} bauen	想建造{A_HOUSE}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	8	hat {A_HOUSE} gebaut	已建成{A_HOUSE}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	9	baut eine Straße	正在修路
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	10	wollte eine Straße bauen	想修路
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	11	hat eine Straße gebaut	已修好路
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	12	und trägt {A_GOOD}	携带{A_GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	13	und transportiert {A_GOOD}	正在搬运{A_GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	14	und sucht {GOOD}	正在寻找{GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	15	und benötigt {GOOD}	需要{GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	16	aber fand {NO_GOOD}	但没找到{NO_GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	17	aber findet {NO_GOOD}	找不到{NO_GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	18	und hat {A_GOOD} ausgeliefert	已交付{A_GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	19	und liefert {A_GOOD} aus	正在交付{A_GOOD}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	21	ist hungrig	饿了
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	22	hat Hunger	肚子饿
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	23	wollte essen	想吃东西
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	24	hatte Hunger	之前饿了
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	25	hat gegessen	已吃过东西
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	26	hat gespeist	已用餐
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	27	ist müde	累了
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	28	war müde, fand aber keinen Schlafplatz	累了，但找不到睡觉的地方
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	29	hat geschlafen	已睡觉
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	30	sucht einen Ehepartner	想找对象
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	31	fand keinen Ehepartner	没找到对象
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	32	hat geheiratet	已结婚
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	33	will beten	想祈祷
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	34	fand keinen Ort zum Beten	找不到祈祷的地方
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	35	hat gebetet	已祈祷
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	36	sucht etwas Gesellschaft	想找点陪伴
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	37	fand keinen Gesprächspartner	找不到聊天的人
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	38	hat sich unterhalten	已与人交谈
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	39	möchte Essen zubereiten	想准备食物
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	40	möchte gerne kochen	想做饭
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	41	wollte Essen zubereiten	想准备食物
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	42	wollte kochen	想做饭
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	43	hat Essen zubereitet	已准备好食物
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	44	hat eine leckere Mahlzeit gekocht	做了一顿可口的饭菜
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	45	und geht zu seinem Arbeitsplatz	正走向工作岗位
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	46	aber konnte seinen Arbeitsplatz nicht erreichen	但无法到达工作岗位
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	47	lernt einen neuen Beruf	正在学习新职业
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	48	wollte einen neuen Beruf lernen	想学习新职业
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	49	hat einen neuen Beruf gelernt	已学会新职业
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	50	greift einen Feind an	正在攻击敌人
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	51	greift gegnerische Gebäude an	正在攻击敌方建筑
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	52	sucht Ausrüstungsgegenstände	寻找装备
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	53	wollte sich ausrüsten	想装备自己
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	54	hat sich ausgerüstet	已装备好
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	55	repariert {A_HOUSE}	正在修理{A_HOUSE}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	56	wollte {A_HOUSE} reparieren	想修理{A_HOUSE}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	57	hat {A_HOUSE} repariert	已修好{A_HOUSE}
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	58	gräbt nach Wasser	正在挖水
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	59	wollte nach Wasser graben	想挖水
+data_v__data_v__gg_text__ongame_creat_feedback_ger.sal	60	gräbt nach Wasser	正在挖水
+data_v__data_v__gg_text__ongame_creatures_ger.sal	0	(Nicht belegt)	（未使用）
+data_v__data_v__gg_text__ongame_creatures_ger.sal	1	Zivilist	市民
+data_v__data_v__gg_text__ongame_creatures_ger.sal	2	Obstbauer	果农
+data_v__data_v__gg_text__ongame_creatures_ger.sal	3	[ Obstbauer	[ 果农
+data_v__data_v__gg_text__ongame_creatures_ger.sal	4	Pilzesammler	采蘑菇人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	5	[ Pilzesammler	[ 采蘑菇人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	6	Farmer	农夫
+data_v__data_v__gg_text__ongame_creatures_ger.sal	7	[ Farmer	[ 农夫
+data_v__data_v__gg_text__ongame_creatures_ger.sal	8	Müller	磨坊工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	9	[ Müller	[ 磨坊工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	10	Bäcker	面包师
+data_v__data_v__gg_text__ongame_creatures_ger.sal	11	[ Bäcker	[ 面包师
+data_v__data_v__gg_text__ongame_creatures_ger.sal	12	Bierbrauer	酿酒师
+data_v__data_v__gg_text__ongame_creatures_ger.sal	13	[ Bierbrauer	[ 酿酒师
+data_v__data_v__gg_text__ongame_creatures_ger.sal	14	Druide	德鲁伊
+data_v__data_v__gg_text__ongame_creatures_ger.sal	15	[ Druide	[ 德鲁伊
+data_v__data_v__gg_text__ongame_creatures_ger.sal	16	Jäger	猎人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	17	[ Jäger	[ 猎人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	18	Fischer	渔夫
+data_v__data_v__gg_text__ongame_creatures_ger.sal	19	[ Fischer	[ 渔夫
+data_v__data_v__gg_text__ongame_creatures_ger.sal	20	Weber	织布工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	21	[ Weber	[ 织布工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	22	Schäfer	牧羊人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	23	[ Schäfer	[ 牧羊人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	24	Lederschneider	皮匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	25	[ Lederschneider	[ 皮匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	26	Schuster	鞋匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	27	[ Schuster	[ 鞋匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	28	Holzfäller	伐木工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	29	[ Holzfäller	[ 伐木工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	30	Werkzeugschreiner	工具木匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	31	[ Werkzeugschreiner	[ 工具木匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	32	Tischler	木匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	33	[ Tischler	[ 木匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	34	Lehmsammler	采泥工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	35	[ Lehmsammler	[ 采泥工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	36	Steinmetz	石匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	37	[ Steinmetz	[ 石匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	38	Töpfer	陶匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	39	[ Töpfer	[ 陶匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	40	Werkzeugschmied	工具铁匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	41	[ Werkzeugschmied	[ 工具铁匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	42	Eisenschürfer	铁矿工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	43	[ Eisenschürfer	[ 铁矿工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	44	Eisenschmelzer	炼铁工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	45	[ Eisenschmelzer	[ 炼铁工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	46	Goldsucher	淘金者
+data_v__data_v__gg_text__ongame_creatures_ger.sal	47	[ Goldsucher	[ 淘金者
+data_v__data_v__gg_text__ongame_creatures_ger.sal	48	Goldschmied	金匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	49	[ Goldschmied	[ 金匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	50	Bogenmacher	制弓匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	51	[ Bogenmacher	[ 制弓匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	52	Rüstungsschmied	铠甲匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	53	[ Rüstungsschmied	[ 铠甲匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	54	Waffenschmied	武器匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	55	[ Waffenschmied	[ 武器匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	56	Speermacher	制矛匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	57	[ Speermacher	[ 制矛匠
+data_v__data_v__gg_text__ongame_creatures_ger.sal	58	Träger	搬运工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	59	[ Träger	[ 搬运工
+data_v__data_v__gg_text__ongame_creatures_ger.sal	60	Bauarbeiter	建筑工人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	61	[ Bauarbeiter	[ 建筑工人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	62	Händler	商人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	63	Kundschafter	侦察兵
+data_v__data_v__gg_text__ongame_creatures_ger.sal	64	Schwertkämpfer I	剑士 I
+data_v__data_v__gg_text__ongame_creatures_ger.sal	65	Schwertkämpfer II	剑士 II
+data_v__data_v__gg_text__ongame_creatures_ger.sal	66	Schwertkämpfer III	剑士 III
+data_v__data_v__gg_text__ongame_creatures_ger.sal	67	Speerträger I	矛兵 I
+data_v__data_v__gg_text__ongame_creatures_ger.sal	68	Speerträger II	矛兵 II
+data_v__data_v__gg_text__ongame_creatures_ger.sal	69	Speerträger III	矛兵 III
+data_v__data_v__gg_text__ongame_creatures_ger.sal	70	Bogenschütze I	弓箭手 I
+data_v__data_v__gg_text__ongame_creatures_ger.sal	71	Bogenschütze II	弓箭手 II
+data_v__data_v__gg_text__ongame_creatures_ger.sal	72	Bogenschütze III	弓箭手 III
+data_v__data_v__gg_text__ongame_creatures_ger.sal	73	Frau	女人
+data_v__data_v__gg_text__ongame_creatures_ger.sal	74	Mädchen	女孩
+data_v__data_v__gg_text__ongame_creatures_ger.sal	75	Junge	男孩
+data_v__data_v__gg_text__ongame_creatures_ger.sal	76	Baby (Mädchen)	婴儿（女）
+data_v__data_v__gg_text__ongame_creatures_ger.sal	77	Baby (Junge)	婴儿（男）
+data_v__data_v__gg_text__ongame_creatures_ger.sal	78	Schmetterling	蝴蝶
+data_v__data_v__gg_text__ongame_creatures_ger.sal	79	Moskito	蚊子
+data_v__data_v__gg_text__ongame_creatures_ger.sal	80	Kaninchen	兔子
+data_v__data_v__gg_text__ongame_creatures_ger.sal	81	Muli	骡子
+data_v__data_v__gg_text__ongame_creatures_ger.sal	82	Fisch	鱼
+data_v__data_v__gg_text__ongame_creatures_ger.sal	83	Schaf	绵羊
+data_v__data_v__gg_text__ongame_creatures_ger.sal	84	Wildschwein	野猪
+data_v__data_v__gg_text__ongame_creatures_ger.sal	85	Bär	熊
+data_v__data_v__gg_text__ongame_creatures_ger.sal	86	Bison	野牛
+data_v__data_v__gg_text__ongame_goods_ger.sal	0	Stein	石头
+data_v__data_v__gg_text__ongame_goods_ger.sal	1	Stein	石头
+data_v__data_v__gg_text__ongame_goods_ger.sal	2	einen Stein	一块石头
+data_v__data_v__gg_text__ongame_goods_ger.sal	3	keine Steine	没有石头
+data_v__data_v__gg_text__ongame_goods_ger.sal	4	Holz	木材
+data_v__data_v__gg_text__ongame_goods_ger.sal	5	Holz	木材
+data_v__data_v__gg_text__ongame_goods_ger.sal	6	Holz	木材
+data_v__data_v__gg_text__ongame_goods_ger.sal	7	kein Holz	没有木材
+data_v__data_v__gg_text__ongame_goods_ger.sal	8	Nahrung	食物
+data_v__data_v__gg_text__ongame_goods_ger.sal	9	Nahrung	食物
+data_v__data_v__gg_text__ongame_goods_ger.sal	10	Nahrung	食物
+data_v__data_v__gg_text__ongame_goods_ger.sal	11	keine Nahrung	没有食物
+data_v__data_v__gg_text__ongame_goods_ger.sal	12	Lehm	黏土
+data_v__data_v__gg_text__ongame_goods_ger.sal	13	Lehmklumpen	黏土块
+data_v__data_v__gg_text__ongame_goods_ger.sal	14	Lehm	黏土
+data_v__data_v__gg_text__ongame_goods_ger.sal	15	keinen Lehm	没有黏土
+data_v__data_v__gg_text__ongame_goods_ger.sal	16	Leder	皮革
+data_v__data_v__gg_text__ongame_goods_ger.sal	17	Leder	皮革
+data_v__data_v__gg_text__ongame_goods_ger.sal	18	ein Lederstück	一块皮革
+data_v__data_v__gg_text__ongame_goods_ger.sal	19	kein Leder	没有皮革
+data_v__data_v__gg_text__ongame_goods_ger.sal	20	Kadaver	兽尸
+data_v__data_v__gg_text__ongame_goods_ger.sal	21	Kadaver	兽尸
+data_v__data_v__gg_text__ongame_goods_ger.sal	22	einen Kadaver	一具兽尸
+data_v__data_v__gg_text__ongame_goods_ger.sal	23	keinen Kadaver	没有兽尸
+data_v__data_v__gg_text__ongame_goods_ger.sal	24	Weizen	小麦
+data_v__data_v__gg_text__ongame_goods_ger.sal	25	Weizen	小麦
+data_v__data_v__gg_text__ongame_goods_ger.sal	26	Weizen	小麦
+data_v__data_v__gg_text__ongame_goods_ger.sal	27	keinen Weizen	没有小麦
+data_v__data_v__gg_text__ongame_goods_ger.sal	28	Mehl	面粉
+data_v__data_v__gg_text__ongame_goods_ger.sal	29	Mehl	面粉
+data_v__data_v__gg_text__ongame_goods_ger.sal	30	Mehl	面粉
+data_v__data_v__gg_text__ongame_goods_ger.sal	31	kein Mehl	没有面粉
+data_v__data_v__gg_text__ongame_goods_ger.sal	32	Wasser	水
+data_v__data_v__gg_text__ongame_goods_ger.sal	33	Wasser	水
+data_v__data_v__gg_text__ongame_goods_ger.sal	34	Wasser	水
+data_v__data_v__gg_text__ongame_goods_ger.sal	35	kein Wasser	没有水
+data_v__data_v__gg_text__ongame_goods_ger.sal	36	Wolle	羊毛
+data_v__data_v__gg_text__ongame_goods_ger.sal	37	Wolle	羊毛
+data_v__data_v__gg_text__ongame_goods_ger.sal	38	Wolle	羊毛
+data_v__data_v__gg_text__ongame_goods_ger.sal	39	keine Wolle	没有羊毛
+data_v__data_v__gg_text__ongame_goods_ger.sal	40	Holzwerkzeug	木制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	41	Holzwerkzeug	木制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	42	ein Holzwerkzeug	一件木制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	43	kein Holzwerkzeug	没有木制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	44	Eisenwerkzeug	铁制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	45	Eisenwerkzeug	铁制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	46	ein Eisenwerkeug	一件铁制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	47	kein Eisenwerkzeug	没有铁制工具
+data_v__data_v__gg_text__ongame_goods_ger.sal	48	Eisenerz	铁矿石
+data_v__data_v__gg_text__ongame_goods_ger.sal	49	Eisenerz	铁矿石
+data_v__data_v__gg_text__ongame_goods_ger.sal	50	ein Eisenerz	一块铁矿石
+data_v__data_v__gg_text__ongame_goods_ger.sal	51	kein Eisenerz	没有铁矿石
+data_v__data_v__gg_text__ongame_goods_ger.sal	52	Goldnugget	金块
+data_v__data_v__gg_text__ongame_goods_ger.sal	53	Goldnugget	金块
+data_v__data_v__gg_text__ongame_goods_ger.sal	54	ein Goldnugget	一块金块
+data_v__data_v__gg_text__ongame_goods_ger.sal	55	keine Goldnuggets	没有金块
+data_v__data_v__gg_text__ongame_goods_ger.sal	56	Lederrüstung	皮甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	57	Lederrüstung	皮甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	58	eine Lederrüstung	一件皮甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	59	keine Lederrüstung	没有皮甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	60	Waffenrock	战袍
+data_v__data_v__gg_text__ongame_goods_ger.sal	61	Waffenrock	战袍
+data_v__data_v__gg_text__ongame_goods_ger.sal	62	ein Waffenrock	一件战袍
+data_v__data_v__gg_text__ongame_goods_ger.sal	63	keinen Waffenrock	没有战袍
+data_v__data_v__gg_text__ongame_goods_ger.sal	64	Schuhe	鞋子
+data_v__data_v__gg_text__ongame_goods_ger.sal	65	Schuhe	鞋子
+data_v__data_v__gg_text__ongame_goods_ger.sal	66	Schuhe	鞋子
+data_v__data_v__gg_text__ongame_goods_ger.sal	67	keine Schuhe	没有鞋子
+data_v__data_v__gg_text__ongame_goods_ger.sal	68	Möbel	家具
+data_v__data_v__gg_text__ongame_goods_ger.sal	69	Möbelstück	一件家具
+data_v__data_v__gg_text__ongame_goods_ger.sal	70	Möbel	家具
+data_v__data_v__gg_text__ongame_goods_ger.sal	71	keine Möbel	没有家具
+data_v__data_v__gg_text__ongame_goods_ger.sal	72	Geschirr	餐具
+data_v__data_v__gg_text__ongame_goods_ger.sal	73	Geschirr	餐具
+data_v__data_v__gg_text__ongame_goods_ger.sal	74	Geschirr	餐具
+data_v__data_v__gg_text__ongame_goods_ger.sal	75	kein Geschirr	没有餐具
+data_v__data_v__gg_text__ongame_goods_ger.sal	76	Eisen	铁
+data_v__data_v__gg_text__ongame_goods_ger.sal	77	Eisen	铁
+data_v__data_v__gg_text__ongame_goods_ger.sal	78	Eisen	铁
+data_v__data_v__gg_text__ongame_goods_ger.sal	79	kein Eisen	没有铁
+data_v__data_v__gg_text__ongame_goods_ger.sal	80	Schwert	剑
+data_v__data_v__gg_text__ongame_goods_ger.sal	81	Schwert	剑
+data_v__data_v__gg_text__ongame_goods_ger.sal	82	ein Schwert	一把剑
+data_v__data_v__gg_text__ongame_goods_ger.sal	83	kein Schwert	没有剑
+data_v__data_v__gg_text__ongame_goods_ger.sal	84	Speer	长矛
+data_v__data_v__gg_text__ongame_goods_ger.sal	85	Speer	长矛
+data_v__data_v__gg_text__ongame_goods_ger.sal	86	einen Speer	一支长矛
+data_v__data_v__gg_text__ongame_goods_ger.sal	87	keinen Speer	没有长矛
+data_v__data_v__gg_text__ongame_goods_ger.sal	88	Bogen	弓
+data_v__data_v__gg_text__ongame_goods_ger.sal	89	Bogen	弓
+data_v__data_v__gg_text__ongame_goods_ger.sal	90	einen Bogen	一张弓
+data_v__data_v__gg_text__ongame_goods_ger.sal	91	keinen Bogen	没有弓
+data_v__data_v__gg_text__ongame_goods_ger.sal	92	Eisenrüstung	铁甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	93	Eisenrüstung	铁甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	94	eine Eisenrüstung	一件铁甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	95	keine Eisenrüstung	没有铁甲
+data_v__data_v__gg_text__ongame_goods_ger.sal	96	Pilze	蘑菇
+data_v__data_v__gg_text__ongame_goods_ger.sal	97	Pilz	蘑菇
+data_v__data_v__gg_text__ongame_goods_ger.sal	98	einen Pilz	一个蘑菇
+data_v__data_v__gg_text__ongame_goods_ger.sal	99	keine Pilze	没有蘑菇
+data_v__data_v__gg_text__ongame_goods_ger.sal	100	Öl	油
+data_v__data_v__gg_text__ongame_goods_ger.sal	101	Ölfläschchen	小油瓶
+data_v__data_v__gg_text__ongame_goods_ger.sal	102	ein Ölfläschchen	一个小油瓶
+data_v__data_v__gg_text__ongame_goods_ger.sal	103	kein Öl	没有油
+data_v__data_v__gg_text__ongame_goods_ger.sal	104	Gold	黄金
+data_v__data_v__gg_text__ongame_goods_ger.sal	105	Gold	黄金
+data_v__data_v__gg_text__ongame_goods_ger.sal	106	Gold	黄金
+data_v__data_v__gg_text__ongame_goods_ger.sal	107	kein Gold	没有黄金
+data_v__data_v__gg_text__ongame_goods_ger.sal	108	Bier	啤酒
+data_v__data_v__gg_text__ongame_goods_ger.sal	109	Bier	啤酒
+data_v__data_v__gg_text__ongame_goods_ger.sal	110	Bier	啤酒
+data_v__data_v__gg_text__ongame_goods_ger.sal	111	kein Bier	没有啤酒
+data_v__data_v__gg_text__ongame_houses_ger.sal	0	Wohnzelt	居住帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	1	ein Wohnzelt	一顶居住帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	2	Zweifamilienhaus	双户住宅
+data_v__data_v__gg_text__ongame_houses_ger.sal	3	ein Zweifamilienhaus	一栋双户住宅
+data_v__data_v__gg_text__ongame_houses_ger.sal	4	Dreifamilienhaus	三户住宅
+data_v__data_v__gg_text__ongame_houses_ger.sal	5	ein Dreifamilienhaus	一栋三户住宅
+data_v__data_v__gg_text__ongame_houses_ger.sal	6	Holzfällerzelt	伐木工帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	7	ein Holzfällerzelt	一顶伐木工帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	8	Jägerzelt	猎人帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	9	ein Jägerzelt	一顶猎人帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	10	Steinmetzzelt	石匠帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	11	ein Steinmetzzelt	一顶石匠帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	12	Fischerzelt	渔夫帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	13	ein Fischerzelt	一顶渔夫帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	14	Werkzeugschreinerei	工具作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	15	eine Werkzeugschreinerei	一间工具作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	16	Bauernhof	农场
+data_v__data_v__gg_text__ongame_houses_ger.sal	17	einen Bauernhof	一座农场
+data_v__data_v__gg_text__ongame_houses_ger.sal	18	Lehmarbeiterzelt	采泥工帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	19	ein Lehmarbeiterzelt	一顶采泥工帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	20	Schäferhütte	牧羊人小屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	21	eine Schäferhütte	一间牧羊人小屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	22	Obstfarm	果园
+data_v__data_v__gg_text__ongame_houses_ger.sal	23	eine Obstfarm	一座果园
+data_v__data_v__gg_text__ongame_houses_ger.sal	24	Töpferei	陶器作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	25	eine Töpferei	一间陶器作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	26	Mühle	磨坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	27	eine Mühle	一座磨坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	28	Bäckerei	面包房
+data_v__data_v__gg_text__ongame_houses_ger.sal	29	eine Bäckerei	一间面包房
+data_v__data_v__gg_text__ongame_houses_ger.sal	30	Brunnen	水井
+data_v__data_v__gg_text__ongame_houses_ger.sal	31	einen Brunnen	一口水井
+data_v__data_v__gg_text__ongame_houses_ger.sal	32	Pilzsammlerhütte	蘑菇采集小屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	33	eine Pilzsammlerhütte	一间蘑菇采集小屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	34	Brauerei	酿酒厂
+data_v__data_v__gg_text__ongame_houses_ger.sal	35	eine Brauerei	一座酿酒厂
+data_v__data_v__gg_text__ongame_houses_ger.sal	36	Werkzeugschmiede	工具锻造铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	37	eine Werkzeugschmiede	一间工具锻造铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	38	Eisenschmelze	炼铁厂
+data_v__data_v__gg_text__ongame_houses_ger.sal	39	eine Eisenschmelze	一座炼铁厂
+data_v__data_v__gg_text__ongame_houses_ger.sal	40	Eisenmine	铁矿
+data_v__data_v__gg_text__ongame_houses_ger.sal	41	eine Eisenmine	一座铁矿
+data_v__data_v__gg_text__ongame_houses_ger.sal	42	Goldschmiede	金匠铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	43	eine Goldschmiede	一间金匠铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	44	Goldmine	金矿
+data_v__data_v__gg_text__ongame_houses_ger.sal	45	eine Goldmine	一座金矿
+data_v__data_v__gg_text__ongame_houses_ger.sal	46	Webstube	织布作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	47	eine Webstube	一间织布作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	48	Schusterei	制鞋铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	49	eine Schusterei	一间制鞋铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	50	Lederschneiderei	皮革作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	51	eine Lederschneiderei	一间皮革作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	52	*alt Schneiderei	*旧 裁缝铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	53	*alt eine Schneiderei	*旧 一间裁缝铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	54	Möbelwerkstatt	家具作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	55	eine Möbelwerkstatt	一间家具作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	56	Bogenschnitzerei	制弓作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	57	eine Bogenschnitzerei	一间制弓作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	58	Speermacherei	制矛作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	59	eine Speermacherei	一间制矛作坊
+data_v__data_v__gg_text__ongame_houses_ger.sal	60	Schwertschmiede	剑刃锻造铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	61	eine Schwertschmiede	一间剑刃锻造铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	62	Rüstungsschmiede	铠甲锻造铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	63	eine Rüstungsschmiede	一间铠甲锻造铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	64	Kaserne	兵营
+data_v__data_v__gg_text__ongame_houses_ger.sal	65	eine Kaserne	一座兵营
+data_v__data_v__gg_text__ongame_houses_ger.sal	66	Tempel	神庙
+data_v__data_v__gg_text__ongame_houses_ger.sal	67	einen Tempel	一座神庙
+data_v__data_v__gg_text__ongame_houses_ger.sal	68	Verteidigungsturm	防御塔
+data_v__data_v__gg_text__ongame_houses_ger.sal	69	einen Verteidigungsturm	一座防御塔
+data_v__data_v__gg_text__ongame_houses_ger.sal	70	*alt Händler	旧 商人
+data_v__data_v__gg_text__ongame_houses_ger.sal	71	*alt ein Händler	旧 一名商人
+data_v__data_v__gg_text__ongame_houses_ger.sal	72	Schule	学校
+data_v__data_v__gg_text__ongame_houses_ger.sal	73	eine Schule	一所学校
+data_v__data_v__gg_text__ongame_houses_ger.sal	74	Vorratszelt	储备帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	75	ein Vorratszelt	一顶储备帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	76	Lagerhaus	仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	77	ein Lagerhaus	一座仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	78	Hauptlager	主仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	79	ein Hauptlager	一座主仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	80	Hauptlager	主仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	81	ein Hauptlager	一座主仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	82	Lager	仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	83	einLager	一座仓库
+data_v__data_v__gg_text__ongame_houses_ger.sal	84	Wohniglu	居住冰屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	85	ein Wohniglu	一座居住冰屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	86	Fischeriglu	渔夫冰屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	87	ein Fischeriglu	一座渔夫冰屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	88	Jägeriglu	猎人冰屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	89	ein Jägeriglu	一座猎人冰屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	90	Eistempel	冰神庙
+data_v__data_v__gg_text__ongame_houses_ger.sal	91	ein Eistempel	一座冰神庙
+data_v__data_v__gg_text__ongame_houses_ger.sal	92	Eisfestung	冰要塞
+data_v__data_v__gg_text__ongame_houses_ger.sal	93	eine Eisfestung	一座冰要塞
+data_v__data_v__gg_text__ongame_houses_ger.sal	94	Wigwam	棚屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	95	ein Wigwam	一座棚屋
+data_v__data_v__gg_text__ongame_houses_ger.sal	96	Vorratszelt	储备帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	97	ein Vorratszelt	一顶储备帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	98	Holzfällerzelt	伐木工帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	99	ein Holzfällerzelt	一顶伐木工帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	100	Sammlerzelt	采集者帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	101	ein Sammlerzelt	一顶采集者帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	102	Fischerzelt	渔夫帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	103	ein Fischerzelt	一顶渔夫帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	104	Jägerzelt	猎人帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	105	ein Jägerzelt	一顶猎人帐篷
+data_v__data_v__gg_text__ongame_houses_ger.sal	106	Kriegszelt	军帐
+data_v__data_v__gg_text__ongame_houses_ger.sal	107	ein Kriegszelt	一座军帐
+data_v__data_v__gg_text__ongame_houses_ger.sal	108	Donnerturm	雷神之塔
+data_v__data_v__gg_text__ongame_houses_ger.sal	109	ein Donnerturm	一座雷神之塔
+data_v__data_v__gg_text__ongame_houses_ger.sal	110	Ahnenstätte (Tempel)	先祖圣地（神庙）
+data_v__data_v__gg_text__ongame_houses_ger.sal	111	eine Ahnenstätte (Tempel)	一座先祖圣地（神庙）
+data_v__data_v__gg_text__ongame_houses_ger.sal	112	Wohnhaus	住宅
+data_v__data_v__gg_text__ongame_houses_ger.sal	113	ein Wohnhaus	一栋住宅
+data_v__data_v__gg_text__ongame_houses_ger.sal	114	Bauernhaus	农舍
+data_v__data_v__gg_text__ongame_houses_ger.sal	115	ein Bauernhaus	一栋农舍
+data_v__data_v__gg_text__ongame_houses_ger.sal	116	Holzfällergebäude	伐木场
+data_v__data_v__gg_text__ongame_houses_ger.sal	117	ein Holzfällergebäude	一座伐木场
+data_v__data_v__gg_text__ongame_houses_ger.sal	118	Lagerstätte	储仓
+data_v__data_v__gg_text__ongame_houses_ger.sal	119	eine Lagerstätte	一座储仓
+data_v__data_v__gg_text__ongame_houses_ger.sal	120	Fischerei	渔场
+data_v__data_v__gg_text__ongame_houses_ger.sal	121	eine Fischerei	一座渔场
+data_v__data_v__gg_text__ongame_houses_ger.sal	122	Jägerstätte	猎场
+data_v__data_v__gg_text__ongame_houses_ger.sal	123	eine Jägerstätte	一座猎场
+data_v__data_v__gg_text__ongame_houses_ger.sal	124	Tempel	神庙
+data_v__data_v__gg_text__ongame_houses_ger.sal	125	ein Tempel	一座神庙
+data_v__data_v__gg_text__ongame_houses_ger.sal	126	Kriegerlager	战士营地
+data_v__data_v__gg_text__ongame_houses_ger.sal	127	eine Kriegerlager	一座战士营地
+data_v__data_v__gg_text__ongame_houses_ger.sal	128	Kriegsturm	战争之塔
+data_v__data_v__gg_text__ongame_houses_ger.sal	129	ein Kriegsturm	一座战争之塔
+data_v__data_v__gg_text__ongame_houses_ger.sal	130	Goldschmied	金匠
+data_v__data_v__gg_text__ongame_houses_ger.sal	131	ein Goldschmied	一间金匠铺
+data_v__data_v__gg_text__ongame_houses_ger.sal	132	Goldmine	金矿
+data_v__data_v__gg_text__ongame_houses_ger.sal	133	eine Goldmine	一座金矿
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	0	%s möchte %s heiraten	%s 想娶 %s
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	1	%s hat einen neuen Beruf (%s) erfunden	%s 发明了新职业（%s）
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	2	%s hat einen neuen Beruf (%s) in der Schule gelernt	%s 在学校学会了新职业（%s）
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	3	%s, von Beruf %s, ist gestorben	职业为 %s 的 %s 去世了
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	4	Eine Hungersnot bahnt sich an - behalte deine Nahrungsproduktion im Auge	饥荒即将来临——请注意你的粮食生产
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	5	Macht Ausbildung zum %s (%d%% Lernerfolg)	正在接受 %s 培训（学习进度 %d%%）
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	6	Verfügbar: 	可用：
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	7	Keine Punkte zu vergeben	没有可分配的技能点
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	8	Ersten Handelposten anzeigen	显示第一贸易站
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	9	Zweiten Handelposten anzeigen	显示第二贸易站
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	10	Händler	商人
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	11	Baustelle	建筑工地
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	12	Onlinehilfe	在线帮助
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	13	Angebot	供给
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	14	Wunsch	需求
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	15	Musik Einstellungen	音乐设置
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	16	Spielstände	存档
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	17	Musiken	音乐
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	18	Einstellungen	设置
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	19	Musikoptionen	音乐选项
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	20	Automatisches Speichern	自动保存
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	21	jede Minute	每分钟
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	22	alle 5 Minuten	每 5 分钟
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	23	alle 15 Minuten	每 15 分钟
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	24	aus	关闭
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	25	Scrollmodus	滚动模式
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	26	mittlere Maus	鼠标中键
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	27	Bildschirmgrenze	屏幕边缘
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	28	beides	两者
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	29	Scrollgeschwindigkeit	滚屏速度
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	30	langsam	慢
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	31	mittel	中
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	32	schnell	快
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	33	Grafikdetails	画面细节
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	34	wenig (schneller)	低（更快）
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	35	mittel	中
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	36	viel	高
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	37	Bildschirmhelligkeit	屏幕亮度
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	38	dunkeler	更暗
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	39	heller	更亮
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	40	Maus	鼠标
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	41	Software	软件
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	42	Hardware	硬件
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	43	Mausrad	鼠标滚轮
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	44	Perspektive wechseln	切换视角
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	45	Zoomen	缩放
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	46	unbelegt	未绑定
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	47	Tonqualität	音质
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	48	niedrig	低
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	49	mittel	中
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	50	hoch	高
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	51	Lautstärke Geräusche	音效音量
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	52	leiser	更轻
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	53	lauter	更响
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	54	Lautstärke Musik	音乐音量
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	55	leiser	更轻
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	56	lauter	更响
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	57	Karte als PCX speichern	将地图保存为 PCX
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	58	Karte in 25% der Originalgröße als PCX speichern	将地图以 25% 尺寸保存为 PCX
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	59	Karte in 100% der Originalgröße als PCX speichern	将地图以 100% 尺寸保存为 PCX
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	60	Lade Spielstand %d	读取存档 %d
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	61	Speichere Spielstand %d	保存存档 %d
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	62	Starte Musiksammlung %d	播放音乐集 %d
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	63	Bauen-Fenster öffnen	打开建造窗口
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	64	Weiteres Beobachtungs-Fenster öffnen	打开另一个观察窗口
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	65	Partner	伴侣
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	66	MISSIONSZIELE	任务目标
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	67	BRIEFING	任务简报
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	68	Missionsziele	任务目标
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	69	Letztes Briefing	查看任务简报
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	70	%s ist gestorben!	%s 死了！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	71	Möchten Sie das Spiel verlassen?	确定要退出游戏吗？
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	72	Ja, leider	是的，没办法
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	73	Ja, ich muß auf Toilette	是的，我要上厕所
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	74	Ja, es sind schon 3 Tage um...	是的，已经过了 3 天……
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	75	Ja, muß auch mal schlafen	是的，我得去睡觉
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	76	Ja, muß zur Arbeit	是的，我得去上班
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	77	Ja, ist spät geworden	是的，已经太晚了
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	78	Ja, aber ich spiele gleich weiter	是的，不过我马上接着玩
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	79	Ja, hab' Hunger	是的，我饿了
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	80	Ja, aber nur ungern	是的，但真不想走
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	81	Ja, Telefon klingelt	是的，电话响了
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	82	Ja, mein Chef kommt grad!	是的，我老板正好来了！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	83	Ja, meine Frau quängelt	是的，我老婆在唠叨
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	84	Ja, mein Mann quängelt	是的，我老公在唠叨
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	85	Ja, muß noch einkaufen	是的，我还得去买东西
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	86	Ja, Pizza ist fertig	是的，披萨好了
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	87	Ja, mein Hund muß Gassi	是的，我得去遛狗
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	88	Ja, ich höre Einbrecher	是的，我听到有贼
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	89	Ja, mein PC braucht ne Pause	是的，我的电脑需要休息
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	90	Ja, aber nur kurz	是的，就一小会儿
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	91	Ja, mein PC qualmt schon	是的，我的电脑冒烟了
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	92	Nein, bloß nicht!	不，千万不要！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	93	Möchten Sie das Haus abreißen?	您要拆掉这栋房子吗？
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	94	Ja!	是！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	95	Nein!	否！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	96	Möchten Sie den Wegweiser abreißen?	您要拆掉这个路标吗？
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	97	Ja!	是！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	98	Nein!	否！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	99	Zurück zum Menü...	返回菜单……
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	100	MISSION ERFÜLLT!	任务完成！
+data_v__data_v__gg_text__ongame_misc_2_ger.sal	101	MISSION VERLOREN!	任务失败！
+data_v__data_v__gg_text__ongame_misc_ger.sal	0	Bewegen	移动
+data_v__data_v__gg_text__ongame_misc_ger.sal	1	Verschiebt das Fenster	移动窗口
+data_v__data_v__gg_text__ongame_misc_ger.sal	2	Schließt das Fenster	关闭窗口
+data_v__data_v__gg_text__ongame_misc_ger.sal	3	Minimiert das Fenster	最小化窗口
+data_v__data_v__gg_text__ongame_misc_ger.sal	4	Abbrechen	取消
+data_v__data_v__gg_text__ongame_misc_ger.sal	5	Viel Spaß bei CULTURES!	祝您在《北国风云》中玩得愉快！
+data_v__data_v__gg_text__ongame_misc_ger.sal	6	Version:	版本：
+data_v__data_v__gg_text__ongame_misc_ger.sal	7	Hilfe	帮助
+data_v__data_v__gg_text__ongame_misc_ger.sal	8	Übersichtskarte	总览地图
+data_v__data_v__gg_text__ongame_misc_ger.sal	9	Technologiebaum	科技树
+data_v__data_v__gg_text__ongame_misc_ger.sal	10	Figurenliste	单位列表
+data_v__data_v__gg_text__ongame_misc_ger.sal	11	Statistiken	统计数据
+data_v__data_v__gg_text__ongame_misc_ger.sal	12	Diplomatie	外交
+data_v__data_v__gg_text__ongame_misc_ger.sal	13	Missionsbriefing	任务简报
+data_v__data_v__gg_text__ongame_misc_ger.sal	14	Hilfe	帮助
+data_v__data_v__gg_text__ongame_misc_ger.sal	15	Hauptmenü	主菜单
+data_v__data_v__gg_text__ongame_misc_ger.sal	16	ESC Taste	ESC 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	17	ENTER Taste	回车键
+data_v__data_v__gg_text__ongame_misc_ger.sal	18	F1 Taste	F1 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	19	F2 Taste	F2 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	20	F3 Taste	F3 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	21	F4 Taste	F4 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	22	F5 Taste	F5 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	23	F6 Taste	F6 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	24	F7 Taste	F7 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	25	F8 Taste	F8 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	26	F9 Taste	F9 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	27	F10 Taste	F10 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	28	F11 Taste	F11 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	29	F12 Taste	F12 键
+data_v__data_v__gg_text__ongame_misc_ger.sal	30	Nummernblock Taste 1	小键盘 1
+data_v__data_v__gg_text__ongame_misc_ger.sal	31	Nummernblock Taste 2	小键盘 2
+data_v__data_v__gg_text__ongame_misc_ger.sal	32	Nummernblock Taste 3	小键盘 3
+data_v__data_v__gg_text__ongame_misc_ger.sal	33	Nummernblock Taste 4	小键盘 4
+data_v__data_v__gg_text__ongame_misc_ger.sal	34	Nummernblock Taste 5	小键盘 5
+data_v__data_v__gg_text__ongame_misc_ger.sal	35	Nummernblock Taste 6	小键盘 6
+data_v__data_v__gg_text__ongame_misc_ger.sal	36	Nummernblock Taste 7	小键盘 7
+data_v__data_v__gg_text__ongame_misc_ger.sal	37	Nummernblock Taste 8	小键盘 8
+data_v__data_v__gg_text__ongame_misc_ger.sal	38	Nummernblock Taste 9	小键盘 9
+data_v__data_v__gg_text__ongame_misc_ger.sal	39	Nummernblock Taste 0	小键盘 0
+data_v__data_v__gg_text__ongame_misc_ger.sal	40	Richtungstaste Hoch	方向键 上
+data_v__data_v__gg_text__ongame_misc_ger.sal	41	Richtungstaste Runter	方向键 下
+data_v__data_v__gg_text__ongame_misc_ger.sal	42	Richtungstaste Links	方向键 左
+data_v__data_v__gg_text__ongame_misc_ger.sal	43	Richtungstaste Rechts	方向键 右
+data_v__data_v__gg_text__ongame_misc_ger.sal	44	(unbekannte Taste)	（未知按键）
+data_v__data_v__gg_text__ongame_misc_ger.sal	45	HAUPTMENÜ	主菜单
+data_v__data_v__gg_text__ongame_misc_ger.sal	46	SPIELSTAND LADEN	读取存档
+data_v__data_v__gg_text__ongame_misc_ger.sal	47	SPIELSTAND SPEICHERN	保存存档
+data_v__data_v__gg_text__ongame_misc_ger.sal	48	EINSTELLUNGEN	设置
+data_v__data_v__gg_text__ongame_misc_ger.sal	49	BILDSCHIRMAUFLÖSUNGEN	屏幕分辨率
+data_v__data_v__gg_text__ongame_misc_ger.sal	50	CD-SPIELER	CD 播放器
+data_v__data_v__gg_text__ongame_misc_ger.sal	51	DEBUG	调试
+data_v__data_v__gg_text__ongame_misc_ger.sal	52	Zurück zum Hauptmenü	返回主菜单
+data_v__data_v__gg_text__ongame_misc_ger.sal	53	Laden	读取
+data_v__data_v__gg_text__ongame_misc_ger.sal	54	Speichern	保存
+data_v__data_v__gg_text__ongame_misc_ger.sal	55	Beobachtungskamera	观察镜头
+data_v__data_v__gg_text__ongame_misc_ger.sal	56	Übersichtskarte	总览地图
+data_v__data_v__gg_text__ongame_misc_ger.sal	57	Baue Haus	建造房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	58	Übersicht Figuren	人物总览
+data_v__data_v__gg_text__ongame_misc_ger.sal	59	Übersicht Gebäude	建筑总览
+data_v__data_v__gg_text__ongame_misc_ger.sal	60	Statistiken	统计数据
+data_v__data_v__gg_text__ongame_misc_ger.sal	61	Technologische Entwicklung	技术发展
+data_v__data_v__gg_text__ongame_misc_ger.sal	62	Hilfe	帮助
+data_v__data_v__gg_text__ongame_misc_ger.sal	63	Bildschirmauflösung	屏幕分辨率
+data_v__data_v__gg_text__ongame_misc_ger.sal	64	CD-Spieler	CD 播放器
+data_v__data_v__gg_text__ongame_misc_ger.sal	65	Einstellungen	设置
+data_v__data_v__gg_text__ongame_misc_ger.sal	66	Spielstand 1	存档 1
+data_v__data_v__gg_text__ongame_misc_ger.sal	67	Spielstand 2	存档 2
+data_v__data_v__gg_text__ongame_misc_ger.sal	68	Spielstand 3	存档 3
+data_v__data_v__gg_text__ongame_misc_ger.sal	69	Spielstand 4	存档 4
+data_v__data_v__gg_text__ongame_misc_ger.sal	70	Spielstand 5	存档 5
+data_v__data_v__gg_text__ongame_misc_ger.sal	71	Spielstand 6	存档 6
+data_v__data_v__gg_text__ongame_misc_ger.sal	72	Spielstand 7	存档 7
+data_v__data_v__gg_text__ongame_misc_ger.sal	73	Spielstand 8	存档 8
+data_v__data_v__gg_text__ongame_misc_ger.sal	74	Spielstand 9	存档 9
+data_v__data_v__gg_text__ongame_misc_ger.sal	75	Spielstand 10	存档 10
+data_v__data_v__gg_text__ongame_misc_ger.sal	76	Speichere Spielstand 1	保存到存档 1
+data_v__data_v__gg_text__ongame_misc_ger.sal	77	Speichere Spielstand 2	保存到存档 2
+data_v__data_v__gg_text__ongame_misc_ger.sal	78	Speichere Spielstand 3	保存到存档 3
+data_v__data_v__gg_text__ongame_misc_ger.sal	79	Speichere Spielstand 4	保存到存档 4
+data_v__data_v__gg_text__ongame_misc_ger.sal	80	Speichere Spielstand 5	保存到存档 5
+data_v__data_v__gg_text__ongame_misc_ger.sal	81	Speichere Spielstand 6	保存到存档 6
+data_v__data_v__gg_text__ongame_misc_ger.sal	82	Speichere Spielstand 7	保存到存档 7
+data_v__data_v__gg_text__ongame_misc_ger.sal	83	Speichere Spielstand 8	保存到存档 8
+data_v__data_v__gg_text__ongame_misc_ger.sal	84	Speichere Spielstand 9	保存到存档 9
+data_v__data_v__gg_text__ongame_misc_ger.sal	85	Speichere Spielstand 10	保存到存档 10
+data_v__data_v__gg_text__ongame_misc_ger.sal	86	Automatisches Speichern jede Minute	每分钟自动保存
+data_v__data_v__gg_text__ongame_misc_ger.sal	87	Automatisches Speichern alle 5 Minuten	每 5 分钟自动保存
+data_v__data_v__gg_text__ongame_misc_ger.sal	88	Automatisches Speichern alle 15 Minuten	每 15 分钟自动保存
+data_v__data_v__gg_text__ongame_misc_ger.sal	89	Automatisches Speichern ausschalten	关闭自动保存
+data_v__data_v__gg_text__ongame_misc_ger.sal	90	Scrolle, wenn dritte Maustaste gedrückt	按住鼠标中键时滚动
+data_v__data_v__gg_text__ongame_misc_ger.sal	91	Scrolle, wenn Maus am Bildschirmrand	鼠标移到屏幕边缘时滚动
+data_v__data_v__gg_text__ongame_misc_ger.sal	92	Scrolle, wenn dritte Maustaste gedrückt oder am Bildschirmrand	按住鼠标中键或鼠标在屏幕边缘时滚动
+data_v__data_v__gg_text__ongame_misc_ger.sal	93	Benutze Software-Mauszeiger	使用软件鼠标指针
+data_v__data_v__gg_text__ongame_misc_ger.sal	94	Benutze Hardware-Mauszeiger	使用硬件鼠标指针
+data_v__data_v__gg_text__ongame_misc_ger.sal	95	Niedrige Detailstufe (schneller)	低细节（更快）
+data_v__data_v__gg_text__ongame_misc_ger.sal	96	Mittlere Detailstufe	中细节
+data_v__data_v__gg_text__ongame_misc_ger.sal	97	Höchste Detailstufe (langsamer)	最高细节（更慢）
+data_v__data_v__gg_text__ongame_misc_ger.sal	98	Bildschirm-Helligkeit erhöhen	提高屏幕亮度
+data_v__data_v__gg_text__ongame_misc_ger.sal	99	Bildschirm-Helligkeit erniedrigen	降低屏幕亮度
+data_v__data_v__gg_text__ongame_misc_ger.sal	100	%d * %d Pixel - %d Bit Farbtiefe	%d × %d 像素 - %d 位色深
+data_v__data_v__gg_text__ongame_misc_ger.sal	101	Stoppe CD-Spieler	停止 CD 播放器
+data_v__data_v__gg_text__ongame_misc_ger.sal	102	Starte Track %d	播放曲目 %d
+data_v__data_v__gg_text__ongame_misc_ger.sal	103	FERTIG	完成
+data_v__data_v__gg_text__ongame_misc_ger.sal	104	Das ist %s\r\n	这是 %s\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	105	· %s ist %d Jahre alt\r\n	· %s 年龄 %d 岁\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	106	Er	男
+data_v__data_v__gg_text__ongame_misc_ger.sal	107	Sie	女
+data_v__data_v__gg_text__ongame_misc_ger.sal	108	* Er arbeitet als %s\r\n	* 职业为 %s\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	109	* Möchte %s werden\r\n	* 想成为 %s\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	110	* Hat gerade nichts zu tun\r\n	* 现在无事可做\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	111	* Hat kein Zuhause\r\n	* 没有住所\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	112	* Geht einer Arbeit nach\r\n	* 正在从事工作\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	113	* Macht Ausbildung zum %s\r\n	* 正在接受 %s 培训\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	114	    (%d%% Lernerfolg)\r\n	    （学习进度 %d%%）\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	115	Meisterbriefe:\r\n	职业证书：\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	116	  * %s\r\n	  * %s\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	117	  Keine\r\n	  无\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	118	* Ist mit %s verheiratet\r\n	* 与 %s 已婚\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	119	* Möchte %s heiraten\r\n	* 想娶 %s\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	120	* Wünscht sich ein Kind\r\n	* 想要一个孩子\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	121	* Hat kürzlich %d mal gegessen\r\n	* 最近进食 %d 次\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	122	* Hat kürzlich %d mal gearbeitet\r\n	* 最近工作 %d 次\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	123	* Hat kürzlich %d mal gegessen\r\n	* 最近进食 %d 次\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	124	* Bekam bereits %d Kinder\r\n	* 已有 %d 个孩子\r\n
+data_v__data_v__gg_text__ongame_misc_ger.sal	125	Arbeit	工作
+data_v__data_v__gg_text__ongame_misc_ger.sal	126	Mer.	职业：
+data_v__data_v__gg_text__ongame_misc_ger.sal	127	Abbrechen	取消
+data_v__data_v__gg_text__ongame_misc_ger.sal	128	Arbeitsplatz zuweisen	指派工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	129	Arbeitsplatz wegnehmen	收回工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	130	Arbeitsplatz anzeigen	显示工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	131	Arbeitsbereich anzeigen	显示工作区域
+data_v__data_v__gg_text__ongame_misc_ger.sal	132	Arbeitsbereich Mittelpunkt setzen	设置工作区域中心点
+data_v__data_v__gg_text__ongame_misc_ger.sal	133	Beruf wechseln	更换职业
+data_v__data_v__gg_text__ongame_misc_ger.sal	134	Baue Haus	建造房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	135	Wohnung zuweisen	指派住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	136	Wohnung wegnehmen	收回住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	137	Heirate	结婚
+data_v__data_v__gg_text__ongame_misc_ger.sal	138	Ach nö	哎呀，不要
+data_v__data_v__gg_text__ongame_misc_ger.sal	139	Ein Junge wäre nett!	来个男孩就好了！
+data_v__data_v__gg_text__ongame_misc_ger.sal	140	Vielleicht ein Mädchen?!	也许是个女孩？！
+data_v__data_v__gg_text__ongame_misc_ger.sal	141	Besser nicht	还是算了
+data_v__data_v__gg_text__ongame_misc_ger.sal	142	Allgemein	一般
+data_v__data_v__gg_text__ongame_misc_ger.sal	143	%d%% fertig	%d%% 完成
+data_v__data_v__gg_text__ongame_misc_ger.sal	144	%s ist hungrig	%s 饿了
+data_v__data_v__gg_text__ongame_misc_ger.sal	145	%s hat kein Zuhause	%s 没有住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	146	%s hat sich verlaufen	%s 迷路了
+data_v__data_v__gg_text__ongame_misc_ger.sal	147	%s braucht jemanden zum reden	%s 需要有人聊天
+data_v__data_v__gg_text__ongame_misc_ger.sal	148	%s möchte beten	%s 想祈祷
+data_v__data_v__gg_text__ongame_misc_ger.sal	149	%s möchte heiraten	%s 想结婚
+data_v__data_v__gg_text__ongame_misc_ger.sal	150	%s wünscht sich ein Kind	%s 想要孩子
+data_v__data_v__gg_text__ongame_misc_ger.sal	151	%s ist nun erwachsen	%s 已成年
+data_v__data_v__gg_text__ongame_misc_ger.sal	152	%s möchte in Wohnung einziehen	%s 想搬进住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	153	%s hat nichts zu tun	%s 无事可做
+data_v__data_v__gg_text__ongame_misc_ger.sal	154	%s kann eine Ware nicht finden	%s 找不到一种物资
+data_v__data_v__gg_text__ongame_misc_ger.sal	155	%s hat die gewünschte Warenmenge hergestellt	%s 已生产出所需数量的物资
+data_v__data_v__gg_text__ongame_misc_ger.sal	156	%s ist sehr erfahren und kann trainiert werden	%s 经验丰富，可以接受训练
+data_v__data_v__gg_text__ongame_misc_ger.sal	157	%s hat neuen Beruf erfunden	%s 发明了新职业
+data_v__data_v__gg_text__ongame_misc_ger.sal	158	%s findet keinen Weg nach Hause	%s 找不到回家的路
+data_v__data_v__gg_text__ongame_misc_ger.sal	159	%s hat die Ausbildung in der Schule abgeschlossen	%s 已完成学校培训
+data_v__data_v__gg_text__ongame_misc_ger.sal	160	%s wartet in der Schule	%s 正在学校等待
+data_v__data_v__gg_text__ongame_misc_ger.sal	161	%s erreicht seinen Arbeitsplatz nicht	%s 无法到达工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	162	%s hat ein Gebäude verlassen, weil er hungrig ist	%s 因饥饿离开了建筑
+data_v__data_v__gg_text__ongame_misc_ger.sal	163	%s besitzt keinen gültigen Handelsvertrag	%s 没有有效的贸易契约
+data_v__data_v__gg_text__ongame_misc_ger.sal	164	%s findet keine Waren, um den Handelsvertrag zu erfüllen	%s 找不到物资来履行贸易契约
+data_v__data_v__gg_text__ongame_misc_ger.sal	165	Ein Haus wurde fertig gestellt	一栋房屋已完工
+data_v__data_v__gg_text__ongame_misc_ger.sal	166	Dieses Haus steht schon lange leer	这栋房子已空置很久
+data_v__data_v__gg_text__ongame_misc_ger.sal	167	Diesem Haus sind die Rohstoffe ausgegangen	这栋房子的原料已耗尽
+data_v__data_v__gg_text__ongame_misc_ger.sal	168	<point attacked>	<受攻击地点>
+data_v__data_v__gg_text__ongame_misc_ger.sal	169	%s ist gestorben	%s 去世了
+data_v__data_v__gg_text__ongame_misc_ger.sal	170	%s hat seine Einstelllung zu ihrem Volk geändert	%s 改变了对您民族的态度
+data_v__data_v__gg_text__ongame_misc_ger.sal	171	Das Volk von %s hat diese Welt verlassen	%s 的民族已离开了这个世界
+data_v__data_v__gg_text__ongame_misc_ger.sal	172	Ein Dorfbewohner ist gestorben	一名村民去世了
+data_v__data_v__gg_text__ongame_misc_ger.sal	173	OK	确定
+data_v__data_v__gg_text__ongame_misc_ger.sal	174	Heirate	结婚
+data_v__data_v__gg_text__ongame_misc_ger.sal	175	Ach nö	哎呀，不要
+data_v__data_v__gg_text__ongame_misc_ger.sal	176	Ein Junge wäre nett!	来个男孩就好了！
+data_v__data_v__gg_text__ongame_misc_ger.sal	177	Vielleicht ein Mädchen?!	也许是个女孩？！
+data_v__data_v__gg_text__ongame_misc_ger.sal	178	Besser nicht	还是算了
+data_v__data_v__gg_text__ongame_misc_ger.sal	179	Ja	是
+data_v__data_v__gg_text__ongame_misc_ger.sal	180	Nein	否
+data_v__data_v__gg_text__ongame_misc_ger.sal	181	Leute	居民
+data_v__data_v__gg_text__ongame_misc_ger.sal	182	Nachrichten zu den Leuten an/aus	居民消息 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	183	Arbeit	工作
+data_v__data_v__gg_text__ongame_misc_ger.sal	184	Nachrichten zu den Arbeitern an/aus	工人消息 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	185	Häuser	房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	186	Nachrichten zu den Gebäuden an/aus	建筑消息 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	187	STATISTIKEN	统计
+data_v__data_v__gg_text__ongame_misc_ger.sal	188	Leute	居民
+data_v__data_v__gg_text__ongame_misc_ger.sal	189	Berufe	职业
+data_v__data_v__gg_text__ongame_misc_ger.sal	190	Gebäude	建筑
+data_v__data_v__gg_text__ongame_misc_ger.sal	191	Gebäudeliste	建筑列表
+data_v__data_v__gg_text__ongame_misc_ger.sal	192	Waren	物资
+data_v__data_v__gg_text__ongame_misc_ger.sal	193	Verschiedenes	其他
+data_v__data_v__gg_text__ongame_misc_ger.sal	194	Friedhof	墓地
+data_v__data_v__gg_text__ongame_misc_ger.sal	195	1Std	1 小时
+data_v__data_v__gg_text__ongame_misc_ger.sal	196	2Std	2 小时
+data_v__data_v__gg_text__ongame_misc_ger.sal	197	5Std	5 小时
+data_v__data_v__gg_text__ongame_misc_ger.sal	198	10Std	10 小时
+data_v__data_v__gg_text__ongame_misc_ger.sal	199	Gesamt	总计
+data_v__data_v__gg_text__ongame_misc_ger.sal	200	Männer	男人
+data_v__data_v__gg_text__ongame_misc_ger.sal	201	Frauen	女人
+data_v__data_v__gg_text__ongame_misc_ger.sal	202	Kinder	孩子
+data_v__data_v__gg_text__ongame_misc_ger.sal	203	Soldaten	士兵
+data_v__data_v__gg_text__ongame_misc_ger.sal	204	Schwertkämpfer	剑士
+data_v__data_v__gg_text__ongame_misc_ger.sal	205	Speerträger	矛兵
+data_v__data_v__gg_text__ongame_misc_ger.sal	206	Bogenschützen	弓箭手
+data_v__data_v__gg_text__ongame_misc_ger.sal	207	Gesamt	总计
+data_v__data_v__gg_text__ongame_misc_ger.sal	208	Wohnungen	住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	209	Arbeitsplätze	工作岗位
+data_v__data_v__gg_text__ongame_misc_ger.sal	210	Gesamt	总计
+data_v__data_v__gg_text__ongame_misc_ger.sal	211	Hochzeiten	婚礼
+data_v__data_v__gg_text__ongame_misc_ger.sal	212	Geburten	出生
+data_v__data_v__gg_text__ongame_misc_ger.sal	213	Todesfälle	死亡
+data_v__data_v__gg_text__ongame_misc_ger.sal	214	DIPLOMATIE	外交
+data_v__data_v__gg_text__ongame_misc_ger.sal	215	Feind	敌人
+data_v__data_v__gg_text__ongame_misc_ger.sal	216	Neutral	中立
+data_v__data_v__gg_text__ongame_misc_ger.sal	217	Freund	盟友
+data_v__data_v__gg_text__ongame_misc_ger.sal	218	Übersicht	总览
+data_v__data_v__gg_text__ongame_misc_ger.sal	219	Tabelle	表格
+data_v__data_v__gg_text__ongame_misc_ger.sal	220	Es wurde kein anderer Stamm gesichtet!	没有发现其他部落！
+data_v__data_v__gg_text__ongame_misc_ger.sal	221	Mein Volk befindet sich mit euch im Krieg! Sollte es einer eurer Leute wagen, sich uns zu nähern, werden wir sofort angreifen!	我的民族与你们处于战争状态！若你们的人胆敢靠近，我们将立即进攻！
+data_v__data_v__gg_text__ongame_misc_ger.sal	222	Zwischen euch und meinem Volk herrscht Friede, doch haben wir keine Freundschaft geschlossen.	我们之间和平相处，但尚未缔结友谊。
+data_v__data_v__gg_text__ongame_misc_ger.sal	223	Friede und Freundschaft verbindet unsere beiden Stämme. Unsere Lagerstätten stehen euren Händlern zum Tausch offen.	和平与友谊联结着我们两个部落。我们的仓库向你们的商人开放交易。
+data_v__data_v__gg_text__ongame_misc_ger.sal	224	Du bist ihm feindlich gesinnt.	您对他持敌对态度。
+data_v__data_v__gg_text__ongame_misc_ger.sal	225	Du stehst ihm neutral gegenüber.	您对他持中立态度。
+data_v__data_v__gg_text__ongame_misc_ger.sal	226	Du bist ihm freundlich gesinnt.	您对他持友好态度。
+data_v__data_v__gg_text__ongame_misc_ger.sal	227	Um den Diplomatiestatus zu ändern, betätige den entsprechenden Button.	要更改外交状态，请按下相应按钮。
+data_v__data_v__gg_text__ongame_misc_ger.sal	228	Wenn ihr wollt, dass Friede zwischen unseren Völkern einkehrt, zahlt uns folgenden Tribut:	如果你们希望我们两国之间实现和平，请向我们缴纳以下贡品：
+data_v__data_v__gg_text__ongame_misc_ger.sal	229	Wenn ihr wollt, dass wir mit euch Freundschaft schließen, zahlt uns folgenden Tribut:	如果你们希望与我们缔结盟约，请向我们缴纳以下贡品：
+data_v__data_v__gg_text__ongame_misc_ger.sal	230	Er wird seine Einstellung wohl nicht mehr ändern.	他大概不会再改变态度了。
+data_v__data_v__gg_text__ongame_misc_ger.sal	231	Bezahle Tribut	缴纳贡品
+data_v__data_v__gg_text__ongame_misc_ger.sal	232	davon im Lager	其中在仓库
+data_v__data_v__gg_text__ongame_misc_ger.sal	233	HILFE	帮助
+data_v__data_v__gg_text__ongame_misc_ger.sal	234	Zum Textanfang	回到文本开头
+data_v__data_v__gg_text__ongame_misc_ger.sal	235	Rückwärts	向后
+data_v__data_v__gg_text__ongame_misc_ger.sal	236	Vorwärts	向前
+data_v__data_v__gg_text__ongame_misc_ger.sal	237	Zum Textende	到文本末尾
+data_v__data_v__gg_text__ongame_misc_ger.sal	238	TECHNOLOGIE	技术
+data_v__data_v__gg_text__ongame_misc_ger.sal	239	Bewohner	居民
+data_v__data_v__gg_text__ongame_misc_ger.sal	240	Zum Textanfang	回到文本开头
+data_v__data_v__gg_text__ongame_misc_ger.sal	241	Rückwärts	向后
+data_v__data_v__gg_text__ongame_misc_ger.sal	242	Vorwärts	向前
+data_v__data_v__gg_text__ongame_misc_ger.sal	243	Zum Textende	到文本末尾
+data_v__data_v__gg_text__ongame_misc_ger.sal	244	Autoscroll	自动滚动
+data_v__data_v__gg_text__ongame_misc_ger.sal	245	Schließe Übersicht	关闭总览
+data_v__data_v__gg_text__ongame_misc_ger.sal	246	Leute an/aus	居民 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	247	Soldaten an/aus	士兵 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	248	Tiere an/aus	动物 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	249	Gebäude an/aus	建筑 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	250	Straßen an/aus	道路 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	251	Wegweiser an/aus	路标 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	252	FIGURENLISTE	人物列表
+data_v__data_v__gg_text__ongame_misc_ger.sal	253	Typ	类型
+data_v__data_v__gg_text__ongame_misc_ger.sal	254	Beruf	职业
+data_v__data_v__gg_text__ongame_misc_ger.sal	255	Meisterbrief	大师证书
+data_v__data_v__gg_text__ongame_misc_ger.sal	256	Mängel	缺陷
+data_v__data_v__gg_text__ongame_misc_ger.sal	257	Männer an/aus	男人 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	258	Frauen an/aus	女人 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	259	Kinder an/aus	儿童 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	260	Soldaten an/aus	士兵 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	261	Berufe	职业
+data_v__data_v__gg_text__ongame_misc_ger.sal	262	Lösche Berufsfilter	清除职业筛选
+data_v__data_v__gg_text__ongame_misc_ger.sal	263	Meisterbriefe	大师证书
+data_v__data_v__gg_text__ongame_misc_ger.sal	264	Lösche Meisterbrief-Filter	清除大师证书筛选
+data_v__data_v__gg_text__ongame_misc_ger.sal	265	Alleinstehend an/aus	单身 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	266	Arbeitslos an/aus	失业 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	267	Wohnungslos an/aus	无住所 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	268	Hungrig an/aus	饥饿 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	269	Kinderlos an/aus	无子女 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	270	Verfügbare Bonuspunkte an/aus	可用技能点 开/关
+data_v__data_v__gg_text__ongame_misc_ger.sal	271	Alle Filter zurücksetzen	重置所有筛选
+data_v__data_v__gg_text__ongame_misc_ger.sal	272	Jahre alt	岁
+data_v__data_v__gg_text__ongame_misc_ger.sal	273	%d Einwohner in der Liste	列表中有 %d 位居民
+data_v__data_v__gg_text__ongame_misc_ger.sal	274	Baue Straße	建造道路
+data_v__data_v__gg_text__ongame_misc_ger.sal	275	Grabe nach Wasser	挖掘水源
+data_v__data_v__gg_text__ongame_misc_ger.sal	276	Baue Zaun	建造围栏
+data_v__data_v__gg_text__ongame_misc_ger.sal	277	Baue Wegweiser	建造路标
+data_v__data_v__gg_text__ongame_misc_ger.sal	278	EIGENE HANDELSANGEBOTE	自己的贸易报价
+data_v__data_v__gg_text__ongame_misc_ger.sal	279	Springe zur Figur	跳到人物处
+data_v__data_v__gg_text__ongame_misc_ger.sal	280	Kleines Beobachtungsfenster	小观察窗口
+data_v__data_v__gg_text__ongame_misc_ger.sal	281	Figur umbenennen	给人物改名
+data_v__data_v__gg_text__ongame_misc_ger.sal	282	Beruf wechseln	更换职业
+data_v__data_v__gg_text__ongame_misc_ger.sal	283	Arbeitsplatz zuweisen	指派工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	284	Arbeitsplatz wegnehmen	收回工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	285	Arbeitsbereich Mittelpunkt setzen	设置工作区域中心点
+data_v__data_v__gg_text__ongame_misc_ger.sal	286	Arbeitsbereich anzeigen	显示工作区域
+data_v__data_v__gg_text__ongame_misc_ger.sal	287	Springe zum Arbeitshaus	跳到工作建筑
+data_v__data_v__gg_text__ongame_misc_ger.sal	288	Baue ein Haus	建造一栋房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	289	Aggressiv-Modus	进攻模式
+data_v__data_v__gg_text__ongame_misc_ger.sal	290	Defensiv-Modus	防御模式
+data_v__data_v__gg_text__ongame_misc_ger.sal	291	Gehe dahin	前往那里
+data_v__data_v__gg_text__ongame_misc_ger.sal	292	Schlaf!	睡觉！
+data_v__data_v__gg_text__ongame_misc_ger.sal	293	Iss!	吃饭！
+data_v__data_v__gg_text__ongame_misc_ger.sal	294	Stopp!	停下！
+data_v__data_v__gg_text__ongame_misc_ger.sal	295	Baue einen Wegweiser	建造一个路标
+data_v__data_v__gg_text__ongame_misc_ger.sal	296	Rode den Wald	砍伐森林
+data_v__data_v__gg_text__ongame_misc_ger.sal	297	Den Handelsvertrag wechseln	更换贸易契约
+data_v__data_v__gg_text__ongame_misc_ger.sal	298	Ersten Handelsposten zuweisen	指派第一贸易站
+data_v__data_v__gg_text__ongame_misc_ger.sal	299	Zweiten Handelsposten zuweisen	指派第二贸易站
+data_v__data_v__gg_text__ongame_misc_ger.sal	300	Ersten Handelsposten löschen	删除第一贸易站
+data_v__data_v__gg_text__ongame_misc_ger.sal	301	Zweiten Handelsposten löschen	删除第二贸易站
+data_v__data_v__gg_text__ongame_misc_ger.sal	302	Eine Wohnung zuweisen	指派住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	303	Die Wohnung wegnehmen	收回住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	304	Springe zur Wohnung	跳到住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	305	Springe zum Ehepartner	跳到伴侣
+data_v__data_v__gg_text__ongame_misc_ger.sal	306	Ehepartner suchen	寻找伴侣
+data_v__data_v__gg_text__ongame_misc_ger.sal	307	Dem Kundschafter folgen	跟随侦察兵
+data_v__data_v__gg_text__ongame_misc_ger.sal	308	Bekomme einen Jungen	得到一个男孩
+data_v__data_v__gg_text__ongame_misc_ger.sal	309	Bekomme ein Mädchen	得到一个女孩
+data_v__data_v__gg_text__ongame_misc_ger.sal	310	Beobachte Figur	观察人物
+data_v__data_v__gg_text__ongame_misc_ger.sal	311	Verfügbare Bonuspunkte: %d	可用技能点：%d
+data_v__data_v__gg_text__ongame_misc_ger.sal	312	Bonus	技能点
+data_v__data_v__gg_text__ongame_misc_ger.sal	313	Angriffsstärke	攻击力
+data_v__data_v__gg_text__ongame_misc_ger.sal	314	Verteidigungsfähigkeit	防御力
+data_v__data_v__gg_text__ongame_misc_ger.sal	315	Angriffsradius	攻击范围
+data_v__data_v__gg_text__ongame_misc_ger.sal	316	Beobachtungsradius	视野范围
+data_v__data_v__gg_text__ongame_misc_ger.sal	317	Partner	伴侣
+data_v__data_v__gg_text__ongame_misc_ger.sal	318	Wohnung	住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	319	Arbeitsplatz	工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	320	Springe zum Haus	跳到房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	321	Haus abreißen	拆除房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	322	Wechsle Verteidigungsmodus	切换防御模式
+data_v__data_v__gg_text__ongame_misc_ger.sal	323	Handelsangebote	贸易报价
+data_v__data_v__gg_text__ongame_misc_ger.sal	324	Verteidigungsmodus aktiviert	防御模式已开启
+data_v__data_v__gg_text__ongame_misc_ger.sal	325	Verteidigungsmodus nicht aktiviert	防御模式未开启
+data_v__data_v__gg_text__ongame_misc_ger.sal	326	Produktion:	产量：
+data_v__data_v__gg_text__ongame_misc_ger.sal	327	Produktion erhöhen	提高产量
+data_v__data_v__gg_text__ongame_misc_ger.sal	328	Produktion verringern	降低产量
+data_v__data_v__gg_text__ongame_misc_ger.sal	329	Kapazität %d	容量 %d
+data_v__data_v__gg_text__ongame_misc_ger.sal	330	Benötigte Waren:	所需物资：
+data_v__data_v__gg_text__ongame_misc_ger.sal	331	Handelsangebote	贸易报价
+data_v__data_v__gg_text__ongame_misc_ger.sal	332	Lager:	仓库：
+data_v__data_v__gg_text__ongame_misc_ger.sal	333	Kosten:	费用：
+data_v__data_v__gg_text__ongame_misc_ger.sal	334	fehlt %d (im Lager %d)	缺少 %d（仓库中 %d）
+data_v__data_v__gg_text__ongame_misc_ger.sal	335	Vorheriger Rekrut/Soldat	上一个新兵/士兵
+data_v__data_v__gg_text__ongame_misc_ger.sal	336	Nächster Rekrut/Soldat	下一个新兵/士兵
+data_v__data_v__gg_text__ongame_misc_ger.sal	337	Bilde Rekruten aus/Rüste Soldat aus	训练新兵/装备士兵
+data_v__data_v__gg_text__ongame_misc_ger.sal	338	Zum Zivilisten machen	转为平民
+data_v__data_v__gg_text__ongame_misc_ger.sal	339	Bogenschütze I	弓箭手 I
+data_v__data_v__gg_text__ongame_misc_ger.sal	340	Bogenschütze II	弓箭手 II
+data_v__data_v__gg_text__ongame_misc_ger.sal	341	Bogenschütze III	弓箭手 III
+data_v__data_v__gg_text__ongame_misc_ger.sal	342	Schwertkämpfer I	剑士 I
+data_v__data_v__gg_text__ongame_misc_ger.sal	343	Schwertkämpfer II	剑士 II
+data_v__data_v__gg_text__ongame_misc_ger.sal	344	Schwertkämpfer III	剑士 III
+data_v__data_v__gg_text__ongame_misc_ger.sal	345	Speerträger I	矛兵 I
+data_v__data_v__gg_text__ongame_misc_ger.sal	346	Speerträger II	矛兵 II
+data_v__data_v__gg_text__ongame_misc_ger.sal	347	Speerträger III	矛兵 III
+data_v__data_v__gg_text__ongame_misc_ger.sal	348	Mit Bier ausrüsten	配备啤酒
+data_v__data_v__gg_text__ongame_misc_ger.sal	349	Kaserne verlassen	离开兵营
+data_v__data_v__gg_text__ongame_misc_ger.sal	350	Verringere Mindestbestand	降低最低库存
+data_v__data_v__gg_text__ongame_misc_ger.sal	351	Erhöhe Mindestbestand	提高最低库存
+data_v__data_v__gg_text__ongame_misc_ger.sal	352	Verringere Wunschmenge	降低目标数量
+data_v__data_v__gg_text__ongame_misc_ger.sal	353	Erhöhe Wunschmenge	提高目标数量
+data_v__data_v__gg_text__ongame_misc_ger.sal	354	Springe zum Wegweiser	跳到路标
+data_v__data_v__gg_text__ongame_misc_ger.sal	355	Einflussbereich	影响范围
+data_v__data_v__gg_text__ongame_misc_ger.sal	356	Umbenennen (nicht implementiert)	重命名（未实现）
+data_v__data_v__gg_text__ongame_misc_ger.sal	357	Wegweiser entfernen	移除路标
+data_v__data_v__gg_text__ongame_misc_ger.sal	358	Meter	米
+data_v__data_v__gg_text__ongame_misc_ger.sal	359	Name:	名称：
+data_v__data_v__gg_text__ongame_misc_ger.sal	360	Motivationsfaktoren: 	激励因素：
+data_v__data_v__gg_text__ongame_misc_ger.sal	361	Geselligkeit 	社交
+data_v__data_v__gg_text__ongame_misc_ger.sal	362	Religion 	宗教
+data_v__data_v__gg_text__ongame_misc_ger.sal	363	Waren im Umkreis: 	周边物资：
+data_v__data_v__gg_text__ongame_misc_ger.sal	364	Springe zur Markierung	跳到标记处
+data_v__data_v__gg_text__ongame_misc_ger.sal	365	Markierung entfernen	移除标记
+data_v__data_v__gg_text__ongame_misc_ger.sal	366	Straßenbau Markierung	道路施工标记
+data_v__data_v__gg_text__ongame_misc_ger.sal	367	Zaunbau Markierung	围栏施工标记
+data_v__data_v__gg_text__ongame_misc_ger.sal	368	Wasser Markierung	水源标记
+data_v__data_v__gg_text__ongame_misc_ger.sal	369	Hausbau Markierung	房屋施工标记
+data_v__data_v__gg_text__ongame_misc_ger.sal	370	Schließt das Fenster	关闭窗口
+data_v__data_v__gg_text__ongame_misc_ger.sal	371	Entfernen	移除
+data_v__data_v__gg_text__ongame_misc_ger.sal	372	Laufbereich	活动范围
+data_v__data_v__gg_text__ongame_misc_ger.sal	373	VE	经验值
+data_v__data_v__gg_text__ongame_misc_ger.sal	374	VC	技能点
+data_v__data_v__gg_text__ongame_misc_ger.sal	375	Debug	调试
+data_v__data_v__gg_text__ongame_misc_ger.sal	376	Leeren	清空
+data_v__data_v__gg_text__ongame_misc_ger.sal	377	Füllen	填满
+data_v__data_v__gg_text__ongame_misc_ger.sal	378	Stärke	力量
+data_v__data_v__gg_text__ongame_misc_ger.sal	379	Ausdauer	耐力
+data_v__data_v__gg_text__ongame_misc_ger.sal	380	Redekunst	口才
+data_v__data_v__gg_text__ongame_misc_ger.sal	381	Frömmigkeit	虔诚
+data_v__data_v__gg_text__ongame_misc_ger.sal	382	Nahrung	食物
+data_v__data_v__gg_text__ongame_misc_ger.sal	383	Schlaf	睡眠
+data_v__data_v__gg_text__ongame_misc_ger.sal	384	Unterhaltung	娱乐
+data_v__data_v__gg_text__ongame_misc_ger.sal	385	Religion	宗教
+data_v__data_v__gg_text__ongame_misc_ger.sal	386	Mann	男人
+data_v__data_v__gg_text__ongame_misc_ger.sal	387	Frau	女人
+data_v__data_v__gg_text__ongame_misc_ger.sal	388	Kind	儿童
+data_v__data_v__gg_text__ongame_misc_ger.sal	389	Arbeiter	工人
+data_v__data_v__gg_text__ongame_misc_ger.sal	390	Bauarbeiter	建筑工人
+data_v__data_v__gg_text__ongame_misc_ger.sal	391	Lehrling	学徒
+data_v__data_v__gg_text__ongame_misc_ger.sal	392	Träger	搬运工
+data_v__data_v__gg_text__ongame_misc_ger.sal	393	lebt in Wohnung Nummer	住在住所编号
+data_v__data_v__gg_text__ongame_misc_ger.sal	394	Besucher	访客
+data_v__data_v__gg_text__ongame_misc_ger.sal	395	Wähle	选择
+data_v__data_v__gg_text__ongame_misc_ger.sal	396	Wähle eine Figur	选择一个人物
+data_v__data_v__gg_text__ongame_misc_ger.sal	397	Wähle ein Zuhause	选择一个住所
+data_v__data_v__gg_text__ongame_misc_ger.sal	398	Wähle einen Arbeitsplatz	选择一个工作场所
+data_v__data_v__gg_text__ongame_misc_ger.sal	399	Wähle ein Lager	选择一个仓库
+data_v__data_v__gg_text__ongame_misc_ger.sal	400	Wähle ein Haus	选择一栋房屋
+data_v__data_v__gg_text__ongame_misc_ger.sal	401	Wähle eine Position	选择一个位置
+data_v__data_v__gg_text__ongame_misc_ger.sal	402	Wähle eine Postition für das Haus	为房屋选择一个位置
+data_v__data_v__gg_text__ongame_misc_ger.sal	403	Wähle eine Postition für das Landschaftselement	为景观元素选择一个位置
+data_v__data_v__gg_text__ongame_misc_ger.sal	404	Wähle eine Postition für den Wegweiser	为路标选择一个位置
+data_v__data_v__gg_text__ongame_misc_ger.sal	405	Wähle einen Startpunkt für die Straße	选择道路起点
+data_v__data_v__gg_text__ongame_misc_ger.sal	406	Wähle einen Endpunkt für die Straße	选择道路终点
+data_v__data_v__gg_text__ongame_misc_ger.sal	407	Wähle einen Startpunkt für den Zaun	选择围栏起点
+data_v__data_v__gg_text__ongame_misc_ger.sal	408	Wähle einen Endpunkt für den Zaun	选择围栏终点
+data_v__data_v__gg_text__ongame_misc_ger.sal	409	Wähle einen Startpunkt, um nach Wasser zu graben	选择挖水起点
+data_v__data_v__gg_text__ongame_misc_ger.sal	410	Wähle einen Endpunkt, um nach Wasser zu graben	选择挖水终点
+data_v__data_v__gg_text__ongame_misc_ger.sal	411	Sende	发送
+data_v__data_v__gg_text__ongame_misc_ger.sal	412	Wähle eine Stelle, um Nahrung zu suchen	选择一处寻找食物的地点
+data_v__data_v__gg_text__ongame_misc_ger.sal	413	Wähle eine Stelle, um den Wald zu roden	选择一处砍伐森林的地点
+data_v__data_v__gg_text__ongame_misc_ger.sal	414	Zeige den Laufbereich	显示活动范围
+data_v__data_v__gg_text__ongame_misc_ger.sal	415	Zeige den Arbeitsbereich	显示工作区域
+data_v__data_v__gg_text__ongame_misc_ger.sal	416	Setze den Arbeitsbereich-Mittelpunkt	设置工作区域中心点
+data_v__data_v__gg_text__ongame_misc_ger.sal	417	Zeige, wo Häuser gebaut werden können	显示可建房位置
+data_v__data_v__gg_text__ongame_misc_ger.sal	418	%s hat das Spiel verlassen!	%s 已退出游戏！
+data_v__data_v__gg_text__ongame_misc_ger.sal	419	NETZWERKPROBLEME!!!	网络问题！！！
+data_v__data_v__gg_text__ongame_misc_ger.sal	420	Erwirtschafte %d %s ( %d bisher )	生产 %d %s（目前 %d）
+data_v__data_v__gg_text__ongame_misc_ger.sal	421	Vernichte alle Gegner	消灭所有敌人
+data_v__data_v__gg_text__ongame_misc_ger.sal	422	Erreiche eine Bevölkerungsgröße von %d Leuten ( %d bisher )	人口达到 %d（目前 %d）
+data_v__data_v__gg_text__ongame_misc_ger.sal	423	fertig	完成
+data_v__data_v__gg_text__ongame_misc_ger.sal	424	(automatisch gespeichert)	（已自动保存）
+data_v__data_v__gg_text__ongame_misc_ger.sal	425	(schnell gespeichert)	（已快速保存）
+data_v__data_v__gg_text__ongame_misc_ger.sal	426	Spieler	玩家
+data_v__data_v__gg_text__ongame_misc_ger.sal	427	Wegweiser	路标
+data_v__data_v__gg_text__ongame_misc_ger.sal	428	Nummer %d	编号 %d
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	0	Schneeballwerfer	雪球投手
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	1	Söldner Bogenschütze	雇佣弓箭手
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	2	Söldner Axtkämpfer	雇佣斧手
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	3	Söldner anheuern:	雇佣佣兵：
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	4	Den Tribut zahlen, um Söldner anzuheuern	支付贡品以雇佣佣兵
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	5	Bogenschütze	弓箭手
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	6	Speerkämpfer	长矛兵
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	7	Axtkämpfer	斧兵
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	8	Meister-Bogenschütze	弓箭大师
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	9	Meister-Axtkämpfer	斧术大师
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	10	Meister-Bogenschütze	弓箭大师
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	11	Meister-Speerkämpfer	矛术大师
+data_v__data_v__gg_text__ongame_mission_cd1_ger.sal	12	Bjarnis Onkel	比亚尼的叔叔
+data_v__data_v__gg_text__system_ger.sal	0	autorun.exe	
+data_v__data_v__gg_text__system_ger.sal	1	autorun.inf	
+data_v__data_v__gg_text__system_ger.sal	2	cd.idx	
+data_v__data_v__gg_text__system_ger.sal	3	cultures.ico	
+data_v__data_v__gg_text__system_ger.sal	4	data.tag	
+data_v__data_v__gg_text__system_ger.sal	5	data1.cab	
+data_v__data_v__gg_text__system_ger.sal	6	data1.hdr	
+data_v__data_v__gg_text__system_ger.sal	7	data2.cab	
+data_v__data_v__gg_text__system_ger.sal	8	dx7ager.exe	
+data_v__data_v__gg_text__system_ger.sal	9	lang.dat	
+data_v__data_v__gg_text__system_ger.sal	10	layout.bin	
+data_v__data_v__gg_text__system_ger.sal	11	os.dat	
+data_v__data_v__gg_text__system_ger.sal	12	setup.bmp	
+data_v__data_v__gg_text__system_ger.sal	13	setup.exe	
+data_v__data_v__gg_text__system_ger.sal	14	setup.ini	
+data_v__data_v__gg_text__system_ger.sal	15	setup.ins	
+data_v__data_v__gg_text__system_ger.sal	16	setup.lid	
+data_v__data_v__gg_text__system_ger.sal	17	_inst32i.ex_	
+data_v__data_v__gg_text__system_ger.sal	18	_isdel.exe	
+data_v__data_v__gg_text__system_ger.sal	19	_setup.dll	
+data_v__data_v__gg_text__system_ger.sal	20	_sys1.cab	
+data_v__data_v__gg_text__system_ger.sal	21	_sys1.hdr	
+data_v__data_v__gg_text__system_ger.sal	22	_user1.cab	
+data_v__data_v__gg_text__system_ger.sal	23	_user1.hdr	
+data_v__data_v__gg_text__system_ger.sal	24	noitarolpxenuf	
+data_v__data_v__gg_text__system_ger.sal	25	pudeepsnuf	
+data_v__data_v__gg_text__system_ger.sal	26	adeirfnuf	
+data_v__data_v__gg_text__system_ger.sal	27	pullifnuf	
+data_v__data_v__gg_text__system_ger.sal	28	rewoperomnuf	
+data_v__data_v__gg_text__system_ger.sal	29	kcirevamnuf	
+data_v__data_v__gg_text__system_ger.sal	30	21erutcipnuf	
+data_v__data_v__gg_text__system_ger.sal	31	52erutcipnuf	
+data_v__data_v__gg_text__system_ger.sal	32	001erutcipnuf	
+data_v__data_v__gg_text__system_ger.sal	33	pusdaehnuf	
+data_v__data_v__gg_text__system_ger.sal	34	nwodsdaehnuf	
+data_v__data_v__gg_text__system_ger.sal	35	nosdaehnuf	
+data_v__data_v__gg_text__system_ger.sal	36	txensrolocnuf	
+data_v__data_v__gg_text__system_ger.sal	37	tesersrolocnuf	
+data_v__data_v__gg_text__system_ger.sal	38	tikcehcpcnufnuf	
+data_v__data_v__gg_text__system_ger.sal	39	etatspcnufnuf	

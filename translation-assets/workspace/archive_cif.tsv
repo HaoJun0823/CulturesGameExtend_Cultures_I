@@ -1,0 +1,1255 @@
+﻿# Cultures Gold - CIF 任务文本存档
+# 格式: source_file	line_no	ger_raw	ger_text	chinese
+# ger_raw = 原始行(含sn/s前缀), ger_text = 引号内纯文本
+data_m__data_m__c1_01_a_txt.cif	1	"sn 0 ""Grönland"""	Grönland	格陵兰
+data_m__data_m__c1_01_a_txt.cif	2	"s ""Bevor das Schiff in See stechen kann, müssen die Wikinger sich um genügend Vorräte kümmern."""	Bevor das Schiff in See stechen kann, müssen die Wikinger sich um genügend Vorräte kümmern.	出航前，维京人必须准备充足的物资。
+data_m__data_m__c1_01_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_01_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_01_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_01_a_txt.cif	6	"s ""Eisnasen"""	Eisnasen	冰鼻族
+data_m__data_m__c1_01_a_txt.cif	7	"s ""HattekalteFüsse"""	HattekalteFüsse	冻脚
+data_m__data_m__c1_01_a_txt.cif	8	"s ""Das freundliche Nordlingvolk"""	Das freundliche Nordlingvolk	友好的北地人
+data_m__data_m__c1_01_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_01_a_txt.cif	10	"sn 100 ""Erwirtschafte 100 Nahrung ({MISC} bisher)"""	Erwirtschafte 100 Nahrung ({MISC} bisher)	产出100食物（已 {MISC}）
+data_m__data_m__c1_01_a_txt.cif	11	"s ""Erwirtschafte 30 Hölzer ({MISC} bisher)"""	Erwirtschafte 30 Hölzer ({MISC} bisher)	产出30木材（已 {MISC}）
+data_m__data_m__c1_01_a_txt.cif	12	"s ""Erwirtschafte 30 Leder ({MISC} bisher)"""	Erwirtschafte 30 Leder ({MISC} bisher)	产出30皮革（已 {MISC}）
+data_m__data_m__c1_02_a_txt.cif	1	"sn 0 ""Helluland"""	Helluland	地狱岛
+data_m__data_m__c1_02_a_txt.cif	2	"s ""Die Wikinger entdecken eine neue Welt. Dabei geraten sie in einen Konflikt zwischen zwei verfeindeten Dörfern."""	Die Wikinger entdecken eine neue Welt. Dabei geraten sie in einen Konflikt zwischen zwei verfeindeten Dörfern.	维京人发现了一片新大陆，却卷入了两个敌对村落之间的冲突。
+data_m__data_m__c1_02_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_02_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_02_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_02_a_txt.cif	6	"s ""Schwarzfüße"""	Schwarzfüße	黑脚族
+data_m__data_m__c1_02_a_txt.cif	7	"s ""Hopi"""	Hopi	霍皮族
+data_m__data_m__c1_02_a_txt.cif	8	"s ""...ein freundliches Dorf..."""	...ein freundliches Dorf...	...一个友好的村落...
+data_m__data_m__c1_02_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_02_a_txt.cif	10	"sn 30 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__c1_02_a_txt.cif	11	"s ""Nabu"""	Nabu	Nabu
+data_m__data_m__c1_02_a_txt.cif	12	"s ""...ein merkwürdiges Dorf..."""	...ein merkwürdiges Dorf...	...一个奇怪的村落...
+data_m__data_m__c1_02_a_txt.cif	13	"sn 100 ""Handel 20 Speere mit den Inuit ({MISC} bisher)"""	Handel 20 Speere mit den Inuit ({MISC} bisher)	与因纽特人交易20支长矛（已 {MISC}）
+data_m__data_m__c1_02_a_txt.cif	14	"s ""Handel 20 Nahrung mit den Inuit ({MISC} bisher)"""	Handel 20 Nahrung mit den Inuit ({MISC} bisher)	与因纽特人交易20食物（已 {MISC}）
+data_m__data_m__c1_02_a_txt.cif	15	"s ""Handel 50 Speere mit den Schwarzfüßen ({MISC} bisher)"""	Handel 50 Speere mit den Schwarzfüßen ({MISC} bisher)	与黑脚族交易50支长矛（已 {MISC}）
+data_m__data_m__c1_02_a_txt.cif	16	"s ""Erkunde die Gegend und finde heraus, wo sich der Sonnensplitter befindet"""	Erkunde die Gegend und finde heraus, wo sich der Sonnensplitter befindet	探索周围地区，找出太阳碎片的下落
+data_m__data_m__c1_03_a_txt.cif	1	"sn 0 ""Markland"""	Markland	林地
+data_m__data_m__c1_03_a_txt.cif	2	"s ""Wald soweit das Auge reicht! Zum ersten Mal treffen die Wikinger hier auf fremdartige Rotgesichter."""	Wald soweit das Auge reicht! Zum ersten Mal treffen die Wikinger hier auf fremdartige Rotgesichter.	满眼都是森林！维京人第一次在这里遇见了奇怪的红脸人。
+data_m__data_m__c1_03_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_03_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_03_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_03_a_txt.cif	6	"sn 30 ""Dunkelwälder"""	Dunkelwälder	暗林族
+data_m__data_m__c1_03_a_txt.cif	7	"s ""Natterkop"""	Natterkop	Natterkop
+data_m__data_m__c1_03_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_03_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_03_a_txt.cif	10	"sn 40 ""Krummnasen"""	Krummnasen	弯鼻族
+data_m__data_m__c1_03_a_txt.cif	11	"s ""Hinkender Bär"""	Hinkender Bär	瘸腿熊
+data_m__data_m__c1_03_a_txt.cif	12	"s """""		"s """""
+data_m__data_m__c1_03_a_txt.cif	13	"sn 100 ""Erhandle den Sonnenstein"""	Erhandle den Sonnenstein	交易获取太阳石
+data_m__data_m__c1_03_a_txt.cif	14	"s ""Handel 20 Bier mit den Krummnasen ({MISC} bisher)"""	Handel 20 Bier mit den Krummnasen ({MISC} bisher)	与弯鼻族交易20啤酒（已 {MISC}）
+data_m__data_m__c1_03_a_txt.cif	15	"s ""Handel 30 Bier mit den Krummnasen ({MISC} bisher)"""	Handel 30 Bier mit den Krummnasen ({MISC} bisher)	与弯鼻族交易30啤酒（已 {MISC}）
+data_m__data_m__c1_03_a_txt.cif	16	"s ""Handel 10 Holzwerkzeuge mit den Krummnasen ({MISC} bisher)"""	Handel 10 Holzwerkzeuge mit den Krummnasen ({MISC} bisher)	与弯鼻族交易10木工具（已 {MISC}）
+data_m__data_m__c1_03_a_txt.cif	17	"s ""Handel 50 Bier mit den Krummnasen ({MISC} bisher)"""	Handel 50 Bier mit den Krummnasen ({MISC} bisher)	与弯鼻族交易50啤酒（已 {MISC}）
+data_m__data_m__c1_03_a_txt.cif	18	"s ""Handel 20 Holzwerkzeuge mit den Krummnasen ({MISC} bisher)"""	Handel 20 Holzwerkzeuge mit den Krummnasen ({MISC} bisher)	与弯鼻族交易20木工具（已 {MISC}）
+data_m__data_m__c1_03_a_txt.cif	19	"s ""Handel 70 Bier mit den Krummnasen ({MISC} bisher)"""	Handel 70 Bier mit den Krummnasen ({MISC} bisher)	与弯鼻族交易70啤酒（已 {MISC}）
+data_m__data_m__c1_03_a_txt.cif	20	"s ""Handel 30 Holzwerkzeuge mit den Krummnasen ({MISC} bisher)"""	Handel 30 Holzwerkzeuge mit den Krummnasen ({MISC} bisher)	与弯鼻族交易30木工具（已 {MISC}）
+data_m__data_m__c1_04_a_txt.cif	1	"sn 0 ""Vinland"""	Vinland	酒地
+data_m__data_m__c1_04_a_txt.cif	2	"s ""Endlich! Das gelobte Land! Doch nicht alles ist Gold, was glänzt."""	Endlich! Das gelobte Land! Doch nicht alles ist Gold, was glänzt.	终于！应许之地！但闪光的未必都是金子。
+data_m__data_m__c1_04_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_04_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_04_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_04_a_txt.cif	6	"sn 30 ""Gelbmesser"""	Gelbmesser	黄刀族
+data_m__data_m__c1_04_a_txt.cif	7	"s ""Ugga Walla"""	Ugga Walla	Ugga Walla
+data_m__data_m__c1_04_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_04_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_04_a_txt.cif	10	"sn 100 ""Erreiche eine Bevölkerungszahl von 30 ({MISC} bisher)"""	Erreiche eine Bevölkerungszahl von 30 ({MISC} bisher)	人口达到30（已 {MISC}）
+data_m__data_m__c1_04_a_txt.cif	11	"s ""Baue einen Turm zur Verteidigung"""	Baue einen Turm zur Verteidigung	建造一座防御塔
+data_m__data_m__c1_04_a_txt.cif	12	"s ""Sammle 30 Pilze ({MISC} bisher)"""	Sammle 30 Pilze ({MISC} bisher)	采集30蘑菇（已 {MISC}）
+data_m__data_m__c1_04_a_txt.cif	13	"s ""Sammle 30 Leder ({MISC} bisher)"""	Sammle 30 Leder ({MISC} bisher)	采集30皮革（已 {MISC}）
+data_m__data_m__c1_04_a_txt.cif	14	"s ""Sammle 50 Hölzer ({MISC} bisher)"""	Sammle 50 Hölzer ({MISC} bisher)	采集50木材（已 {MISC}）
+data_m__data_m__c1_04_a_txt.cif	15	"s ""Sammle 80 Nahrung ({MISC} bisher)"""	Sammle 80 Nahrung ({MISC} bisher)	采集80食物（已 {MISC}）
+data_m__data_m__c1_05_a_txt.cif	1	"sn 0 ""Mississippi"""	Mississippi	密西西比
+data_m__data_m__c1_05_a_txt.cif	2	"s ""In einem Land voller Flüsse geraten die Wikinger zwischen die Fronten zweier verfeindeter Indianerstämme."""	In einem Land voller Flüsse geraten die Wikinger zwischen die Fronten zweier verfeindeter Indianerstämme.	在河流纵横的大地上，维京人陷入了两个敌对印第安部族的夹缝之中。
+data_m__data_m__c1_05_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_05_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_05_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_05_a_txt.cif	6	"sn 30 ""Langnasen"""	Langnasen	长鼻族
+data_m__data_m__c1_05_a_txt.cif	7	"s ""Stinkender Dachs"""	Stinkender Dachs	臭獾
+data_m__data_m__c1_05_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_05_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_05_a_txt.cif	10	"sn 40 ""Plattfüße"""	Plattfüße	扁脚族
+data_m__data_m__c1_05_a_txt.cif	11	"s ""Jaulenden Kojoten"""	Jaulenden Kojoten	嚎叫的郊狼
+data_m__data_m__c1_05_a_txt.cif	12	"s """""		"s """""
+data_m__data_m__c1_05_a_txt.cif	13	"sn 50 ""Nachtjäger"""	Nachtjäger	夜猎族
+data_m__data_m__c1_05_a_txt.cif	14	"s ""Stille Eule"""	Stille Eule	寂静猫头鹰
+data_m__data_m__c1_05_a_txt.cif	15	"s """""		"s """""
+data_m__data_m__c1_05_a_txt.cif	16	"sn 100 ""Liefere 10 Bögen ({MISC} bisher)"""	Liefere 10 Bögen ({MISC} bisher)	交付10张弓（已 {MISC}）
+data_m__data_m__c1_05_a_txt.cif	17	"s ""und 50 Bier zu den Langnasen ({MISC} bisher)"""	und 50 Bier zu den Langnasen ({MISC} bisher)	和50啤酒给长鼻族（已 {MISC}）
+data_m__data_m__c1_05_a_txt.cif	18	"s ""oder 10 Bögen ({MISC} bisher)"""	oder 10 Bögen ({MISC} bisher)	或10张弓（已 {MISC}）
+data_m__data_m__c1_05_a_txt.cif	19	"s ""und 50 Bier zu den Plattfüßen ({MISC} bisher)"""	und 50 Bier zu den Plattfüßen ({MISC} bisher)	和50啤酒给扁脚族（已 {MISC}）
+data_m__data_m__c1_05_a_txt.cif	20	"s ""Liefere einem der Indianerstämme 10 Bögen und 50 Bier"""	Liefere einem der Indianerstämme 10 Bögen und 50 Bier	向其中一个印第安部族交付10张弓和50啤酒
+data_m__data_m__c1_06_a_txt.cif	1	"sn 0 ""Texas"""	Texas	德克萨斯
+data_m__data_m__c1_06_a_txt.cif	2	"s ""Die Wikinger müssen eine Wüste durchqueren und machen dabei eine erstaunliche Entdeckung."""	Die Wikinger müssen eine Wüste durchqueren und machen dabei eine erstaunliche Entdeckung.	维京人必须穿越沙漠，途中却有惊人发现。
+data_m__data_m__c1_06_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_06_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_06_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_06_a_txt.cif	6	"sn 30 ""Vinländer"""	Vinländer	酒地人
+data_m__data_m__c1_06_a_txt.cif	7	"s ""ReienderBüffel"""	ReienderBüffel	骑牛者
+data_m__data_m__c1_06_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_06_a_txt.cif	9	"sn 40 ""Räuber"""	Räuber	强盗
+data_m__data_m__c1_06_a_txt.cif	10	"s ""Ragnar"""	Ragnar	Ragnar
+data_m__data_m__c1_06_a_txt.cif	11	"s """""		"s """""
+data_m__data_m__c1_06_a_txt.cif	12	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_06_a_txt.cif	13	"sn 100 ""Vernichte die Vinländer"""	Vernichte die Vinländer	消灭酒地人
+data_m__data_m__c1_07_a_txt.cif	1	"sn 0 ""Der Krater"""	Der Krater	巨坑
+data_m__data_m__c1_07_a_txt.cif	2	"s ""Hinter einem hohen Gebirge befindet sich ein Krater, der ein gut gehütetes Geheimnis birgt."""	Hinter einem hohen Gebirge befindet sich ein Krater, der ein gut gehütetes Geheimnis birgt.	在高耸的山脉背后有一个巨坑，隐藏着一个严密守护的秘密。
+data_m__data_m__c1_07_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_07_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_07_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_07_a_txt.cif	6	"sn 30 ""Vinländer"""	Vinländer	酒地人
+data_m__data_m__c1_07_a_txt.cif	7	"s ""RauchendeSocke"""	RauchendeSocke	冒烟袜
+data_m__data_m__c1_07_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_07_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_07_a_txt.cif	10	"sn 100 ""Zerstöre den Tempel"""	Zerstöre den Tempel	摧毁神庙
+data_m__data_m__c1_08_a_txt.cif	1	"sn 0 ""RockyMountains"""	RockyMountains	落基山脉
+data_m__data_m__c1_08_a_txt.cif	2	"s ""Ein versprengter Spähtrupp der Wikinger wartet in dieser Berglandschaft dringend auf Hilfe."""	Ein versprengter Spähtrupp der Wikinger wartet in dieser Berglandschaft dringend auf Hilfe.	一支失散的维京侦察队在群山中焦急等待救援。
+data_m__data_m__c1_08_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_08_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_08_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_08_a_txt.cif	6	"sn 30 ""Rotgesichter"""	Rotgesichter	红脸族
+data_m__data_m__c1_08_a_txt.cif	7	"s ""StinkenderDachs"""	StinkenderDachs	臭獾
+data_m__data_m__c1_08_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_08_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_08_a_txt.cif	10	"sn 100 ""Fülle das Lagerzelt der Vorhut mit 20 Einheiten Nahrung ({MISC} bisher)"""	Fülle das Lagerzelt der Vorhut mit 20 Einheiten Nahrung ({MISC} bisher)	为前锋营帐补充20份食物（已 {MISC}）
+data_m__data_m__c1_08_a_txt.cif	11	"s ""und 10 Speeren auf ({MISC} bisher)"""	und 10 Speeren auf ({MISC} bisher)	和10支长矛（已 {MISC}）
+data_m__data_m__c1_09_a_txt.cif	1	"sn 0 ""Mexiko"""	Mexiko	墨西哥
+data_m__data_m__c1_09_a_txt.cif	2	"s ""Nach den Strapazen der Berge wollen sich die Wikinger in dieser schönen Gegend erholen. Aber es kommt anders."""	Nach den Strapazen der Berge wollen sich die Wikinger in dieser schönen Gegend erholen. Aber es kommt anders.	经历了山脉的艰辛，维京人想在这片美丽之地休整一番。但事与愿违。
+data_m__data_m__c1_09_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_09_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_09_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_09_a_txt.cif	6	"sn 30 ""Nachos"""	Nachos	纳乔族
+data_m__data_m__c1_09_a_txt.cif	7	"s ""Chicken Wing"""	Chicken Wing	鸡翅
+data_m__data_m__c1_09_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_09_a_txt.cif	9	"sn 40 ""Palenque"""	Palenque	帕伦克
+data_m__data_m__c1_09_a_txt.cif	10	"s ""Pacal"""	Pacal	Pacal
+data_m__data_m__c1_09_a_txt.cif	11	"s """""		"s """""
+data_m__data_m__c1_09_a_txt.cif	12	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_09_a_txt.cif	13	"sn 100 ""Finde einen Hinweis auf den nächsten Sonnenstein"""	Finde einen Hinweis auf den nächsten Sonnenstein	寻找下一个太阳石的线索
+data_m__data_m__c1_09_a_txt.cif	14	"s ""Unterstütze die Nachos in ihrem Kampf gegen die Eindringlinge"""	Unterstütze die Nachos in ihrem Kampf gegen die Eindringlinge	协助纳乔族对抗入侵者
+data_m__data_m__c1_10_a_txt.cif	1	"sn 0 ""Die Verfolgung"""	Die Verfolgung	追击
+data_m__data_m__c1_10_a_txt.cif	2	"s ""Die Wikinger verfolgen ihre geheimnisvollen Feinde und erleben eine böse Überraschung."""	Die Wikinger verfolgen ihre geheimnisvollen Feinde und erleben eine böse Überraschung.	维京人追踪神秘的敌人，却遭遇了意想不到的打击。
+data_m__data_m__c1_10_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_10_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_10_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_10_a_txt.cif	6	"sn 30 ""Nachos"""	Nachos	纳乔族
+data_m__data_m__c1_10_a_txt.cif	7	"s ""Chicken Wing"""	Chicken Wing	鸡翅
+data_m__data_m__c1_10_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_10_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_10_a_txt.cif	10	"sn 40 ""Palenque"""	Palenque	帕伦克
+data_m__data_m__c1_10_a_txt.cif	11	"s ""Pacal"""	Pacal	Pacal
+data_m__data_m__c1_10_a_txt.cif	12	"s """""		"s """""
+data_m__data_m__c1_10_a_txt.cif	13	"sn 100 ""Finde und vernichte die feindlichen Angreifer"""	Finde und vernichte die feindlichen Angreifer	找到并消灭来犯之敌
+data_m__data_m__c1_10_a_txt.cif	14	"s ""Besiege die heimtückischen Nachos"""	Besiege die heimtückischen Nachos	击败阴险的纳乔族
+data_m__data_m__c1_11_a_txt.cif	1	"sn 0 ""Chichen Itza"""	Chichen Itza	奇琴伊察
+data_m__data_m__c1_11_a_txt.cif	2	"s ""Göttervater Odin führt die Wikinger quer durch den Dschungel, direkt auf eine fremde Stadt zu."""	Göttervater Odin führt die Wikinger quer durch den Dschungel, direkt auf eine fremde Stadt zu.	众神之父奥丁引领维京人穿越丛林，直奔一座异族城市。
+data_m__data_m__c1_11_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_11_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_11_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_11_a_txt.cif	6	"sn 30 ""Apoteken"""	Apoteken	阿波特克
+data_m__data_m__c1_11_a_txt.cif	7	"s ""Tecum Seh"""	Tecum Seh	Tecum Seh
+data_m__data_m__c1_11_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_11_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_11_a_txt.cif	10	"sn 100 ""Finde den Sonnenstein"""	Finde den Sonnenstein	找到太阳石
+data_m__data_m__c1_11_a_txt.cif	11	"s ""Zerstöre den Tempel der Mayas und erobere den Heiligen Stein"""	Zerstöre den Tempel der Mayas und erobere den Heiligen Stein	摧毁玛雅人的神庙并夺取圣石
+data_m__data_m__c1_12_a_txt.cif	1	"sn 0 ""Jah Maika"""	Jah Maika	牙买加
+data_m__data_m__c1_12_a_txt.cif	2	"s ""Auf einer idyllischen Insel in der Karibik machen die Wikinger einen Zwischenstopp."""	Auf einer idyllischen Insel in der Karibik machen die Wikinger einen Zwischenstopp.	维京人在加勒比海一座田园般的小岛上停靠休整。
+data_m__data_m__c1_12_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_12_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_12_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_12_a_txt.cif	6	"sn 30 ""Papagayos"""	Papagayos	鹦鹉族
+data_m__data_m__c1_12_a_txt.cif	7	"s ""Plappernder Vogel"""	Plappernder Vogel	喋喋鸟
+data_m__data_m__c1_12_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_12_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_12_a_txt.cif	10	"sn 40 ""Pinacolada"""	Pinacolada	Pinacolada
+data_m__data_m__c1_12_a_txt.cif	11	"s ""Fallende Nuss"""	Fallende Nuss	落果
+data_m__data_m__c1_12_a_txt.cif	12	"s """""		"s """""
+data_m__data_m__c1_12_a_txt.cif	13	"sn 100 ""Fülle deine Lager mit 200 Einheiten Nahrung auf ({MISC} bisher)"""	Fülle deine Lager mit 200 Einheiten Nahrung auf ({MISC} bisher)	仓库储备补充至200份食物（已 {MISC}）
+data_m__data_m__c1_13_a_txt.cif	1	"sn 0 ""Die Rückkehr"""	Die Rückkehr	回归
+data_m__data_m__c1_13_a_txt.cif	2	"s ""In der Heimat der Wikinger haben sich Gäste einquartiert, die keineswegs willkommen sind."""	In der Heimat der Wikinger haben sich Gäste einquartiert, die keineswegs willkommen sind.	维京人的故土被一群不速之客占据，他们绝非善类。
+data_m__data_m__c1_13_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_13_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_13_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_13_a_txt.cif	6	"sn 30 ""Ig Luus"""	Ig Luus	伊格卢斯
+data_m__data_m__c1_13_a_txt.cif	7	"s ""TriefendeNase"""	TriefendeNase	流鼻涕
+data_m__data_m__c1_13_a_txt.cif	8	"s """""		"s """""
+data_m__data_m__c1_13_a_txt.cif	9	"sn 20 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c1_13_a_txt.cif	10	"sn 40 ""Impoteken"""	Impoteken	因波特克
+data_m__data_m__c1_13_a_txt.cif	11	"s ""Tobaco"""	Tobaco	Tobaco
+data_m__data_m__c1_13_a_txt.cif	12	"s """""		"s """""
+data_m__data_m__c1_13_a_txt.cif	13	"sn 100 ""Finde die Zuflucht der Mayas, vernichte sie und hol dir den letzten Sonnenstein"""	Finde die Zuflucht der Mayas, vernichte sie und hol dir den letzten Sonnenstein	找到玛雅人的藏身之处，消灭他们并夺取最后的太阳石
+data_m__data_m__c1_md_05_txt.cif	1	"sn 0 ""*[*  Arizona"""	*[*  Arizona	"sn 0 ""*[*  亚利桑那"""
+data_m__data_m__c1_md_05_txt.cif	2	"s ""Die Wikinger treffen auf den unbekannten Gegner"""	Die Wikinger treffen auf den unbekannten Gegner	"s ""维京人遭遇未知敌人"""
+data_m__data_m__c1_md_05_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_md_05_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_md_05_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_md_05_txt.cif	6	"sn 20 ""Chinchillas"""	Chinchillas	"sn 20 ""奇奇尔人"""
+data_m__data_m__c1_md_05_txt.cif	7	"s ""Hasenfuss"""	Hasenfuss	"s ""兔子脚"""
+data_m__data_m__c1_md_05_txt.cif	8	"s ""Das freundliche Vinlandvolk"""	Das freundliche Vinlandvolk	"s ""友善的文兰之民"""
+data_m__data_m__c1_md_05_txt.cif	9	"sn 30 ""Regenkrieger"""	Regenkrieger	"sn 30 ""雨之战士"""
+data_m__data_m__c1_md_05_txt.cif	10	"s ""Kuzakilla"""	Kuzakilla	"s ""库扎基拉"""
+data_m__data_m__c1_md_05_txt.cif	11	"s ""Die Anhänger des Regengottes"""	Die Anhänger des Regengottes	"s ""雨神的追随者"""
+data_m__data_m__c1_md_05_txt.cif	12	"sn 40 ""Manitoos Volk"""	Manitoos Volk	"sn 40 ""曼尼托族"""
+data_m__data_m__c1_md_05_txt.cif	13	"s ""Skunkatonka"""	Skunkatonka	"s ""斯坎卡顿卡"""
+data_m__data_m__c1_md_05_txt.cif	14	"s ""Das hochnäsige Vinlandvolk"""	Das hochnäsige Vinlandvolk	"s ""傲慢的文兰之民"""
+data_m__data_m__c1_md_05_txt.cif	15	"sn 50 ""Das Seevolk"""	Das Seevolk	"sn 50 ""湖畔之民"""
+data_m__data_m__c1_md_05_txt.cif	16	"s ""Schuhschuh"""	Schuhschuh	"s ""舒舒"""
+data_m__data_m__c1_md_05_txt.cif	17	"s ""Opfer der Regenkrieger"""	Opfer der Regenkrieger	"s ""雨之战士的牺牲品"""
+data_m__data_m__c1_md_05_txt.cif	18	"sn 60 ""Gelbmesser"""	Gelbmesser	"sn 60 ""黄刀族"""
+data_m__data_m__c1_md_05_txt.cif	19	"s ""Winipuh"""	Winipuh	"s ""维尼普"""
+data_m__data_m__c1_md_05_txt.cif	20	"s ""Der entführte Häuptlingssohn"""	Der entführte Häuptlingssohn	"s ""被掳走的酋长之子"""
+data_m__data_m__c1_md_05_txt.cif	21	"sn 70 ""Bjarni"""	Bjarni	"sn 70 ""比雅尼"""
+data_m__data_m__c1_md_05_txt.cif	22	"sn 71 ""Winipuh"""	Winipuh	"sn 71 ""维尼普"""
+data_m__data_m__c1_md_05_txt.cif	23	"sn 72 ""Sören"""	Sören	"sn 72 ""索伦"""
+data_m__data_m__c1_md_05_txt.cif	24	"sn 73 ""Thorwal"""	Thorwal	"sn 73 ""托尔瓦尔"""
+data_m__data_m__c1_md_05_txt.cif	25	"sn 100 "" """	 	"sn 100 "" """
+data_m__data_m__c1_md_05_txt.cif	26	"s ""Kläre auf was passiert ist"""	Kläre auf was passiert ist	"s ""查明发生了什么"""
+data_m__data_m__c1_md_05_txt.cif	27	"s ""Finde den Häuptlingssohn"""	Finde den Häuptlingssohn	"s ""找到酋长之子"""
+data_m__data_m__c1_md_05_txt.cif	28	"s ""Finde und besiege die fremden Krieger"""	Finde und besiege die fremden Krieger	"s ""找到并击败外族战士"""
+data_m__data_m__c1_md_06_txt.cif	1	"sn 0 ""*[*  Die Festung des Regengottes"""	*[*  Die Festung des Regengottes	"sn 0 ""*[*  雨神的要塞"""
+data_m__data_m__c1_md_06_txt.cif	2	"s ""Die Wikinger erreichen die Stadt des Regengottes"""	Die Wikinger erreichen die Stadt des Regengottes	"s ""维京人抵达雨神之城"""
+data_m__data_m__c1_md_06_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_md_06_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_md_06_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_md_06_txt.cif	6	"sn 20 ""Cuazinta"""	Cuazinta	"sn 20 ""夸辛塔"""
+data_m__data_m__c1_md_06_txt.cif	7	"s ""Montemantu"""	Montemantu	"s ""蒙特曼图"""
+data_m__data_m__c1_md_06_txt.cif	8	"s ""Das freundliche Mayavolk"""	Das freundliche Mayavolk	"s ""友善的玛雅部族"""
+data_m__data_m__c1_md_06_txt.cif	9	"sn 30 ""Regenkrieger"""	Regenkrieger	"sn 30 ""雨之战士"""
+data_m__data_m__c1_md_06_txt.cif	10	"s ""Quetzalcoatl"""	Quetzalcoatl	"s ""羽蛇神"""
+data_m__data_m__c1_md_06_txt.cif	11	"s ""Die Anhänger des Regengottes"""	Die Anhänger des Regengottes	"s ""雨神的追随者"""
+data_m__data_m__c1_md_06_txt.cif	12	"sn 40 ""Tzulucetl"""	Tzulucetl	"sn 40 ""祖卢塞特尔"""
+data_m__data_m__c1_md_06_txt.cif	13	"s ""Zumahintazu"""	Zumahintazu	"s ""祖玛辛塔祖"""
+data_m__data_m__c1_md_06_txt.cif	14	"s ""Die Dschungelmaya"""	Die Dschungelmaya	"s ""丛林玛雅人"""
+data_m__data_m__c1_md_06_txt.cif	15	"sn 50 ""Quetzalcoatl"""	Quetzalcoatl	"sn 50 ""羽蛇神"""
+data_m__data_m__c1_md_06_txt.cif	16	"s ""Quetzalcoatl"""	Quetzalcoatl	"s ""羽蛇神"""
+data_m__data_m__c1_md_06_txt.cif	17	"s ""Der Regengott"""	Der Regengott	"s ""雨神"""
+data_m__data_m__c1_md_06_txt.cif	18	"sn 60 ""Wolkenaugen"""	Wolkenaugen	"sn 60 ""云眼"""
+data_m__data_m__c1_md_06_txt.cif	19	"s ""Büffelherz"""	Büffelherz	"s ""野牛之心"""
+data_m__data_m__c1_md_06_txt.cif	20	"s ""Das unterdrückte Vinlandvolk"""	Das unterdrückte Vinlandvolk	"s ""受压迫的文兰之民"""
+data_m__data_m__c1_md_06_txt.cif	21	"sn 70 ""Bjarni"""	Bjarni	"sn 70 ""比雅尼"""
+data_m__data_m__c1_md_06_txt.cif	22	"sn 71 ""Quetzalcoatl"""	Quetzalcoatl	"sn 71 ""羽蛇神"""
+data_m__data_m__c1_md_06_txt.cif	23	"s ""Sören"""	Sören	"s ""索伦"""
+data_m__data_m__c1_md_06_txt.cif	24	"s ""Thorwal"""	Thorwal	"s ""托尔瓦尔"""
+data_m__data_m__c1_md_06_txt.cif	25	"sn 100 ""Besiege den Regengott Quetzalcoatl"""	Besiege den Regengott Quetzalcoatl	"sn 100 ""击败雨神羽蛇神"""
+data_m__data_m__c1_md_06_txt.cif	26	"s ""Zerstöre den Tempel des Regengottes"""	Zerstöre den Tempel des Regengottes	"s ""摧毁雨神的神庙"""
+data_m__data_m__c1_md_06_txt.cif	27	"s ""Finde die Dschungelmayas"""	Finde die Dschungelmayas	"s ""寻找丛林玛雅人"""
+data_m__data_m__c1_md_07_txt.cif	1	"sn 0 ""*[*  Tag der Entscheidung"""	*[*  Tag der Entscheidung	"sn 0 ""*[*  决战之日"""
+data_m__data_m__c1_md_07_txt.cif	2	"s ""Die Wikinger stellen den Regengott im Sumpfland"""	Die Wikinger stellen den Regengott im Sumpfland	"s ""维京人在沼泽之地对抗雨神"""
+data_m__data_m__c1_md_07_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c1_md_07_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c1_md_07_txt.cif	5	"s """""		"s """""
+data_m__data_m__c1_md_07_txt.cif	6	"sn 20 ""Zintapinta"""	Zintapinta	"sn 20 ""辛塔平塔"""
+data_m__data_m__c1_md_07_txt.cif	7	"s ""Pintuma"""	Pintuma	"s ""平图玛"""
+data_m__data_m__c1_md_07_txt.cif	8	"s ""Das freundliche Mayavolk"""	Das freundliche Mayavolk	"s ""友善的玛雅部族"""
+data_m__data_m__c1_md_07_txt.cif	9	"sn 30 ""Regenkrieger"""	Regenkrieger	"sn 30 ""雨之战士"""
+data_m__data_m__c1_md_07_txt.cif	10	"s ""Quetzalcoatl"""	Quetzalcoatl	"s ""羽蛇神"""
+data_m__data_m__c1_md_07_txt.cif	11	"s ""Die Anhänger des Regengottes"""	Die Anhänger des Regengottes	"s ""雨神的追随者"""
+data_m__data_m__c1_md_07_txt.cif	12	"sn 40 ""Quetzalcoatl"""	Quetzalcoatl	"sn 40 ""羽蛇神"""
+data_m__data_m__c1_md_07_txt.cif	13	"s ""Quetzalcoatl"""	Quetzalcoatl	"s ""羽蛇神"""
+data_m__data_m__c1_md_07_txt.cif	14	"s ""Der falsche Regengott"""	Der falsche Regengott	"s ""伪雨神"""
+data_m__data_m__c1_md_07_txt.cif	15	"sn 50 ""Maradorn Sippe"""	Maradorn Sippe	"sn 50 ""玛拉多恩氏族"""
+data_m__data_m__c1_md_07_txt.cif	16	"s ""Maradorn"""	Maradorn	"s ""玛拉多恩"""
+data_m__data_m__c1_md_07_txt.cif	17	"s ""Hilfe aus der Heimat"""	Hilfe aus der Heimat	"s ""故乡的援军"""
+data_m__data_m__c1_md_07_txt.cif	18	"sn 60 ""Wikinger"""	Wikinger	"sn 60 ""维京人"""
+data_m__data_m__c1_md_07_txt.cif	19	"s ""Rotbart"""	Rotbart	"s ""红胡子"""
+data_m__data_m__c1_md_07_txt.cif	20	"s ""Die abtrünnigen Wikinger"""	Die abtrünnigen Wikinger	"s ""叛离的维京人"""
+data_m__data_m__c1_md_07_txt.cif	21	"sn 70 ""Bjarni"""	Bjarni	"sn 70 ""比雅尼"""
+data_m__data_m__c1_md_07_txt.cif	22	"s ""Quetzalcoatl"""	Quetzalcoatl	"s ""羽蛇神"""
+data_m__data_m__c1_md_07_txt.cif	23	"s ""Erik"""	Erik	"s ""埃里克"""
+data_m__data_m__c1_md_07_txt.cif	24	"s ""Arne"""	Arne	"s ""阿尔内"""
+data_m__data_m__c1_md_07_txt.cif	25	"s ""Sören"""	Sören	"s ""索伦"""
+data_m__data_m__c1_md_07_txt.cif	26	"s ""Thorwal"""	Thorwal	"s ""托尔瓦尔"""
+data_m__data_m__c1_md_07_txt.cif	27	"sn 100 ""Besiege den falschen Regengott"""	Besiege den falschen Regengott	"sn 100 ""击败伪雨神"""
+data_m__data_m__c2_01_a_txt.cif	1	"sn 0 ""*[*  Der Aufbruch"""	*[*  Der Aufbruch	*[*  启程
+data_m__data_m__c2_01_a_txt.cif	2	"s ""Bevor das Schiff in See stechen kann, müssen einige Vorbereitungen getroffen werden."""	Bevor das Schiff in See stechen kann, müssen einige Vorbereitungen getroffen werden.	出航前需要完成一些准备工作。
+data_m__data_m__c2_01_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c2_01_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c2_01_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c2_01_a_txt.cif	6	"sn 20 ""Blaunasen"""	Blaunasen	蓝鼻族
+data_m__data_m__c2_01_a_txt.cif	7	"s ""Frostiges Auge"""	Frostiges Auge	冰眼
+data_m__data_m__c2_01_a_txt.cif	8	"s ""Die befreundeten Eskimos"""	Die befreundeten Eskimos	友好的爱斯基摩人
+data_m__data_m__c2_01_a_txt.cif	9	"sn 30 ""Schneefüße"""	Schneefüße	雪脚族
+data_m__data_m__c2_01_a_txt.cif	10	"s ""Frierende Socke"""	Frierende Socke	冻袜
+data_m__data_m__c2_01_a_txt.cif	11	"s ""Die befreundeten Eskimos"""	Die befreundeten Eskimos	友好的爱斯基摩人
+data_m__data_m__c2_01_a_txt.cif	12	"sn 35 ""Gelbmesser"""	Gelbmesser	黄刀族
+data_m__data_m__c2_01_a_txt.cif	13	"s ""Walla Hug"""	Walla Hug	Walla Hug
+data_m__data_m__c2_01_a_txt.cif	14	"s ""Der befreundete Indianerstamm"""	Der befreundete Indianerstamm	友好的印第安部族
+data_m__data_m__c2_01_a_txt.cif	15	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__c2_01_a_txt.cif	16	"s ""Thorwal"""	Thorwal	"s ""托尔瓦尔"""
+data_m__data_m__c2_01_a_txt.cif	17	"s ""Der große Krieger"""	Der große Krieger	伟大的战士
+data_m__data_m__c2_01_a_txt.cif	18	"sn 45 ""Thorwal"""	Thorwal	Thorwal
+data_m__data_m__c2_01_a_txt.cif	19	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__c2_01_a_txt.cif	20	"s ""Maradorns Söhne"""	Maradorns Söhne	Maradorn之子
+data_m__data_m__c2_01_a_txt.cif	21	"s ""Die Söhne des großen Kriegers"""	Die Söhne des großen Kriegers	伟大战士的儿子们
+data_m__data_m__c2_01_a_txt.cif	22	"sn 55 ""Arne"""	Arne	Arne
+data_m__data_m__c2_01_a_txt.cif	23	"sn 56 ""Sören"""	Sören	Sören
+data_m__data_m__c2_01_a_txt.cif	24	"sn 57 ""Erik"""	Erik	Erik
+data_m__data_m__c2_01_a_txt.cif	25	"sn 60 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c2_01_a_txt.cif	26	"sn 100 ""Bringe 100 Nahrung in das Schiff  ({MISC} bisher)"""	Bringe 100 Nahrung in das Schiff  ({MISC} bisher)	将100食物运到船上（已 {MISC}）
+data_m__data_m__c2_01_a_txt.cif	27	"s ""Bringe 30 Bier in das Schiff ({MISC} bisher)"""	Bringe 30 Bier in das Schiff ({MISC} bisher)	将30啤酒运到船上（已 {MISC}）
+data_m__data_m__c2_01_a_txt.cif	28	"s ""Bringe 10 Speere in das Schiff ({MISC} bisher)"""	Bringe 10 Speere in das Schiff ({MISC} bisher)	将10支长矛运到船上（已 {MISC}）
+data_m__data_m__c2_01_a_txt.cif	29	"s ""Finde Thorwal, den Holzfäller"""	Finde Thorwal, den Holzfäller	找到伐木工Thorwal
+data_m__data_m__c2_01_a_txt.cif	30	"s "" """	 	 
+data_m__data_m__c2_01_a_txt.cif	31	"s ""Finde Maradorn, den Krieger"""	Finde Maradorn, den Krieger	找到战士Maradorn
+data_m__data_m__c2_01_a_txt.cif	32	"s ""Finde den Einsiedler"""	Finde den Einsiedler	找到隐士
+data_m__data_m__c2_01_a_txt.cif	33	"s ""Zahle dem Holzfäller den Tribut"""	Zahle dem Holzfäller den Tribut	向伐木工缴纳贡品
+data_m__data_m__c2_02_a_txt.cif	1	"sn 0 ""*[*  Der Auftrag"""	*[*  Der Auftrag	*[*  使命
+data_m__data_m__c2_02_a_txt.cif	2	"s ""Vinland, endlich erreichten wir das uns bekannte Ufer!"""	Vinland, endlich erreichten wir das uns bekannte Ufer!	酒地，我们终于抵达了熟悉的彼岸！
+data_m__data_m__c2_02_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c2_02_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c2_02_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c2_02_a_txt.cif	6	"sn 20 ""Rotmesser"""	Rotmesser	红刀族
+data_m__data_m__c2_02_a_txt.cif	7	"s ""Suchender Wolf"""	Suchender Wolf	寻狼
+data_m__data_m__c2_02_a_txt.cif	8	"s ""Die Fährtensucher"""	Die Fährtensucher	追踪者
+data_m__data_m__c2_02_a_txt.cif	9	"sn 30 ""Gelbmesser"""	Gelbmesser	黄刀族
+data_m__data_m__c2_02_a_txt.cif	10	"s ""Ugga Walla"""	Ugga Walla	Ugga Walla
+data_m__data_m__c2_02_a_txt.cif	11	"s ""Die befreundeten Indianer"""	Die befreundeten Indianer	友好的印第安人
+data_m__data_m__c2_02_a_txt.cif	12	"sn 40 ""Blaubären"""	Blaubären	蓝熊族
+data_m__data_m__c2_02_a_txt.cif	13	"s ""Schnalzende Zunge"""	Schnalzende Zunge	弹舌者
+data_m__data_m__c2_02_a_txt.cif	14	"s ""Ein freundlicher Indianerstamm"""	Ein freundlicher Indianerstamm	一个友好的印第安部族
+data_m__data_m__c2_02_a_txt.cif	15	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__c2_02_a_txt.cif	16	"s ""Janolson"""	Janolson	Janolson
+data_m__data_m__c2_02_a_txt.cif	17	"s ""Die vergessenen Wikinger"""	Die vergessenen Wikinger	被遗忘的维京人
+data_m__data_m__c2_02_a_txt.cif	18	"sn 55 ""Der Händler"""	Der Händler	商人
+data_m__data_m__c2_02_a_txt.cif	19	"s ""Senior Miguel"""	Senior Miguel	Senior Miguel
+data_m__data_m__c2_02_a_txt.cif	20	"s ""Der freundliche Händler"""	Der freundliche Händler	友好的商人
+data_m__data_m__c2_02_a_txt.cif	21	"sn 60 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c2_02_a_txt.cif	22	"sn 61 ""Thorwal"""	Thorwal	Thorwal
+data_m__data_m__c2_02_a_txt.cif	23	"sn 62 ""Sören"""	Sören	Sören
+data_m__data_m__c2_02_a_txt.cif	24	"sn 63 ""Ralf Angerbauer"""	Ralf Angerbauer	Ralf Angerbauer
+data_m__data_m__c2_02_a_txt.cif	25	"sn 99 ""Finde den Stamm der Gelbmesser"""	Finde den Stamm der Gelbmesser	找到黄刀族的部落
+data_m__data_m__c2_02_a_txt.cif	26	"sn 100 ""Bringe 40 Nahrung in das zerstörte Lager der Gelbmesser         ({MISC} bisher)"""	Bringe 40 Nahrung in das zerstörte Lager der Gelbmesser         ({MISC} bisher)	将40食物运到黄刀族被毁的营地（已 {MISC}）
+data_m__data_m__c2_02_a_txt.cif	27	"s ""Heuere einen Fährtensucher beim Stamm der Rotmesser an (heure die Söldner an, die dir angeboten werden, indem du den geforderten Tribut zahlst)"""	Heuere einen Fährtensucher beim Stamm der Rotmesser an (heure die Söldner an, die dir angeboten werden, indem du den geforderten Tribut zahlst)	在红刀族雇用一名追踪者（支付所要求的贡品来雇用 offered 的雇佣兵）
+data_m__data_m__c2_02_a_txt.cif	28	"s ""Finde die Fußspuren in den Südlichen Wäldern"""	Finde die Fußspuren in den Südlichen Wäldern	在南方的森林中找到足迹
+data_m__data_m__c2_03_a_txt.cif	1	"sn 0 ""*[*  Die Fährte"""	*[*  Die Fährte	*[*  踪迹
+data_m__data_m__c2_03_a_txt.cif	2	"s ""Wir folgen der Spur immer weiter in die Wälder"""	Wir folgen der Spur immer weiter in die Wälder	我们顺着踪迹深入森林
+data_m__data_m__c2_03_a_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c2_03_a_txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c2_03_a_txt.cif	5	"s """""		"s """""
+data_m__data_m__c2_03_a_txt.cif	6	"sn 20 ""Waldläufer"""	Waldläufer	林居族
+data_m__data_m__c2_03_a_txt.cif	7	"s ""Weckender Ruf"""	Weckender Ruf	唤醒之唤
+data_m__data_m__c2_03_a_txt.cif	8	"s ""Die befreundeten Indianer"""	Die befreundeten Indianer	友好的印第安人
+data_m__data_m__c2_03_a_txt.cif	9	"sn 30 ""Rotschwingen"""	Rotschwingen	红翼族
+data_m__data_m__c2_03_a_txt.cif	10	"s ""Gugga Weg"""	Gugga Weg	Gugga Weg
+data_m__data_m__c2_03_a_txt.cif	11	"s ""Die befreundeten Indianer"""	Die befreundeten Indianer	友好的印第安人
+data_m__data_m__c2_03_a_txt.cif	12	"sn 40 ""Poke Montas"""	Poke Montas	Poke Montas
+data_m__data_m__c2_03_a_txt.cif	13	"s ""Flinker Wolf"""	Flinker Wolf	敏捷的狼
+data_m__data_m__c2_03_a_txt.cif	14	"s ""Das große Indianervolk"""	Das große Indianervolk	强大的印第安部族
+data_m__data_m__c2_03_a_txt.cif	15	"sn 50 ""Die Wächter"""	Die Wächter	守卫族
+data_m__data_m__c2_03_a_txt.cif	16	"s ""Wachender Kojote"""	Wachender Kojote	守夜郊狼
+data_m__data_m__c2_03_a_txt.cif	17	"s ""Die Wächter des Höleneingangs"""	Die Wächter des Höleneingangs	洞口守卫
+data_m__data_m__c2_03_a_txt.cif	18	"sn 55 ""Der Händler"""	Der Händler	商人
+data_m__data_m__c2_03_a_txt.cif	19	"s ""Senior Miguel"""	Senior Miguel	Senior Miguel
+data_m__data_m__c2_03_a_txt.cif	20	"s ""Der freundliche Händler"""	Der freundliche Händler	友好的商人
+data_m__data_m__c2_03_a_txt.cif	21	"sn 60 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c2_03_a_txt.cif	22	"sn 61 ""Sören"""	Sören	Sören
+data_m__data_m__c2_03_a_txt.cif	23	"sn 62 ""Thorwal"""	Thorwal	Thorwal
+data_m__data_m__c2_03_a_txt.cif	24	"sn 63 ""Tobias Frin"""	Tobias Frin	Tobias Frin
+data_m__data_m__c2_03_a_txt.cif	25	"sn 100 ""Helfe der notleidenden Bevölkerung"""	Helfe der notleidenden Bevölkerung	帮助受困的百姓
+data_m__data_m__c2_03_a_txt.cif	26	"s ""Helfe den Waldläufern mit Nahrung und Öl (Tribut)"""	Helfe den Waldläufern mit Nahrung und Öl (Tribut)	以食物和油援助林居族（贡品）
+data_m__data_m__c2_03_a_txt.cif	27	"s ""Helfe den Rotschwingen mit Nahrung und Öl (Tribut)"""	Helfe den Rotschwingen mit Nahrung und Öl (Tribut)	以食物和油援助红翼族（贡品）
+data_m__data_m__c2_03_a_txt.cif	28	"s ""Finde den Eingang zur Höhle"""	Finde den Eingang zur Höhle	找到洞穴入口
+data_m__data_m__c2_04_a.txt.cif	1	"sn 0 ""*[*  Die Höhle der Offenbarung"""	*[*  Die Höhle der Offenbarung	*[*  启示之洞
+data_m__data_m__c2_04_a.txt.cif	2	"s ""Finde den weisen Schamanen"""	Finde den weisen Schamanen	找到睿智的萨满
+data_m__data_m__c2_04_a.txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__c2_04_a.txt.cif	4	"s ""Bjarni"""	Bjarni	"s ""比雅尼"""
+data_m__data_m__c2_04_a.txt.cif	5	"sn 20 ""Thorwal"""	Thorwal	Thorwal
+data_m__data_m__c2_04_a.txt.cif	6	"sn 21 ""Sören"""	Sören	Sören
+data_m__data_m__c2_04_a.txt.cif	7	"sn 22 ""Bjarni"""	Bjarni	Bjarni
+data_m__data_m__c2_04_a.txt.cif	8	"sn 100 ""Finde den weisen Schamanen"""	Finde den weisen Schamanen	找到睿智的萨满
+data_m__data_m__c2_04_a.txt.cif	9	"sn 30 ""Wächter"""	Wächter	守卫族
+data_m__data_m__c2_04_a.txt.cif	10	"s ""Schneller Fuchs"""	Schneller Fuchs	敏捷的狐狸
+data_m__data_m__f_001txt.cif	1	"sn 0 ""Ragnarök - Das letzte Gefecht"""	Ragnarök - Das letzte Gefecht	诸神黄昏 - 最后一战
+data_m__data_m__f_001txt.cif	2	"s ""Steh den Göttern bei in ihrem letzten, aussichtslosen Kampf."""	Steh den Göttern bei in ihrem letzten, aussichtslosen Kampf.	助众神一臂之力，参与他们最后的绝望之战。
+data_m__data_m__f_001txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_001txt.cif	4	"s ""Odin - Göttervater"""	Odin - Göttervater	奥丁 - 众神之父
+data_m__data_m__f_001txt.cif	5	"sn 20 ""Lokis Horde"""	Lokis Horde	洛基军团
+data_m__data_m__f_001txt.cif	6	"s ""Loki - Gott des Feuers"""	Loki - Gott des Feuers	洛基 - 火之神
+data_m__data_m__f_001txt.cif	7	"sn 100 ""Odin"""	Odin	奥丁
+data_m__data_m__f_001txt.cif	8	"s ""Thor"""	Thor	索尔
+data_m__data_m__f_001txt.cif	9	"s ""Leif Erikson"""	Leif Erikson	Leif Erikson
+data_m__data_m__f_001txt.cif	10	"s ""Loki"""	Loki	洛基
+data_m__data_m__f_001txt.cif	11	"sn 200 ""Finde und vernichte Loki und seine Mannen"""	Finde und vernichte Loki und seine Mannen	找到并消灭洛基及其党羽
+data_m__data_m__f_002txt.cif	1	"sn 0 ""Zwischen den Fronten"""	Zwischen den Fronten	夹缝之中
+data_m__data_m__f_002txt.cif	2	"s ""Du gerätst hier zwischen die Fronten zweier verfeindeter Indianerstämme. Das kann gefährlich werden!"""	Du gerätst hier zwischen die Fronten zweier verfeindeter Indianerstämme. Das kann gefährlich werden!	你陷入两个敌对印第安部族的夹缝之中，危险重重！
+data_m__data_m__f_002txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_002txt.cif	4	"s ""Fürst Fjorde"""	Fürst Fjorde	Fürst Fjorde
+data_m__data_m__f_002txt.cif	5	"sn 20 ""Crow"""	Crow	克罗族
+data_m__data_m__f_002txt.cif	6	"s ""Häuptling schwarze Krähe"""	Häuptling schwarze Krähe	黑鸦酋长
+data_m__data_m__f_002txt.cif	7	"sn 30 ""Cheyenne"""	Cheyenne	夏延族
+data_m__data_m__f_002txt.cif	8	"s ""Häuptling Stimme des Bären"""	Häuptling Stimme des Bären	熊语酋长
+data_m__data_m__f_002txt.cif	9	"sn 100 ""Fast ertrunken im Fluss"""	Fast ertrunken im Fluss	差点淹死在河里
+data_m__data_m__f_002txt.cif	10	"s ""Der mit Steinen wirft"""	Der mit Steinen wirft	扔石头的人
+data_m__data_m__f_002txt.cif	11	"s ""Vom Baum gefallen"""	Vom Baum gefallen	从树上掉下来
+data_m__data_m__f_002txt.cif	12	"s ""Scharfe Zunge"""	Scharfe Zunge	利舌
+data_m__data_m__f_002txt.cif	13	"s ""Wind in seinem Haar"""	Wind in seinem Haar	发间风
+data_m__data_m__f_002txt.cif	14	"s ""Zorn in seinem Herzen"""	Zorn in seinem Herzen	怒在心中
+data_m__data_m__f_002txt.cif	15	"s ""Angst vor der Dunkelheit"""	Angst vor der Dunkelheit	惧怕黑暗
+data_m__data_m__f_002txt.cif	16	"s ""Tränen im Gesicht"""	Tränen im Gesicht	泪流满面
+data_m__data_m__f_002txt.cif	17	"s ""Schießt erst dann Fragen stellt"""	Schießt erst dann Fragen stellt	先开枪后问话
+data_m__data_m__f_002txt.cif	18	"s ""Schlauer Fuchs"""	Schlauer Fuchs	狡猾的狐狸
+data_m__data_m__f_002txt.cif	19	"s ""Sinne wie ein Wolf"""	Sinne wie ein Wolf	感官如狼
+data_m__data_m__f_002txt.cif	20	"s ""Gerissener Fuchs"""	Gerissener Fuchs	老狐狸
+data_m__data_m__f_002txt.cif	21	"s ""Schleichende Schlange"""	Schleichende Schlange	潜行的蛇
+data_m__data_m__f_002txt.cif	22	"s ""Blumen im Haar"""	Blumen im Haar	发间花
+data_m__data_m__f_002txt.cif	23	"s ""Die sagt was sie Denkt"""	Die sagt was sie Denkt	心直口快
+data_m__data_m__f_002txt.cif	24	"s ""Die alle Tiere liebt"""	Die alle Tiere liebt	爱护百兽
+data_m__data_m__f_002txt.cif	25	"sn 200 ""Wild wie ein Schwein"""	Wild wie ein Schwein	野如猪
+data_m__data_m__f_002txt.cif	26	"s ""Der in Rätseln spricht"""	Der in Rätseln spricht	说话如谜
+data_m__data_m__f_002txt.cif	27	"s ""Vom Blitz getroffen"""	Vom Blitz getroffen	被闪电击中
+data_m__data_m__f_002txt.cif	28	"s ""Gespaltene Zunge"""	Gespaltene Zunge	分叉舌
+data_m__data_m__f_002txt.cif	29	"s ""Gezähmter Bär"""	Gezähmter Bär	驯服的熊
+data_m__data_m__f_002txt.cif	30	"s ""Wütender Luchs"""	Wütender Luchs	愤怒的猞猁
+data_m__data_m__f_002txt.cif	31	"s ""Flinker Hase"""	Flinker Hase	敏捷的兔子
+data_m__data_m__f_002txt.cif	32	"s ""Zwanzig Narben"""	Zwanzig Narben	二十道疤
+data_m__data_m__f_002txt.cif	33	"s ""Heult wie ein Wolf"""	Heult wie ein Wolf	嚎如狼
+data_m__data_m__f_002txt.cif	34	"s ""Von der Krähe berührt"""	Von der Krähe berührt	被乌鸦触过
+data_m__data_m__f_002txt.cif	35	"s ""Von der Wespe gestochen"""	Von der Wespe gestochen	被黄蜂蜇过
+data_m__data_m__f_002txt.cif	36	"s ""Dicke Hummel"""	Dicke Hummel	胖熊蜂
+data_m__data_m__f_002txt.cif	37	"s ""Brennende Hand"""	Brennende Hand	燃烧之手
+data_m__data_m__f_002txt.cif	38	"s ""Schön wie ein Schmetterling"""	Schön wie ein Schmetterling	美如蝴蝶
+data_m__data_m__f_002txt.cif	39	"s ""Die mit einer Faust steht"""	Die mit einer Faust steht	拳头说话
+data_m__data_m__f_002txt.cif	40	"s ""Zauberblüte"""	Zauberblüte	魔力花
+data_m__data_m__f_002txt.cif	41	"sn 300 ""Zerstöre die Kriegszelte der Crow und Cheyenne"""	Zerstöre die Kriegszelte der Crow und Cheyenne	摧毁克罗族和夏延族的战争帐篷
+data_m__data_m__f_003_etxt.cif	1	"sn 0 ""Death Valley (Einsteiger)"""	Death Valley (Einsteiger)	死亡谷（入门）
+data_m__data_m__f_003_etxt.cif	2	"s ""Begib dich auf  Goldsuche in eine gefährliche Gegend. Mit etwas Glück findest du Verbündete, die dir wichtige Rohstoffe geben können"""	Begib dich auf  Goldsuche in eine gefährliche Gegend. Mit etwas Glück findest du Verbündete, die dir wichtige Rohstoffe geben können	前往危险之地淘金。运气好的话你会找到盟友，他们能提供重要的资源
+data_m__data_m__f_003_etxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_003_etxt.cif	4	"s ""Fürst Vjornson"""	Fürst Vjornson	Fürst Vjornson
+data_m__data_m__f_003_etxt.cif	5	"sn 20 ""Apache"""	Apache	阿帕奇族
+data_m__data_m__f_003_etxt.cif	6	"s ""Häuptling Weisse Strähne"""	Häuptling Weisse Strähne	白发酋长
+data_m__data_m__f_003_etxt.cif	7	"sn 30 ""Usumacinta"""	Usumacinta	乌苏马辛塔族
+data_m__data_m__f_003_etxt.cif	8	"s ""König Itzchez"""	König Itzchez	Itzchez王
+data_m__data_m__f_003_etxt.cif	9	"sn 100 ""Glühender Wurm"""	Glühender Wurm	发光虫
+data_m__data_m__f_003_etxt.cif	10	"s ""Roter Mond"""	Roter Mond	红月
+data_m__data_m__f_003_etxt.cif	11	"s ""Von der Hornisse gestochen"""	Von der Hornisse gestochen	被大黄蜂蜇过
+data_m__data_m__f_003_etxt.cif	12	"s ""Kaltes Herz"""	Kaltes Herz	冰冷的心
+data_m__data_m__f_003_etxt.cif	13	"s ""Der mit lauter Stimme spricht"""	Der mit lauter Stimme spricht	大嗓门
+data_m__data_m__f_003_etxt.cif	14	"s ""Vom Büffel gebissen"""	Vom Büffel gebissen	被野牛咬过
+data_m__data_m__f_003_etxt.cif	15	"s ""Falkenauge"""	Falkenauge	鹰眼
+data_m__data_m__f_003_etxt.cif	16	"s ""Gefährlicher Luchs"""	Gefährlicher Luchs	危险的猞猁
+data_m__data_m__f_003_etxt.cif	17	"s ""Salamader"""	Salamader	蝾螈
+data_m__data_m__f_003_etxt.cif	18	"s ""Streichelt Stinktiere"""	Streichelt Stinktiere	摸臭鼬
+data_m__data_m__f_003_etxt.cif	19	"s ""Lautloser Wolf"""	Lautloser Wolf	无声的狼
+data_m__data_m__f_003_etxt.cif	20	"s ""Viel luft im Bauch"""	Viel luft im Bauch	肚里气多
+data_m__data_m__f_003_etxt.cif	21	"s ""Blumen im Haar"""	Blumen im Haar	发间花
+data_m__data_m__f_003_etxt.cif	22	"s ""Die sagt was sie Denkt"""	Die sagt was sie Denkt	心直口快
+data_m__data_m__f_003_etxt.cif	23	"s ""Die alle Tiere Liebt"""	Die alle Tiere Liebt	爱护百兽
+data_m__data_m__f_003_etxt.cif	24	"sn 200 ""Fülle deine Lager mit 20 Gold ( bisher {MISC} )"""	Fülle deine Lager mit 20 Gold ( bisher {MISC} )	仓库储备20金（已 {MISC}）
+data_m__data_m__f_003txt.cif	1	"sn 0 ""Death Valley"""	Death Valley	死亡谷
+data_m__data_m__f_003txt.cif	2	"s ""Begib dich auf  Goldsuche in eine gefährliche Gegend. Mit etwas Glück findest du Verbündete, die dir wichtige Rohstoffe geben können"""	Begib dich auf  Goldsuche in eine gefährliche Gegend. Mit etwas Glück findest du Verbündete, die dir wichtige Rohstoffe geben können	前往危险之地淘金。运气好的话你会找到盟友，他们能提供重要的资源
+data_m__data_m__f_003txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_003txt.cif	4	"s ""Fürst Vjornson"""	Fürst Vjornson	Fürst Vjornson
+data_m__data_m__f_003txt.cif	5	"sn 20 ""Apache"""	Apache	阿帕奇族
+data_m__data_m__f_003txt.cif	6	"s ""Häuptling Weisse Strähne"""	Häuptling Weisse Strähne	白发酋长
+data_m__data_m__f_003txt.cif	7	"sn 30 ""Usumacinta"""	Usumacinta	乌苏马辛塔族
+data_m__data_m__f_003txt.cif	8	"s ""König Itzchez"""	König Itzchez	Itzchez王
+data_m__data_m__f_003txt.cif	9	"sn 100 ""Glühender Wurm"""	Glühender Wurm	发光虫
+data_m__data_m__f_003txt.cif	10	"s ""Roter Mond"""	Roter Mond	红月
+data_m__data_m__f_003txt.cif	11	"s ""Von der Hornisse gestochen"""	Von der Hornisse gestochen	被大黄蜂蜇过
+data_m__data_m__f_003txt.cif	12	"s ""Kaltes Herz"""	Kaltes Herz	冰冷的心
+data_m__data_m__f_003txt.cif	13	"s ""Der mit lauter Stimme spricht"""	Der mit lauter Stimme spricht	大嗓门
+data_m__data_m__f_003txt.cif	14	"s ""Vom Büffel gebissen"""	Vom Büffel gebissen	被野牛咬过
+data_m__data_m__f_003txt.cif	15	"s ""Falkenauge"""	Falkenauge	鹰眼
+data_m__data_m__f_003txt.cif	16	"s ""Gefährlicher Luchs"""	Gefährlicher Luchs	危险的猞猁
+data_m__data_m__f_003txt.cif	17	"s ""Salamader"""	Salamader	蝾螈
+data_m__data_m__f_003txt.cif	18	"s ""Streichelt Stinktiere"""	Streichelt Stinktiere	摸臭鼬
+data_m__data_m__f_003txt.cif	19	"s ""Lautloser Wolf"""	Lautloser Wolf	无声的狼
+data_m__data_m__f_003txt.cif	20	"s ""Viel luft im Bauch"""	Viel luft im Bauch	肚里气多
+data_m__data_m__f_003txt.cif	21	"s ""Blumen im Haar"""	Blumen im Haar	发间花
+data_m__data_m__f_003txt.cif	22	"s ""Die sagt was sie Denkt"""	Die sagt was sie Denkt	心直口快
+data_m__data_m__f_003txt.cif	23	"s ""Die alle Tiere Liebt"""	Die alle Tiere Liebt	爱护百兽
+data_m__data_m__f_003txt.cif	24	"sn 200 ""Fülle deine Lager mit 20 Gold ( bisher {MISC} )"""	Fülle deine Lager mit 20 Gold ( bisher {MISC} )	仓库储备20金（已 {MISC}）
+data_m__data_m__f_004txt.cif	1	"sn 0 ""Die letzte Bastion"""	Die letzte Bastion	最后堡垒
+data_m__data_m__f_004txt.cif	2	"s ""Die letzte Bastion der Wikinger in der neuen Welt droht zu fallen. Verteidige sie gegen feindliche Stämme und bringe Frieden in das Land."""	Die letzte Bastion der Wikinger in der neuen Welt droht zu fallen. Verteidige sie gegen feindliche Stämme und bringe Frieden in das Land.	维京人在新大陆的最后堡垒岌岌可危。抵御敌对部族的进攻，为这片大地带来和平。
+data_m__data_m__f_004txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_004txt.cif	4	"s ""Fürst Sörens """	Fürst Sörens 	Fürst Sörens 
+data_m__data_m__f_004txt.cif	5	"sn 20 ""Yamasee"""	Yamasee	亚马西族
+data_m__data_m__f_004txt.cif	6	"s ""Häuptling 10 Mann stark"""	Häuptling 10 Mann stark	十人酋长
+data_m__data_m__f_004txt.cif	7	"sn 30 ""Hitchiti"""	Hitchiti	希奇提族
+data_m__data_m__f_004txt.cif	8	"s ""Häuptling vom Feuer verbrannt"""	Häuptling vom Feuer verbrannt	被火烧伤的酋长
+data_m__data_m__f_004txt.cif	9	"sn 40 ""Alabama"""	Alabama	阿拉巴马族
+data_m__data_m__f_004txt.cif	10	"s ""Häuptling nackte Stirn"""	Häuptling nackte Stirn	秃额酋长
+data_m__data_m__f_004txt.cif	11	"sn 50 ""Muskogee"""	Muskogee	马斯科吉族
+data_m__data_m__f_004txt.cif	12	"s ""Häuptling vom Büffel überrannt"""	Häuptling vom Büffel überrannt	被野牛踩踏的酋长
+data_m__data_m__f_004txt.cif	13	"sn 60 ""Cherokee"""	Cherokee	切罗基族
+data_m__data_m__f_004txt.cif	14	"s ""Häuptling mit Herz und Faust"""	Häuptling mit Herz und Faust	铁心铁拳酋长
+data_m__data_m__f_004txt.cif	15	"sn 100 ""Bringe Frieden ins Land, die Art und Weise bleibt Dir überlassen"""	Bringe Frieden ins Land, die Art und Weise bleibt Dir überlassen	为大地带来和平，方式由你决定
+data_m__data_m__f_005_etxt.cif	1	"sn 0 ""Vinlands Erben  (Einsteiger)"""	Vinlands Erben  (Einsteiger)	酒地继承者（入门）
+data_m__data_m__f_005_etxt.cif	2	"s ""Errichte einen Handelsposten in Vinland. In der Nähe leben vier fremde Stämme. Zwei davon, ein Maya- und ein Indianerstamm, sind feindlich gesinnt."""	Errichte einen Handelsposten in Vinland. In der Nähe leben vier fremde Stämme. Zwei davon, ein Maya- und ein Indianerstamm, sind feindlich gesinnt.	在酒地建立贸易站。附近住着四个异族部落，其中一玛雅部落和一印第安部落怀有敌意。
+data_m__data_m__f_005_etxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_005_etxt.cif	4	"s ""Fürst Petersen"""	Fürst Petersen	Fürst Petersen
+data_m__data_m__f_005_etxt.cif	5	"sn 20 ""Chickasaw"""	Chickasaw	奇克索族
+data_m__data_m__f_005_etxt.cif	6	"s ""Häuptling labert viel"""	Häuptling labert viel	话痨酋长
+data_m__data_m__f_005_etxt.cif	7	"sn 30 ""Choctaw"""	Choctaw	乔克托族
+data_m__data_m__f_005_etxt.cif	8	"s ""Häuptling blind wie ein Fisch"""	Häuptling blind wie ein Fisch	瞎如鱼的酋长
+data_m__data_m__f_005_etxt.cif	9	"sn 40 ""Puuc"""	Puuc	普克族
+data_m__data_m__f_005_etxt.cif	10	"s ""König Janchentes"""	König Janchentes	Janchentes王
+data_m__data_m__f_005_etxt.cif	11	"sn 50 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__f_005_etxt.cif	12	"s ""Oberhaupt Dudo"""	Oberhaupt Dudo	首领Dudo
+data_m__data_m__f_005_etxt.cif	13	"sn 100 ""Fülle dein Lager mit 20 Rüstungen ( bisher {MISC} )"""	Fülle dein Lager mit 20 Rüstungen ( bisher {MISC} )	仓库储备20副盔甲（已 {MISC}）
+data_m__data_m__f_005_etxt.cif	14	"s ""Fülle dein Lager mit 20 Schwerter ( bisher {MISC} )"""	Fülle dein Lager mit 20 Schwerter ( bisher {MISC} )	仓库储备20把剑（已 {MISC}）
+data_m__data_m__f_005_etxt.cif	15	"s ""Fülle dein Lager mit 50 Einheiten Nahrung ( bisher {MISC} )"""	Fülle dein Lager mit 50 Einheiten Nahrung ( bisher {MISC} )	仓库储备50份食物（已 {MISC}）
+data_m__data_m__f_005txt.cif	1	"sn 0 ""Vinlands Erben"""	Vinlands Erben	酒地继承者
+data_m__data_m__f_005txt.cif	2	"s ""Errichte einen Handelsposten in Vinland. In der Nähe leben vier fremde Stämme. Zwei davon, ein Maya- und ein Indianerstamm, sind feindlich gesinnt."""	Errichte einen Handelsposten in Vinland. In der Nähe leben vier fremde Stämme. Zwei davon, ein Maya- und ein Indianerstamm, sind feindlich gesinnt.	在酒地建立贸易站。附近住着四个异族部落，其中一玛雅部落和一印第安部落怀有敌意。
+data_m__data_m__f_005txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_005txt.cif	4	"s ""Fürst Petersen"""	Fürst Petersen	Fürst Petersen
+data_m__data_m__f_005txt.cif	5	"sn 20 ""Chickasaw"""	Chickasaw	奇克索族
+data_m__data_m__f_005txt.cif	6	"s ""Häuptling labert viel"""	Häuptling labert viel	话痨酋长
+data_m__data_m__f_005txt.cif	7	"sn 30 ""Choctaw"""	Choctaw	乔克托族
+data_m__data_m__f_005txt.cif	8	"s ""Häuptling blind wie ein Fisch"""	Häuptling blind wie ein Fisch	瞎如鱼的酋长
+data_m__data_m__f_005txt.cif	9	"sn 40 ""Puuc"""	Puuc	普克族
+data_m__data_m__f_005txt.cif	10	"s ""König Janchentes"""	König Janchentes	Janchentes王
+data_m__data_m__f_005txt.cif	11	"sn 50 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__f_005txt.cif	12	"s ""Oberhaupt Dudo"""	Oberhaupt Dudo	首领Dudo
+data_m__data_m__f_005txt.cif	13	"sn 100 ""Fülle dein Lager mit 20 Speeren ( bisher {MISC} )"""	Fülle dein Lager mit 20 Speeren ( bisher {MISC} )	仓库储备20支长矛（已 {MISC}）
+data_m__data_m__f_005txt.cif	14	"s ""Fülle dein Lager mit 20 Lederrüstungen ( bisher {MISC} )"""	Fülle dein Lager mit 20 Lederrüstungen ( bisher {MISC} )	仓库储备20副皮甲（已 {MISC}）
+data_m__data_m__f_005txt.cif	15	"s ""Fülle dein Lager mit 20 Bögen ( bisher {MISC} )"""	Fülle dein Lager mit 20 Bögen ( bisher {MISC} )	仓库储备20张弓（已 {MISC}）
+data_m__data_m__f_005txt.cif	16	"s ""Fülle dein Lager mit 20 Schwerter ( bisher {MISC} )"""	Fülle dein Lager mit 20 Schwerter ( bisher {MISC} )	仓库储备20把剑（已 {MISC}）
+data_m__data_m__f_005txt.cif	17	"s ""Fülle dein Lager mit 50 Einheiten Nahrung ( bisher {MISC} )"""	Fülle dein Lager mit 50 Einheiten Nahrung ( bisher {MISC} )	仓库储备50份食物（已 {MISC}）
+data_m__data_m__f_006txt.cif	1	"sn 0 ""Diebe im Eis"""	Diebe im Eis	冰中贼
+data_m__data_m__f_006txt.cif	2	"s ""Diebe haben die Wikinger beraubt! Finde und bestrafe die Übeltäter!"""	Diebe haben die Wikinger beraubt! Finde und bestrafe die Übeltäter!	窃贼洗劫了维京人！找到并惩罚这些恶徒！
+data_m__data_m__f_006txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_006txt.cif	4	"s ""Tjorn Peterson"""	Tjorn Peterson	Tjorn Peterson
+data_m__data_m__f_006txt.cif	5	"sn 20 ""Eskimo"""	Eskimo	爱斯基摩族
+data_m__data_m__f_006txt.cif	6	"s ""Hannanuk"""	Hannanuk	Hannanuk
+data_m__data_m__f_006txt.cif	7	"sn 100 ""Finde und zerstöre das feindliche Lager"""	Finde und zerstöre das feindliche Lager	找到并摧毁敌方营地
+data_m__data_m__f_007txt.cif	1	"sn 0 ""Lokis Rache"""	Lokis Rache	洛基的复仇
+data_m__data_m__f_007txt.cif	2	"s ""Loki hat mit seinen Kriegern Utgard verlassen und trachtet danach, die Welt der Menschen zu vernichten. Hindere ihn daran!"""	Loki hat mit seinen Kriegern Utgard verlassen und trachtet danach, die Welt der Menschen zu vernichten. Hindere ihn daran!	洛基率 warriors 离开了乌特加德，妄图毁灭人类世界。阻止他！
+data_m__data_m__f_007txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_007txt.cif	4	"s ""Odin - Göttervater"""	Odin - Göttervater	奥丁 - 众神之父
+data_m__data_m__f_007txt.cif	5	"sn 20 ""Utgard Krieger"""	Utgard Krieger	乌特加德战士
+data_m__data_m__f_007txt.cif	6	"s ""Loki - Gott des Feuers"""	Loki - Gott des Feuers	洛基 - 火之神
+data_m__data_m__f_007txt.cif	7	"sn 100 ""Odin-Göttervater"""	Odin-Göttervater	奥丁-众神之父
+data_m__data_m__f_007txt.cif	8	"s ""Thor-Donnergott"""	Thor-Donnergott	索尔-雷神
+data_m__data_m__f_007txt.cif	9	"s ""Leif Erikson"""	Leif Erikson	Leif Erikson
+data_m__data_m__f_007txt.cif	10	"s ""Baldur-Lichtgott"""	Baldur-Lichtgott	巴尔德尔-光之神
+data_m__data_m__f_007txt.cif	11	"s ""Loki-Feuergott"""	Loki-Feuergott	洛基-火之神
+data_m__data_m__f_007txt.cif	12	"sn 200 ""Finde und vernichte Loki endgültig"""	Finde und vernichte Loki endgültig	找到并彻底消灭洛基
+data_m__data_m__f_008_etxt.cif	1	"sn 0 ""Die Wikinger kommen! (Einsteiger)"""	Die Wikinger kommen! (Einsteiger)	维京人来了！（入门）
+data_m__data_m__f_008_etxt.cif	2	"s ""Baue deine Siedlung auf!"""	Baue deine Siedlung auf!	建立你的定居点！
+data_m__data_m__f_008_etxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_008_etxt.cif	4	"s ""Ulfson"""	Ulfson	Ulfson
+data_m__data_m__f_008_etxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__f_008_etxt.cif	6	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__f_008_etxt.cif	7	"sn 200 ""Erreiche eine Bevölkerung von mindestens 60 Bewohnern     ( bisher {MISC} )"""	Erreiche eine Bevölkerung von mindestens 60 Bewohnern     ( bisher {MISC} )	人口至少达到60（已 {MISC}）
+data_m__data_m__f_008txt.cif	1	"sn 0 ""Invasion"""	Invasion	入侵
+data_m__data_m__f_008txt.cif	2	"s ""Während in einem Dorf Armut und Not herrscht, schwelgen die Wikinger im anderen Dorf im Überfluß. Das kann nicht gutgehen..."""	Während in einem Dorf Armut und Not herrscht, schwelgen die Wikinger im anderen Dorf im Überfluß. Das kann nicht gutgehen...	一个村落贫穷困苦，另一边的维京人却奢靡无度。这样下去不会有好结果……
+data_m__data_m__f_008txt.cif	3	"sn 10 ""Björnländer"""	Björnländer	熊地人
+data_m__data_m__f_008txt.cif	4	"s ""Björn"""	Björn	Björn
+data_m__data_m__f_008txt.cif	5	"sn 20 ""Sigurdländer"""	Sigurdländer	西谷德地人
+data_m__data_m__f_008txt.cif	6	"s ""Sigurd"""	Sigurd	Sigurd
+data_m__data_m__f_008txt.cif	7	"sn 100 ""Björn"""	Björn	Björn
+data_m__data_m__f_008txt.cif	8	"s ""Sigurd"""	Sigurd	Sigurd
+data_m__data_m__f_008txt.cif	9	"sn 200 ""Vernichte das gegneriche Haupthaus"""	Vernichte das gegneriche Haupthaus	摧毁敌方主建筑
+data_m__data_m__f_009txt.cif	1	"sn 0 ""Eiszeit"""	Eiszeit	冰河世纪
+data_m__data_m__f_009txt.cif	2	"s ""Ein Kältesturm hat das Land mit Eis und Schnee zugedeckt. Die Ernten der Wikinger sind bedroht! Doch auch von anderer Seite lauert Gefahr..."""	Ein Kältesturm hat das Land mit Eis und Schnee zugedeckt. Die Ernten der Wikinger sind bedroht! Doch auch von anderer Seite lauert Gefahr...	寒暴风雪将大地覆盖在冰雪之中。维京人的收成岌岌可危！而另一边也有危险潜伏……
+data_m__data_m__f_009txt.cif	3	"sn 10 ""Die Hakinnen"""	Die Hakinnen	哈金族
+data_m__data_m__f_009txt.cif	4	"s ""Tjorn Hakinnen"""	Tjorn Hakinnen	Tjorn Hakinnen
+data_m__data_m__f_009txt.cif	5	"sn 20 ""Die Mogensens"""	Die Mogensens	莫根森族
+data_m__data_m__f_009txt.cif	6	"s ""Tyrker Mogensen"""	Tyrker Mogensen	Tyrker Mogensen
+data_m__data_m__f_009txt.cif	7	"sn 30 ""Die Blutaxts"""	Die Blutaxts	血斧族
+data_m__data_m__f_009txt.cif	8	"s ""Erik Blutaxt"""	Erik Blutaxt	Erik Blutaxt
+data_m__data_m__f_009txt.cif	9	"sn 40 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__f_009txt.cif	10	"s ""Der Eislord"""	Der Eislord	冰之领主
+data_m__data_m__f_009txt.cif	11	"sn 50 ""Die Noröks"""	Die Noröks	诺吕克族
+data_m__data_m__f_009txt.cif	12	"s ""Ole Norök (Verstorben)"""	Ole Norök (Verstorben)	Ole Norök（已故）
+data_m__data_m__f_009txt.cif	13	"sn 100 ""Tjorn Hakinnen"""	Tjorn Hakinnen	Tjorn Hakinnen
+data_m__data_m__f_009txt.cif	14	"s ""Tyrker Mogensen"""	Tyrker Mogensen	Tyrker Mogensen
+data_m__data_m__f_009txt.cif	15	"s ""Erik Blutaxt"""	Erik Blutaxt	Erik Blutaxt
+data_m__data_m__f_009txt.cif	16	"s ""Der Eisschamane"""	Der Eisschamane	冰之萨满
+data_m__data_m__f_009txt.cif	17	"sn 200 ""Finde das Dorf der Mogensens"""	Finde das Dorf der Mogensens	找到莫根森族的村落
+data_m__data_m__f_009txt.cif	18	"sn 300 ""Finde das Dorf der Blutäxte"""	Finde das Dorf der Blutäxte	找到血斧族的村落
+data_m__data_m__f_009txt.cif	19	"sn 400 ""Zerstöre die Eisfestung der Inuit"""	Zerstöre die Eisfestung der Inuit	摧毁因纽特人的冰堡
+data_m__data_m__f_009txt.cif	20	"sn 500 ""Finde und zerstöre das Inuit Dorf"""	Finde und zerstöre das Inuit Dorf	找到并摧毁因纽特人的村落
+data_m__data_m__f_010_etxt.cif	1	"sn 0 ""Das Knochental  (Einsteiger)"""	Das Knochental  (Einsteiger)	骨谷（入门）
+data_m__data_m__f_010_etxt.cif	2	"s ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest."""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest.	此地图没有任务目标，尽情游玩吧。
+data_m__data_m__f_010_etxt.cif	3	"sn 10 ""Die Sörensens"""	Die Sörensens	索伦森族
+data_m__data_m__f_010_etxt.cif	4	"s ""Ejorn Sörens"""	Ejorn Sörens	Ejorn Sörens
+data_m__data_m__f_010_etxt.cif	5	"sn 20 ""Die Steinthors"""	Die Steinthors	石瑟族
+data_m__data_m__f_010_etxt.cif	6	"s ""Gunnar Steinthor"""	Gunnar Steinthor	Gunnar Steinthor
+data_m__data_m__f_010_etxt.cif	7	"sn 30 ""Maza Chinta"""	Maza Chinta	马扎钦塔族
+data_m__data_m__f_010_etxt.cif	8	"s ""König Uzinzanta"""	König Uzinzanta	Uzinzanta王
+data_m__data_m__f_010_etxt.cif	9	"sn 40 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__f_010_etxt.cif	10	"s ""Oberhaupt Esa"""	Oberhaupt Esa	首领Esa
+data_m__data_m__f_010_etxt.cif	11	"sn 50 ""Ofo"""	Ofo	奥福族
+data_m__data_m__f_010_etxt.cif	12	"s ""Häuptling dicker Fisch"""	Häuptling dicker Fisch	胖鱼酋长
+data_m__data_m__f_010_etxt.cif	13	"sn 200 ""Keine Missionsvorgabe"""	Keine Missionsvorgabe	无任务目标
+data_m__data_m__f_010txt.cif	1	"sn 0 ""Das Knochental"""	Das Knochental	骨谷
+data_m__data_m__f_010txt.cif	2	"s ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest."""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest.	此地图没有任务目标，尽情游玩吧。
+data_m__data_m__f_010txt.cif	3	"sn 10 ""Die Sörensens"""	Die Sörensens	索伦森族
+data_m__data_m__f_010txt.cif	4	"s ""Ejorn Sörens"""	Ejorn Sörens	Ejorn Sörens
+data_m__data_m__f_010txt.cif	5	"sn 20 ""Die Steinthors"""	Die Steinthors	石瑟族
+data_m__data_m__f_010txt.cif	6	"s ""Gunnar Steinthor"""	Gunnar Steinthor	Gunnar Steinthor
+data_m__data_m__f_010txt.cif	7	"sn 30 ""Maza Chinta"""	Maza Chinta	马扎钦塔族
+data_m__data_m__f_010txt.cif	8	"s ""König Uzinzanta"""	König Uzinzanta	Uzinzanta王
+data_m__data_m__f_010txt.cif	9	"sn 40 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__f_010txt.cif	10	"s ""Oberhaupt Esa"""	Oberhaupt Esa	首领Esa
+data_m__data_m__f_010txt.cif	11	"sn 50 ""Ofo"""	Ofo	奥福族
+data_m__data_m__f_010txt.cif	12	"s ""Häuptling dicker Fisch"""	Häuptling dicker Fisch	胖鱼酋长
+data_m__data_m__f_010txt.cif	13	"sn 200 ""Keine Missionsvorgabe"""	Keine Missionsvorgabe	无任务目标
+data_m__data_m__f_011_etxt.cif	1	"sn 0 ""Niagara  (Einsteiger)"""	Niagara  (Einsteiger)	尼亚加拉（入门）
+data_m__data_m__f_011_etxt.cif	2	"s ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest."""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest.	此地图没有任务目标，尽情游玩吧。
+data_m__data_m__f_011_etxt.cif	3	"sn 10 ""Die Frionsens"""	Die Frionsens	弗里昂森族
+data_m__data_m__f_011_etxt.cif	4	"s ""Arson Frionson"""	Arson Frionson	Arson Frionson
+data_m__data_m__f_011_etxt.cif	5	"sn 20 ""Appalacee"""	Appalacee	阿帕拉契族
+data_m__data_m__f_011_etxt.cif	6	"s ""Häuptling schwaches Herz"""	Häuptling schwaches Herz	弱心酋长
+data_m__data_m__f_011_etxt.cif	7	"sn 200 ""In dieser Einsteigerkarte gibt es keine Missionsvorgaben, spiele solange Du möchtest"""	In dieser Einsteigerkarte gibt es keine Missionsvorgaben, spiele solange Du möchtest	此入门地图没有任务目标，尽情游玩吧
+data_m__data_m__f_011txt.cif	1	"sn 0 ""Niagara"""	Niagara	尼亚加拉
+data_m__data_m__f_011txt.cif	2	"s ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest."""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest.	此地图没有任务目标，尽情游玩吧。
+data_m__data_m__f_011txt.cif	3	"sn 10 ""Die Frionsens"""	Die Frionsens	弗里昂森族
+data_m__data_m__f_011txt.cif	4	"s ""Arson Frionson"""	Arson Frionson	Arson Frionson
+data_m__data_m__f_011txt.cif	5	"sn 20 ""Appalacee"""	Appalacee	阿帕拉契族
+data_m__data_m__f_011txt.cif	6	"s ""Häuptling schwaches Herz"""	Häuptling schwaches Herz	弱心酋长
+data_m__data_m__f_011txt.cif	7	"sn 200 ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest"""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest	此地图没有任务目标，尽情游玩吧
+data_m__data_m__f_012txt.cif	1	"sn 0 ""Freies Entfalten"""	Freies Entfalten	自由发展
+data_m__data_m__f_012txt.cif	2	"s ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest."""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest.	此地图没有任务目标，尽情游玩吧。
+data_m__data_m__f_012txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_012txt.cif	4	"s ""Sven Olson"""	Sven Olson	Sven Olson
+data_m__data_m__f_012txt.cif	5	"sn 200 ""In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest"""	In dieser Karte gibt es keine Missionsvorgaben, spiele solange Du möchtest	此地图没有任务目标，尽情游玩吧
+data_m__data_m__f_017txt.cif	1	"sn 0 ""*[*  Tenochtlan"""	*[*  Tenochtlan	*[*  特诺奇蒂特兰
+data_m__data_m__f_017txt.cif	2	"s ""Zolle dem Mayakönig den gebührenden Tribut"""	Zolle dem Mayakönig den gebührenden Tribut	向玛雅王缴纳应有的贡品
+data_m__data_m__f_017txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_017txt.cif	4	"sn 20 ""Maya"""	Maya	玛雅族
+data_m__data_m__f_017txt.cif	5	"s ""König Montezuma"""	König Montezuma	Montezuma王
+data_m__data_m__f_017txt.cif	6	"sn 200 ""Zahle 40 Schwerter und 20 Gold Tribut !"""	Zahle 40 Schwerter und 20 Gold Tribut !	缴纳40把剑和20金作为贡品！
+data_m__data_m__f_020_txt.cif	1	"sn 0 ""*[*  Die Drachenzahn-Berge"""	*[*  Die Drachenzahn-Berge	*[*  龙牙山脉
+data_m__data_m__f_020_txt.cif	2	"s ""Die Wikinger müssen das fruchtbare Land erforschen um den Paßweg über die Drachenzahn-Berge zu finden."""	Die Wikinger müssen das fruchtbare Land erforschen um den Paßweg über die Drachenzahn-Berge zu finden.	维京人必须探索肥沃的土地，找到翻越龙牙山脉的隘口。
+data_m__data_m__f_020_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_020_txt.cif	4	"s ""Thoralf Brandistock"""	Thoralf Brandistock	Thoralf Brandistock
+data_m__data_m__f_020_txt.cif	5	"sn 20 ""Feuerpfeile"""	Feuerpfeile	火箭族
+data_m__data_m__f_020_txt.cif	6	"s ""Heulender Kojote"""	Heulender Kojote	嚎叫的郊狼
+data_m__data_m__f_020_txt.cif	7	"sn 200 ""Handel 40 Bögen ({MISC} bisher)"""	Handel 40 Bögen ({MISC} bisher)	交易40张弓（已 {MISC}）
+data_m__data_m__f_020_txt.cif	8	"s ""Erreiche eine Bevölkerung von 60 Einwohnern ({MISC} bisher)"""	Erreiche eine Bevölkerung von 60 Einwohnern ({MISC} bisher)	人口达到60（已 {MISC}）
+data_m__data_m__f_021_txt.cif	1	"sn 0 ""*[*  Der Runenkreis"""	*[*  Der Runenkreis	*[*  符文阵
+data_m__data_m__f_021_txt.cif	2	"s ""Ein feindlicher Indianer-Stamm hält die Grabstätte unserer Vorväter besetzt."""	Ein feindlicher Indianer-Stamm hält die Grabstätte unserer Vorväter besetzt.	一敌对印第安部族占着我们先祖的墓地。
+data_m__data_m__f_021_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_021_txt.cif	4	"s ""Thoralf Brandistock"""	Thoralf Brandistock	Thoralf Brandistock
+data_m__data_m__f_021_txt.cif	5	"sn 20 ""Eskimos"""	Eskimos	爱斯基摩族
+data_m__data_m__f_021_txt.cif	6	"s ""Laniut Frosthauch"""	Laniut Frosthauch	Laniut Frosthauch
+data_m__data_m__f_021_txt.cif	7	"sn 30 ""Nachtvögel"""	Nachtvögel	夜鸟族
+data_m__data_m__f_021_txt.cif	8	"s ""Häuptling Renibo"""	Häuptling Renibo	Renibo酋长
+data_m__data_m__f_021_txt.cif	9	"sn 40 ""Schwarzleder"""	Schwarzleder	黑皮族
+data_m__data_m__f_021_txt.cif	10	"s ""Mocbar Eisenfaust"""	Mocbar Eisenfaust	Mocbar Eisenfaust
+data_m__data_m__f_021_txt.cif	11	"sn 100 ""Baue eine Brauerei."""	Baue eine Brauerei.	建造一座酿酒坊。
+data_m__data_m__f_021_txt.cif	12	"s ""Finde und zerstöre den Tempel der feindlichen Indianer."""	Finde und zerstöre den Tempel der feindlichen Indianer.	找到并摧毁敌对印第安人的神庙。
+data_m__data_m__f_021_txt.cif	13	"s ""Errichte einen neuen Tempel neben dem Runenkreis."""	Errichte einen neuen Tempel neben dem Runenkreis.	在符文阵旁建造一座新神庙。
+data_m__data_m__f_022_txt.cif	1	"sn 0 ""Die Suche nach dem Weihnachtsmann"""	Die Suche nach dem Weihnachtsmann	寻找圣诞老人
+data_m__data_m__f_022_txt.cif	2	"s ""Rette das Weihnachtsfest !"""	Rette das Weihnachtsfest !	拯救圣诞节！
+data_m__data_m__f_022_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_022_txt.cif	4	"s ""Thoralf Brandistock"""	Thoralf Brandistock	Thoralf Brandistock
+data_m__data_m__f_022_txt.cif	5	"sn 20 ""Eiswind Stamm"""	Eiswind Stamm	冰风族
+data_m__data_m__f_022_txt.cif	6	"s ""Ignur Eisläufer"""	Ignur Eisläufer	Ignur Eisläufer
+data_m__data_m__f_022_txt.cif	7	"sn 30 ""Miesepeter"""	Miesepeter	丧气鬼
+data_m__data_m__f_022_txt.cif	8	"s ""Grummel Gringer"""	Grummel Gringer	Grummel Gringer
+data_m__data_m__f_022_txt.cif	9	"sn 40 ""Weihnachtshelfer"""	Weihnachtshelfer	圣诞帮手
+data_m__data_m__f_022_txt.cif	10	"s ""Ralf Ruprecht"""	Ralf Ruprecht	Ralf Ruprecht
+data_m__data_m__f_022_txt.cif	11	"sn 100 ""Finde die Eskimos im Norden"""	Finde die Eskimos im Norden	在北方找到爱斯基摩人
+data_m__data_m__f_022_txt.cif	12	"s ""Bringe den Eiswind-Eskimos 30 Schuhe (Tribut)"""	Bringe den Eiswind-Eskimos 30 Schuhe (Tribut)	向冰风爱斯基摩人交付30双鞋（贡品）
+data_m__data_m__f_022_txt.cif	13	"s ""Suche den Weihnachtsmann"""	Suche den Weihnachtsmann	寻找圣诞老人
+data_m__data_m__f_022_txt.cif	14	"s ""Bringe den Miesepetern 20 Gold (Tribut)"""	Bringe den Miesepetern 20 Gold (Tribut)	向丧气鬼交付20金（贡品）
+data_m__data_m__f_023_txt.cif	1	"sn 0 ""*[*  Die blaue Lagune"""	*[*  Die blaue Lagune	*[*  蓝色礁湖
+data_m__data_m__f_023_txt.cif	2	"s ""Abenteuer auf einem paradisischen Eiland"""	Abenteuer auf einem paradisischen Eiland	天堂小岛上的冒险
+data_m__data_m__f_023_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_023_txt.cif	4	"s ""Ole Logrimm"""	Ole Logrimm	Ole Logrimm
+data_m__data_m__f_023_txt.cif	5	"sn 20 ""Rainbow-Feathers"""	Rainbow-Feathers	彩虹羽族
+data_m__data_m__f_023_txt.cif	6	"s ""Tuata Iglipoctli"""	Tuata Iglipoctli	Tuata Iglipoctli
+data_m__data_m__f_023_txt.cif	7	"sn 30 ""Poctlazetl"""	Poctlazetl	波克特拉塞特尔族
+data_m__data_m__f_023_txt.cif	8	"s ""Oscuro der Priester"""	Oscuro der Priester	Oscuro祭司
+data_m__data_m__f_023_txt.cif	9	"sn 100 ""Erforsche das Eiland."""	Erforsche das Eiland.	探索这座小岛。
+data_m__data_m__f_023_txt.cif	10	"s ""Finde die entführten jungen Frauen."""	Finde die entführten jungen Frauen.	找到被掳走的年轻女子。
+data_m__data_m__f_024_txt.cif	1	"sn 0 ""*[*  Die Handelsmacht"""	*[*  Die Handelsmacht	*[*  贸易强权
+data_m__data_m__f_024_txt.cif	2	"s ""Errichte eine große Wikingerfestung auf einem großen Hochplateau"""	Errichte eine große Wikingerfestung auf einem großen Hochplateau	在广阔的高原上建造一座大型维京堡垒
+data_m__data_m__f_024_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_024_txt.cif	4	"s ""Björn Hardarn"""	Björn Hardarn	Björn Hardarn
+data_m__data_m__f_024_txt.cif	5	"sn 20 ""Mondkrähen"""	Mondkrähen	月鸦族
+data_m__data_m__f_024_txt.cif	6	"s ""Häuptling Nembo"""	Häuptling Nembo	Nembo酋长
+data_m__data_m__f_024_txt.cif	7	"sn 30 ""Wolcumsee"""	Wolcumsee	沃尔坎湖族
+data_m__data_m__f_024_txt.cif	8	"s ""Medizinmann Daino"""	Medizinmann Daino	巫医Daino
+data_m__data_m__f_024_txt.cif	9	"sn 40 ""Baumköpfe"""	Baumköpfe	树头族
+data_m__data_m__f_024_txt.cif	10	"s ""Häuptling Holzfaust"""	Häuptling Holzfaust	木拳酋长
+data_m__data_m__f_024_txt.cif	11	"sn 50 ""Tarislar"""	Tarislar	塔里斯拉族
+data_m__data_m__f_024_txt.cif	12	"s ""Oarihd Stoneyard"""	Oarihd Stoneyard	Oarihd Stoneyard
+data_m__data_m__f_024_txt.cif	13	"sn 100 ""Erreiche eine Bevölkerung von 100 Wikingern ! (bisher {MISC})"""	Erreiche eine Bevölkerung von 100 Wikingern ! (bisher {MISC})	维京人口达到100！（已 {MISC}）
+data_m__data_m__f_025_txt.cif	1	"sn 0 ""*[*  Gestrandet"""	*[*  Gestrandet	*[*  搁浅
+data_m__data_m__f_025_txt.cif	2	"s ""Deine Wikinger müssen sich von einem schweren Sturm erholen und die Vorräte aufstocken"""	Deine Wikinger müssen sich von einem schweren Sturm erholen und die Vorräte aufstocken	你的维京人必须从猛烈的风暴中恢复并补充物资
+data_m__data_m__f_025_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_025_txt.cif	4	"s ""Knuut Asgrand"""	Knuut Asgrand	Knuut Asgrand
+data_m__data_m__f_025_txt.cif	5	"sn 20 ""Eskimos"""	Eskimos	爱斯基摩族
+data_m__data_m__f_025_txt.cif	6	"s ""Oiano Legaswind"""	Oiano Legaswind	Oiano Legaswind
+data_m__data_m__f_025_txt.cif	7	"sn 30 ""Indianer"""	Indianer	印第安人
+data_m__data_m__f_025_txt.cif	8	"s ""Häuptling Wel-Noc"""	Häuptling Wel-Noc	Wel-Noc酋长
+data_m__data_m__f_025_txt.cif	9	"sn 200 ""Lagere 120 Einheiten Nahrung im Haupthaus ein ! (bisher {MISC})"""	Lagere 120 Einheiten Nahrung im Haupthaus ein ! (bisher {MISC})	在主建筑储存120份食物！（已 {MISC}）
+data_m__data_m__f_025_txt.cif	10	"s ""Lagere 80 Einheiten Holz im Haupthaus ein ! (bisher {MISC})"""	Lagere 80 Einheiten Holz im Haupthaus ein ! (bisher {MISC})	在主建筑储存80份木材！（已 {MISC}）
+data_m__data_m__f_025_txt.cif	11	"s ""Lagere 40 Einheiten Holz-Werkzeug im Haupthaus ein ! (bisher {MISC})"""	Lagere 40 Einheiten Holz-Werkzeug im Haupthaus ein ! (bisher {MISC})	在主建筑储存40份木工具！（已 {MISC}）
+data_m__data_m__f_026_txt.cif	1	"sn 0 ""*[*  Die große Jagd"""	*[*  Die große Jagd	*[*  大狩猎
+data_m__data_m__f_026_txt.cif	2	"s ""Eine große Büffelherde zieht durchs Land. Geh auf die Jagd und behaupte dich gegen konkurrierende Stämme"""	Eine große Büffelherde zieht durchs Land. Geh auf die Jagd und behaupte dich gegen konkurrierende Stämme	一大群野牛穿过大地。去狩猎吧，在竞争部族中证明自己
+data_m__data_m__f_026_txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__f_026_txt.cif	4	"s ""Eric Olennsen"""	Eric Olennsen	Eric Olennsen
+data_m__data_m__f_026_txt.cif	5	"sn 20 ""Aroroc"""	Aroroc	阿罗罗克族
+data_m__data_m__f_026_txt.cif	6	"s ""Vriac Bärentatze"""	Vriac Bärentatze	Vriac Bärentatze
+data_m__data_m__f_026_txt.cif	7	"sn 30 ""Tzishimine"""	Tzishimine	齐希米内族
+data_m__data_m__f_026_txt.cif	8	"s ""Priester Daropopetl"""	Priester Daropopetl	Daropopetl祭司
+data_m__data_m__f_026_txt.cif	9	"sn 40 ""Schattenkrähen"""	Schattenkrähen	影鸦族
+data_m__data_m__f_026_txt.cif	10	"s ""Häuptling Runaar"""	Häuptling Runaar	Runaar酋长
+data_m__data_m__f_026_txt.cif	11	"sn 50 ""Sandläufer"""	Sandläufer	沙行族
+data_m__data_m__f_026_txt.cif	12	"s ""Häuptling Piogo"""	Häuptling Piogo	Piogo酋长
+data_m__data_m__f_026_txt.cif	13	"sn 100 ""Erwirtschafte 100 Einheiten Leder ! (bisher {MISC})"""	Erwirtschafte 100 Einheiten Leder ! (bisher {MISC})	产出100份皮革！（已 {MISC}）
+data_m__data_m__f_026_txt.cif	14	"s ""Besiege alle feindlichen Mayas !"""	Besiege alle feindlichen Mayas !	击败所有敌对玛雅人！
+data_m__data_m__i_001_txt.cif	1	"sn 0 ""Tutorial 1"""	Tutorial 1	教程1
+data_m__data_m__i_001_txt.cif	2	"s ""Grundlegende Spielprinzipien"""	Grundlegende Spielprinzipien	基本游戏原理
+data_m__data_m__i_001_txt.cif	3	"sn 10 ""Ralf"""	Ralf	Ralf
+data_m__data_m__i_001_txt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__i_001_txt.cif	5	"sn 100 ""Baue ein Jägerzelt"""	Baue ein Jägerzelt	建造一座猎人帐篷
+data_m__data_m__i_001_txt.cif	6	"s ""Mache Sven zum Jäger und weise ihm die Jagdhütte zu. Beobachte, wie er zum Jägermeister wird."""	Mache Sven zum Jäger und weise ihm die Jagdhütte zu. Beobachte, wie er zum Jägermeister wird.	让Sven成为猎手并分配他去猎棚。观察他如何成为猎手大师。
+data_m__data_m__i_001_txt.cif	7	"s ""Baue ein Wohnzelt für Sven."""	Baue ein Wohnzelt für Sven.	为Sven建造一座住所。
+data_m__data_m__i_001_txt.cif	8	"s ""Lasse Sven nun in die Wohnung einziehen."""	Lasse Sven nun in die Wohnung einziehen.	让Sven搬进住所。
+data_m__data_m__i_001_txt.cif	9	"s ""Lasse Sven heiraten und lasse seine Frau ein Kind bekommen."""	Lasse Sven heiraten und lasse seine Frau ein Kind bekommen.	让Sven结婚，并让他的妻子生一个孩子。
+data_m__data_m__i_002_txt.cif	1	"sn 0 ""Tutorial 2"""	Tutorial 2	教程2
+data_m__data_m__i_002_txt.cif	2	"s ""Aufbau der nachwachsenden Nahrungsversorgung"""	Aufbau der nachwachsenden Nahrungsversorgung	建立可持续的食物供应
+data_m__data_m__i_002_txt.cif	3	"sn 10 ""Ralf"""	Ralf	Ralf
+data_m__data_m__i_002_txt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__i_002_txt.cif	5	"sn 100 ""Baue eine Mühle"""	Baue eine Mühle	建造一座磨坊
+data_m__data_m__i_002_txt.cif	6	"s ""Mache Ralf zum Müller und lasse ihn in der Mühle arbeiten. Warte, bis er Müllermeister ist."""	Mache Ralf zum Müller und lasse ihn in der Mühle arbeiten. Warte, bis er Müllermeister ist.	让Ralf成为磨坊工并让他在磨坊工作。等待他成为磨坊大师。
+data_m__data_m__i_002_txt.cif	7	"s ""Baue eine Bäckerei."""	Baue eine Bäckerei.	建造一座面包坊。
+data_m__data_m__i_002_txt.cif	8	"s ""Baue einen Brunnen."""	Baue einen Brunnen.	建造一口水井。
+data_m__data_m__i_002_txt.cif	9	"s ""Baue eine Schule."""	Baue eine Schule.	建造一座学校。
+data_m__data_m__i_002_txt.cif	10	"s ""Schicke einen Bauern in die Schule und lass ihn dort zum Müllermeister werden. Mache Ralf zum Bäcker und schicke ihn in die Bäckerei. Sag dem neuen Müller, dass er in der Mühle arbeiten soll und beobachte Ralf, wie er zum Bäckermeister wird."""	Schicke einen Bauern in die Schule und lass ihn dort zum Müllermeister werden. Mache Ralf zum Bäcker und schicke ihn in die Bäckerei. Sag dem neuen Müller, dass er in der Mühle arbeiten soll und beobachte Ralf, wie er zum Bäckermeister wird.	送一个农民去学校学习成为磨坊大师。让Ralf转职为面包师并送他去面包坊。命令新的磨坊工去磨坊工作，观察Ralf如何成为面包大师。
+data_m__data_m__i_003_txt.cif	1	"sn 0 ""Tutorial 3"""	Tutorial 3	教程3
+data_m__data_m__i_003_txt.cif	2	"s ""Handel mit anderen Völkern"""	Handel mit anderen Völkern	与其他民族贸易
+data_m__data_m__i_003_txt.cif	3	"sn 10 ""Ralf"""	Ralf	Ralf
+data_m__data_m__i_003_txt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__i_003_txt.cif	5	"sn 15 ""Gespaltene Zunge"""	Gespaltene Zunge	分叉舌
+data_m__data_m__i_003_txt.cif	6	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__i_003_txt.cif	7	"s ""Ralf Rodbart"""	Ralf Rodbart	Ralf Rodbart
+data_m__data_m__i_003_txt.cif	8	"s ""Wikingervolk"""	Wikingervolk	维京族
+data_m__data_m__i_003_txt.cif	9	"sn 30 ""Schlitzohren"""	Schlitzohren	滑头族
+data_m__data_m__i_003_txt.cif	10	"s ""Gespaltene Zunge"""	Gespaltene Zunge	分叉舌
+data_m__data_m__i_003_txt.cif	11	"s ""Händlervolk"""	Händlervolk	商族
+data_m__data_m__i_003_txt.cif	12	"sn 100 ""Schicke deinen Kundschafter nach Norden, oberhalb des Dorfes."""	Schicke deinen Kundschafter nach Norden, oberhalb des Dorfes.	派你的侦察兵前往村子上方的北方。
+data_m__data_m__i_003_txt.cif	13	"s ""Lasse den Kundschafter einen Wegweiser in die unmittelbare Nähe des Händlers bauen."""	Lasse den Kundschafter einen Wegweiser in die unmittelbare Nähe des Händlers bauen.	让侦察兵在商人附近建造一个路标。
+data_m__data_m__i_003_txt.cif	14	"s ""Mache den Träger zum Händler und richte die Handelsroute ein."""	Mache den Träger zum Händler und richte die Handelsroute ein.	让搬运工转职为商人并设置贸易路线。
+data_m__data_m__i_003_txt.cif	15	"s ""Handle mindestens 20 Goldbarren und bring sie in dein Lagerhaus."""	Handle mindestens 20 Goldbarren und bring sie in dein Lagerhaus.	至少交易20根金条并送入你的仓库。
+data_m__data_m__i_004_txt.cif	1	"sn 0 ""Tutorial 4"""	Tutorial 4	教程4
+data_m__data_m__i_004_txt.cif	2	"s ""Kampf und Diplomatie"""	Kampf und Diplomatie	战斗与外交
+data_m__data_m__i_004_txt.cif	3	"sn 10 ""Ralf"""	Ralf	Ralf
+data_m__data_m__i_004_txt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__i_004_txt.cif	5	"sn 15 ""Gespaltene Zunge"""	Gespaltene Zunge	分叉舌
+data_m__data_m__i_004_txt.cif	6	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__i_004_txt.cif	7	"s ""Ralf Rodbart"""	Ralf Rodbart	Ralf Rodbart
+data_m__data_m__i_004_txt.cif	8	"s ""Wikingervolk"""	Wikingervolk	维京族
+data_m__data_m__i_004_txt.cif	9	"sn 30 ""Schlitzohren"""	Schlitzohren	滑头族
+data_m__data_m__i_004_txt.cif	10	"s ""Gespaltene Zunge"""	Gespaltene Zunge	分叉舌
+data_m__data_m__i_004_txt.cif	11	"s ""Händlervolk"""	Händlervolk	商族
+data_m__data_m__i_004_txt.cif	12	"sn 100 ""Erkläre dem fremden Händler den Krieg (Diplomatiemodus auf 'feindlich' stellen)."""	Erkläre dem fremden Händler den Krieg (Diplomatiemodus auf 'feindlich' stellen).	向外族商人宣战（将外交模式设为'敌对'）。
+data_m__data_m__i_004_txt.cif	13	"s ""Bilde zwei deiner Leute zu Soldaten aus."""	Bilde zwei deiner Leute zu Soldaten aus.	将你的两个人训练成士兵。
+data_m__data_m__i_004_txt.cif	14	"s ""Vertreibe den fremden Händler und vernichte alle seine Gebäude."""	Vertreibe den fremden Händler und vernichte alle seine Gebäude.	驱逐外族商人并摧毁他所有的建筑。
+data_m__data_m__m2_01_atxt.cif	1	"sn 0 ""*[*  Die Eisstämme"""	*[*  Die Eisstämme	*[*  冰雪部族
+data_m__data_m__m2_01_atxt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m2_01_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_01_atxt.cif	4	"s ""Bjornson"""	Bjornson	Bjornson
+data_m__data_m__m2_01_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_01_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m2_01_btxt.cif	1	"sn 0 ""*[*  Die Eisstämme"""	*[*  Die Eisstämme	*[*  冰雪部族
+data_m__data_m__m2_01_btxt.cif	2	"s ""Erhöhe die Zahl deiner Einwohner"""	Erhöhe die Zahl deiner Einwohner	增加你的人口
+data_m__data_m__m2_01_btxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_01_btxt.cif	4	"s ""Ole"""	Ole	Ole
+data_m__data_m__m2_01_btxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_01_btxt.cif	6	"s ""Jörgunson"""	Jörgunson	Jörgunson
+data_m__data_m__m2_02_atxt.cif	1	"sn 0 ""*[*  Die drei Inseln"""	*[*  Die drei Inseln	*[*  三座岛屿
+data_m__data_m__m2_02_atxt.cif	2	"s ""Kämpfe um zu überleben!"""	Kämpfe um zu überleben!	为生存而战！
+data_m__data_m__m2_02_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_02_atxt.cif	4	"s ""Dönstref"""	Dönstref	Dönstref
+data_m__data_m__m2_02_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_02_atxt.cif	6	"s ""Jolahn"""	Jolahn	Jolahn
+data_m__data_m__m2_02_atxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_02_atxt.cif	8	"s ""Björnsrof"""	Björnsrof	Björnsrof
+data_m__data_m__m2_02_btxt.cif	1	"sn 0 ""*[*  Die drei Inseln"""	*[*  Die drei Inseln	*[*  三座岛屿
+data_m__data_m__m2_02_btxt.cif	2	"s ""Wem gelingt das größte Dorf?"""	Wem gelingt das größte Dorf?	谁能建出最大的村落？
+data_m__data_m__m2_02_btxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_02_btxt.cif	4	"s ""Dönstref"""	Dönstref	Dönstref
+data_m__data_m__m2_02_btxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_02_btxt.cif	6	"s ""Jolahn"""	Jolahn	Jolahn
+data_m__data_m__m2_02_btxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_02_btxt.cif	8	"s ""Björnsrof"""	Björnsrof	Björnsrof
+data_m__data_m__m2_03_atxt.cif	1	"sn 0 ""*[*  Die Oase"""	*[*  Die Oase	*[*  绿洲
+data_m__data_m__m2_03_atxt.cif	2	"s ""Die Oase ist nur groß genug für Einen. Also KÄMPFE!!!"""	Die Oase ist nur groß genug für Einen. Also KÄMPFE!!!	这片绿洲只容得下一人。那就战斗吧！
+data_m__data_m__m2_03_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_03_atxt.cif	4	"s ""Janulsson"""	Janulsson	Janulsson
+data_m__data_m__m2_03_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_03_atxt.cif	6	"s ""Ole"""	Ole	Ole
+data_m__data_m__m2_03_atxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_03_atxt.cif	8	"s ""Björn"""	Björn	Björn
+data_m__data_m__m2_03_atxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_03_atxt.cif	10	"s ""Ulf"""	Ulf	Ulf
+data_m__data_m__m2_03_btxt.cif	1	"sn 0 ""*[*  Die Oase"""	*[*  Die Oase	*[*  绿洲
+data_m__data_m__m2_03_btxt.cif	2	"s ""Wer produziert am schnellsten?"""	Wer produziert am schnellsten?	谁生产得最快？
+data_m__data_m__m2_03_btxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_03_btxt.cif	4	"s ""Janulsson"""	Janulsson	Janulsson
+data_m__data_m__m2_03_btxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_03_btxt.cif	6	"s ""Ole"""	Ole	Ole
+data_m__data_m__m2_03_btxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_03_btxt.cif	8	"s ""Björn"""	Björn	Björn
+data_m__data_m__m2_03_btxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_03_btxt.cif	10	"s ""Ulf"""	Ulf	Ulf
+data_m__data_m__m2_04_atxt.cif	1	"sn 0 ""*[*  Das Eislabyrinth"""	*[*  Das Eislabyrinth	*[*  冰宫迷宫
+data_m__data_m__m2_04_atxt.cif	2	"s ""6 Kriegerische Stämme in einem Labyrinth aus Eis"""	6 Kriegerische Stämme in einem Labyrinth aus Eis	六个好战部族身处冰雪迷宫之中
+data_m__data_m__m2_04_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_04_atxt.cif	4	"s ""Odel"""	Odel	Odel
+data_m__data_m__m2_04_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_04_atxt.cif	6	"s ""Sörson"""	Sörson	Sörson
+data_m__data_m__m2_04_atxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_04_atxt.cif	8	"s ""Björn"""	Björn	Björn
+data_m__data_m__m2_04_atxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_04_atxt.cif	10	"s ""Julaf"""	Julaf	Julaf
+data_m__data_m__m2_04_atxt.cif	11	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_04_atxt.cif	12	"s ""Fangalf"""	Fangalf	Fangalf
+data_m__data_m__m2_04_atxt.cif	13	"sn 60 ""Wikinger"""	Wikinger	"sn 60 ""维京人"""
+data_m__data_m__m2_04_atxt.cif	14	"s ""Ulf"""	Ulf	Ulf
+data_m__data_m__m2_04_btxt.cif	1	"sn 0 ""*[*  Das Eislabyrinth"""	*[*  Das Eislabyrinth	*[*  冰宫迷宫
+data_m__data_m__m2_04_btxt.cif	2	"s ""Gelingt es dir in dieser unwirklichen Welt ein Dorf zu errichten?"""	Gelingt es dir in dieser unwirklichen Welt ein Dorf zu errichten?	你能在这片虚幻之境中建起一座村落吗？
+data_m__data_m__m2_04_btxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_04_btxt.cif	4	"s ""Odel"""	Odel	Odel
+data_m__data_m__m2_04_btxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_04_btxt.cif	6	"s ""Sörson"""	Sörson	Sörson
+data_m__data_m__m2_04_btxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_04_btxt.cif	8	"s ""Björn"""	Björn	Björn
+data_m__data_m__m2_04_btxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_04_btxt.cif	10	"s ""Julaf"""	Julaf	Julaf
+data_m__data_m__m2_04_btxt.cif	11	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_04_btxt.cif	12	"s ""Fangalf"""	Fangalf	Fangalf
+data_m__data_m__m2_04_btxt.cif	13	"sn 60 ""Wikinger"""	Wikinger	"sn 60 ""维京人"""
+data_m__data_m__m2_04_btxt.cif	14	"s ""Ulf"""	Ulf	Ulf
+data_m__data_m__m2_05_atxt.cif	1	"sn 0 ""*[*  Die Ufer"""	*[*  Die Ufer	*[*  两岸
+data_m__data_m__m2_05_atxt.cif	2	"s ""Ein Fluss teilt das feindliche Land"""	Ein Fluss teilt das feindliche Land	一条河流分割了敌方领地
+data_m__data_m__m2_05_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_05_atxt.cif	4	"s ""Tandalfl"""	Tandalfl	Tandalfl
+data_m__data_m__m2_05_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_05_atxt.cif	6	"s ""Sörson"""	Sörson	Sörson
+data_m__data_m__m2_05_atxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_05_atxt.cif	8	"s ""Tandalf"""	Tandalf	Tandalf
+data_m__data_m__m2_05_atxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_05_atxt.cif	10	"s ""Smetje"""	Smetje	Smetje
+data_m__data_m__m2_05_btxt.cif	1	"sn 0 ""*[*  Die Ufer"""	*[*  Die Ufer	*[*  两岸
+data_m__data_m__m2_05_btxt.cif	2	"s ""Zwei Spieler auf jeder Seite"""	Zwei Spieler auf jeder Seite	每边两名玩家
+data_m__data_m__m2_05_btxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_05_btxt.cif	4	"s ""Tandalfl"""	Tandalfl	Tandalfl
+data_m__data_m__m2_05_btxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_05_btxt.cif	6	"s ""Sörson"""	Sörson	Sörson
+data_m__data_m__m2_05_btxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_05_btxt.cif	8	"s ""Tandalf"""	Tandalf	Tandalf
+data_m__data_m__m2_05_btxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m2_05_btxt.cif	10	"s ""Smetje"""	Smetje	Smetje
+data_m__data_m__m2_06_atxt.cif	1	"sn 0 ""*[*  Der Wald"""	*[*  Der Wald	*[*  森林
+data_m__data_m__m2_06_atxt.cif	2	"s ""Ein Dorf hofft auf Rettung"""	Ein Dorf hofft auf Rettung	一座村落期盼着救援
+data_m__data_m__m2_06_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_06_atxt.cif	4	"s ""Smetje"""	Smetje	Smetje
+data_m__data_m__m2_06_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_06_atxt.cif	6	"s ""Tandalf"""	Tandalf	Tandalf
+data_m__data_m__m2_06_atxt.cif	7	"sn 30 ""Indianer"""	Indianer	印第安人
+data_m__data_m__m2_06_atxt.cif	8	"s ""Gucks Du"""	Gucks Du	Gucks Du
+data_m__data_m__m2_07_atxt.cif	1	"sn 0 ""*[*  Das Erbe der Mayas """	*[*  Das Erbe der Mayas 	*[*  玛雅的遗产 
+data_m__data_m__m2_07_atxt.cif	2	"s ""Vertreibe die Goldplünderer"""	Vertreibe die Goldplünderer	驱逐掠夺黄金的人
+data_m__data_m__m2_07_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m2_07_atxt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__m2_07_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_07_atxt.cif	6	"s ""Janson"""	Janson	Janson
+data_m__data_m__m2_07_btxt.cif	1	"sn 0 ""*[*  Das Erbe der Mayas """	*[*  Das Erbe der Mayas 	*[*  玛雅的遗产 
+data_m__data_m__m2_07_btxt.cif	2	"s ""Wem gelingt die größte Bevölkerung?"""	Wem gelingt die größte Bevölkerung?	谁的人口最多？
+data_m__data_m__m2_07_btxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m2_07_btxt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__m2_07_btxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_07_btxt.cif	6	"s ""Janson"""	Janson	Janson
+data_m__data_m__m2_08_atxt.cif	1	"sn 0 ""*[*  Geteiltes Land """	*[*  Geteiltes Land 	*[*  分裂之地 
+data_m__data_m__m2_08_atxt.cif	2	"s ""Nur wer groß genug ist, kann überleben"""	Nur wer groß genug ist, kann überleben	只有足够强大才能存活
+data_m__data_m__m2_08_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m2_08_atxt.cif	4	"s ""Torben"""	Torben	Torben
+data_m__data_m__m2_08_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_08_atxt.cif	6	"s ""Sören"""	Sören	"s ""索伦"""
+data_m__data_m__m2_08_btxt.cif	1	"sn 0 ""*[*  Geteiltes Land """	*[*  Geteiltes Land 	*[*  分裂之地 
+data_m__data_m__m2_08_btxt.cif	2	"s ""Nur wer genügend Wikinger hat, kann überleben"""	Nur wer genügend Wikinger hat, kann überleben	只有维京人足够多才能存活
+data_m__data_m__m2_08_btxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m2_08_btxt.cif	4	"s ""Torben"""	Torben	Torben
+data_m__data_m__m2_08_btxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_08_btxt.cif	6	"s ""Sören"""	Sören	"s ""索伦"""
+data_m__data_m__m2_09_atxt.cif	1	"sn 0 ""*[*  Der Drachensee """	*[*  Der Drachensee 	*[*  龙之湖 
+data_m__data_m__m2_09_atxt.cif	2	"s ""Wikinger und Indianer sind die Feinde"""	Wikinger und Indianer sind die Feinde	维京人和印第安人是敌人
+data_m__data_m__m2_09_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m2_09_atxt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__m2_09_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_09_atxt.cif	6	"s ""Janson"""	Janson	Janson
+data_m__data_m__m2_09_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_09_atxt.cif	8	"s ""Ingolf"""	Ingolf	Ingolf
+data_m__data_m__m2_09_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_09_atxt.cif	10	"s ""Olafson"""	Olafson	Olafson
+data_m__data_m__m2_09_atxt.cif	11	"sn 40 ""Die Drachenhüter"""	Die Drachenhüter	守龙族
+data_m__data_m__m2_09_atxt.cif	12	"s ""Drachenfaust"""	Drachenfaust	龙拳
+data_m__data_m__m2_09_atxt.cif	13	"s ""Hüter des Drachensees"""	Hüter des Drachensees	龙之湖守护者
+data_m__data_m__m2_09_btxt.cif	1	"sn 0 ""*[*  Der Drachensee """	*[*  Der Drachensee 	*[*  龙之湖 
+data_m__data_m__m2_09_btxt.cif	2	"s ""Produziere die gewünschten Waren"""	Produziere die gewünschten Waren	生产所需的货物
+data_m__data_m__m2_09_btxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m2_09_btxt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__m2_09_btxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_09_btxt.cif	6	"s ""Janson"""	Janson	Janson
+data_m__data_m__m2_09_btxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_09_btxt.cif	8	"s ""Ingolf"""	Ingolf	Ingolf
+data_m__data_m__m2_09_btxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m2_09_btxt.cif	10	"s ""Olafson"""	Olafson	Olafson
+data_m__data_m__m2_09_btxt.cif	11	"sn 40 ""Die Drachenhüter"""	Die Drachenhüter	守龙族
+data_m__data_m__m2_09_btxt.cif	12	"s ""Drachenfaust"""	Drachenfaust	龙拳
+data_m__data_m__m2_09_btxt.cif	13	"s ""Hüter des Drachensees"""	Hüter des Drachensees	龙之湖守护者
+data_m__data_m__m2_10_atxt.cif	1	"sn 0 ""*[*  Die Festung"""	*[*  Die Festung	*[*  堡垒
+data_m__data_m__m2_10_atxt.cif	2	"s ""Vernichte den Gegner"""	Vernichte den Gegner	消灭对手
+data_m__data_m__m2_10_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m2_10_atxt.cif	4	"s ""Sven"""	Sven	Sven
+data_m__data_m__m2_10_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m2_10_atxt.cif	6	"s ""Olafson"""	Olafson	Olafson
+data_m__data_m__m_001_atxt.cif	1	"sn 0 ""Die Monsterinsel"""	Die Monsterinsel	怪兽岛
+data_m__data_m__m_001_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_001_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_001_atxt.cif	4	"s ""Ralfson"""	Ralfson	Ralfson
+data_m__data_m__m_001_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_001_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_001_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_001_atxt.cif	8	"s ""Tobinson"""	Tobinson	Tobinson
+data_m__data_m__m_001_atxt.cif	9	"sn 30 ""Chakchiuma"""	Chakchiuma	查克丘马族
+data_m__data_m__m_001_atxt.cif	10	"s ""Schwacher Atem"""	Schwacher Atem	虚弱呼吸
+data_m__data_m__m_002_atxt.cif	1	"sn 0 ""Kämpfe für dich!"""	Kämpfe für dich!	各自为战！
+data_m__data_m__m_002_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_002_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_002_atxt.cif	4	"s ""Ansgar"""	Ansgar	Ansgar
+data_m__data_m__m_002_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_002_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_002_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_002_atxt.cif	8	"s ""Tobinson"""	Tobinson	Tobinson
+data_m__data_m__m_002_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_002_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_002txt.cif	1	"sn 0 ""Kämpfe für dich!"""	Kämpfe für dich!	各自为战！
+data_m__data_m__m_002txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_002txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_002txt.cif	4	"s ""Ansgar"""	Ansgar	Ansgar
+data_m__data_m__m_002txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_002txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_002txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_002txt.cif	8	"s ""Tobinson"""	Tobinson	Tobinson
+data_m__data_m__m_002txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_002txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_003_atxt.cif	1	"sn 0 ""Manhattan - Die verlorene Stadt"""	Manhattan - Die verlorene Stadt	曼哈顿 - 失落之城
+data_m__data_m__m_003_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_003_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_003_atxt.cif	4	"s ""Bjarne"""	Bjarne	Bjarne
+data_m__data_m__m_003_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_003_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_003_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_003_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_003_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_003_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_003_atxt.cif	11	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_003_atxt.cif	12	"s ""Peterson"""	Peterson	Peterson
+data_m__data_m__m_003txt.cif	1	"sn 0 ""Manhattan - Die verlorene Stadt"""	Manhattan - Die verlorene Stadt	曼哈顿 - 失落之城
+data_m__data_m__m_003txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_003txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_003txt.cif	4	"s ""Bjarne"""	Bjarne	Bjarne
+data_m__data_m__m_003txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_003txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_003txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_003txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_003txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_003txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_003txt.cif	11	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_003txt.cif	12	"s ""Peterson"""	Peterson	Peterson
+data_m__data_m__m_004_atxt.cif	1	"sn 0 ""Das vergessene Tal"""	Das vergessene Tal	遗忘之谷
+data_m__data_m__m_004_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_004_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_004_atxt.cif	4	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_004_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_004_atxt.cif	6	"s ""Tyrker"""	Tyrker	Tyrker
+data_m__data_m__m_004_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_004_atxt.cif	8	"s ""Olaf"""	Olaf	Olaf
+data_m__data_m__m_004_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_004_atxt.cif	10	"s ""Snorri"""	Snorri	Snorri
+data_m__data_m__m_004txt.cif	1	"sn 0 ""Das vergessene Tal"""	Das vergessene Tal	遗忘之谷
+data_m__data_m__m_004txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_004txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_004txt.cif	4	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_004txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_004txt.cif	6	"s ""Tyrker"""	Tyrker	Tyrker
+data_m__data_m__m_004txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_004txt.cif	8	"s ""Olaf"""	Olaf	Olaf
+data_m__data_m__m_004txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_004txt.cif	10	"s ""Snorri"""	Snorri	Snorri
+data_m__data_m__m_006_atxt.cif	1	"sn 0 ""Die Schatzinsel"""	Die Schatzinsel	宝藏岛
+data_m__data_m__m_006_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_006_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_006_atxt.cif	4	"s ""Olafson"""	Olafson	Olafson
+data_m__data_m__m_006_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_006_atxt.cif	6	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_006_atxt.cif	7	"sn 20 ""Mazupina"""	Mazupina	马祖皮纳族
+data_m__data_m__m_006_atxt.cif	8	"s ""Izamapinta"""	Izamapinta	伊扎马平塔族
+data_m__data_m__m_006txt.cif	1	"sn 0 ""Die Schatzinsel"""	Die Schatzinsel	宝藏岛
+data_m__data_m__m_006txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_006txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_006txt.cif	4	"s ""Olafson"""	Olafson	Olafson
+data_m__data_m__m_006txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_006txt.cif	6	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_006txt.cif	7	"sn 20 ""Mazupina"""	Mazupina	马祖皮纳族
+data_m__data_m__m_006txt.cif	8	"s ""Izamapinta"""	Izamapinta	伊扎马平塔族
+data_m__data_m__m_007_atxt.cif	1	"sn 0 ""Oops...Ayers Rock?"""	Oops...Ayers Rock?	哎呀……艾尔斯岩？
+data_m__data_m__m_007_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_007_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_007_atxt.cif	4	"s ""Soren"""	Soren	Soren
+data_m__data_m__m_007_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_007_atxt.cif	6	"s ""Tyrker"""	Tyrker	Tyrker
+data_m__data_m__m_007_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_007_atxt.cif	8	"s ""Olaf"""	Olaf	Olaf
+data_m__data_m__m_007_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_007_atxt.cif	10	"s ""Snorri"""	Snorri	Snorri
+data_m__data_m__m_007txt.cif	1	"sn 0 ""Oops...Ayers Rock?"""	Oops...Ayers Rock?	哎呀……艾尔斯岩？
+data_m__data_m__m_007txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_007txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_007txt.cif	4	"s ""Soren"""	Soren	Soren
+data_m__data_m__m_007txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_007txt.cif	6	"s ""Tyrker"""	Tyrker	Tyrker
+data_m__data_m__m_007txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_007txt.cif	8	"s ""Olaf"""	Olaf	Olaf
+data_m__data_m__m_007txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_007txt.cif	10	"s ""Snorri"""	Snorri	Snorri
+data_m__data_m__m_009_atxt.cif	1	"sn 0 ""Die Schlacht der Wikingerstämme"""	Die Schlacht der Wikingerstämme	维京部族之战
+data_m__data_m__m_009_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_009_atxt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_009_atxt.cif	4	"s ""Vjornson"""	Vjornson	"s ""维约恩森"""
+data_m__data_m__m_009_atxt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_009_atxt.cif	6	"s ""Ralf"""	Ralf	Ralf
+data_m__data_m__m_009_atxt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_009_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_009_atxt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_009_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_009_atxt.cif	11	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_009_atxt.cif	12	"s ""Peterson"""	Peterson	Peterson
+data_m__data_m__m_009_atxt.cif	13	"sn 60 ""Wikinger"""	Wikinger	"sn 60 ""维京人"""
+data_m__data_m__m_009_atxt.cif	14	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_009txt.cif	1	"sn 0 ""Die Schlacht der Wikingerstämme"""	Die Schlacht der Wikingerstämme	维京部族之战
+data_m__data_m__m_009txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_009txt.cif	3	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_009txt.cif	4	"s ""Vjornson"""	Vjornson	"s ""维约恩森"""
+data_m__data_m__m_009txt.cif	5	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_009txt.cif	6	"s ""Ralf"""	Ralf	Ralf
+data_m__data_m__m_009txt.cif	7	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_009txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_009txt.cif	9	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_009txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_009txt.cif	11	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_009txt.cif	12	"s ""Peterson"""	Peterson	Peterson
+data_m__data_m__m_009txt.cif	13	"sn 60 ""Wikinger"""	Wikinger	"sn 60 ""维京人"""
+data_m__data_m__m_009txt.cif	14	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_011_atxt.cif	1	"sn 0 ""Die Clan-Lords"""	Die Clan-Lords	氏族领主
+data_m__data_m__m_011_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_011_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_011_atxt.cif	4	"s ""Sörenbröd"""	Sörenbröd	Sörenbröd
+data_m__data_m__m_011_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_011_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_011_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_011_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_011_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_011_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_011txt.cif	1	"sn 0 ""Die Clan-Lords"""	Die Clan-Lords	氏族领主
+data_m__data_m__m_011txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_011txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_011txt.cif	4	"s ""Sörenbröd"""	Sörenbröd	Sörenbröd
+data_m__data_m__m_011txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_011txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_011txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_011txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_011txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_011txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_012_atxt.cif	1	"sn 0 ""Die Wikinger kommen!"""	Die Wikinger kommen!	维京人来了！
+data_m__data_m__m_012_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_012_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_012_atxt.cif	4	"s ""Ulfson"""	Ulfson	Ulfson
+data_m__data_m__m_012_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_012_atxt.cif	6	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_012txt.cif	1	"sn 0 ""Die Wikinger kommen!"""	Die Wikinger kommen!	维京人来了！
+data_m__data_m__m_012txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_012txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_012txt.cif	4	"s ""Ulfson"""	Ulfson	Ulfson
+data_m__data_m__m_012txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_012txt.cif	6	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_013_atxt.cif	1	"sn 0 ""Nord und Süd"""	Nord und Süd	南与北
+data_m__data_m__m_013_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_013_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_013_atxt.cif	4	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_013_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_013_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_013_atxt.cif	7	"sn 20 ""Maya"""	Maya	玛雅族
+data_m__data_m__m_013_atxt.cif	8	"s ""Quezatel"""	Quezatel	Quezatel
+data_m__data_m__m_013_atxt.cif	9	"sn 30 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__m_013_atxt.cif	10	"s ""Eso"""	Eso	Eso
+data_m__data_m__m_013txt.cif	1	"sn 0 ""Nord und Süd"""	Nord und Süd	南与北
+data_m__data_m__m_013txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_013txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_013txt.cif	4	"s ""Gunnar"""	Gunnar	Gunnar
+data_m__data_m__m_013txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_013txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_013txt.cif	7	"sn 20 ""Maya"""	Maya	玛雅族
+data_m__data_m__m_013txt.cif	8	"s ""Quezatel"""	Quezatel	Quezatel
+data_m__data_m__m_013txt.cif	9	"sn 30 ""Inuit"""	Inuit	因纽特族
+data_m__data_m__m_013txt.cif	10	"s ""Eso"""	Eso	Eso
+data_m__data_m__m_014_atxt.cif	1	"sn 0 ""Die große Prärie"""	Die große Prärie	大草原
+data_m__data_m__m_014_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_014_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_014_atxt.cif	4	"s ""Adamson"""	Adamson	Adamson
+data_m__data_m__m_014_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_014_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_014_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_014_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_014_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_014_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_014_atxt.cif	11	"sn 40 ""Pawnee"""	Pawnee	波尼族
+data_m__data_m__m_014_atxt.cif	12	"s ""Magua"""	Magua	马瓜
+data_m__data_m__m_014_atxt.cif	13	"sn 50 ""Mohawk"""	Mohawk	莫霍克族
+data_m__data_m__m_014_atxt.cif	14	"s ""Weiser Wolf"""	Weiser Wolf	智者狼
+data_m__data_m__m_014txt.cif	1	"sn 0 ""Die große Prärie"""	Die große Prärie	大草原
+data_m__data_m__m_014txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_014txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_014txt.cif	4	"s ""Adamson"""	Adamson	Adamson
+data_m__data_m__m_014txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_014txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_014txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_014txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_014txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_014txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_014txt.cif	11	"sn 40 ""Pawnee"""	Pawnee	波尼族
+data_m__data_m__m_014txt.cif	12	"s ""Magua"""	Magua	马瓜
+data_m__data_m__m_014txt.cif	13	"sn 50 ""Mohawk"""	Mohawk	莫霍克族
+data_m__data_m__m_014txt.cif	14	"s ""Weiser Wolf"""	Weiser Wolf	智者狼
+data_m__data_m__m_015txt.cif	1	"sn 0 ""Die Belagerung"""	Die Belagerung	围攻
+data_m__data_m__m_015txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_015txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_015txt.cif	4	"s ""Fürst Mord"""	Fürst Mord	Fürst Mord
+data_m__data_m__m_015txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_015txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_015txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_015txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_015txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_015txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_016_atxt.cif	1	"sn 0 ""Der Büffelsee"""	Der Büffelsee	野牛湖
+data_m__data_m__m_016_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_016_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_016_atxt.cif	4	"s ""Sorenson"""	Sorenson	Sorenson
+data_m__data_m__m_016_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_016_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_016_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_016_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_016txt.cif	1	"sn 0 ""Der Büffelsee"""	Der Büffelsee	野牛湖
+data_m__data_m__m_016txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_016txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_016txt.cif	4	"s ""Sorenson"""	Sorenson	Sorenson
+data_m__data_m__m_016txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_016txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_016txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_016txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_017_atxt.cif	1	"sn 0 ""Die Rückkehr nach Death Valley"""	Die Rückkehr nach Death Valley	重返死亡谷
+data_m__data_m__m_017_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_017_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_017_atxt.cif	4	"s ""Sorenson"""	Sorenson	Sorenson
+data_m__data_m__m_017_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_017_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_017_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_017_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_017txt.cif	1	"sn 0 ""Die Rückkehr nach Death Valley"""	Die Rückkehr nach Death Valley	重返死亡谷
+data_m__data_m__m_017txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_017txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_017txt.cif	4	"s ""Sorenson"""	Sorenson	Sorenson
+data_m__data_m__m_017txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_017txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_017txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_017txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_018_atxt.cif	1	"sn 0 ""Die Eroberung Nordamerikas"""	Die Eroberung Nordamerikas	征服北美
+data_m__data_m__m_018_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_018_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_018_atxt.cif	4	"s ""Sorenson"""	Sorenson	Sorenson
+data_m__data_m__m_018_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_018_atxt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_018_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_018_atxt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_018_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_018_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_018_atxt.cif	11	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_018_atxt.cif	12	"s ""Gunar"""	Gunar	Gunar
+data_m__data_m__m_018_atxt.cif	13	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_018_atxt.cif	14	"s ""Jutson"""	Jutson	Jutson
+data_m__data_m__m_018txt.cif	1	"sn 0 ""Die Eroberung Nordamerikas"""	Die Eroberung Nordamerikas	征服北美
+data_m__data_m__m_018txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_018txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_018txt.cif	4	"s ""Sorenson"""	Sorenson	Sorenson
+data_m__data_m__m_018txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_018txt.cif	6	"s ""Olsen"""	Olsen	Olsen
+data_m__data_m__m_018txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_018txt.cif	8	"s ""Onmund"""	Onmund	Onmund
+data_m__data_m__m_018txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_018txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_018txt.cif	11	"sn 40 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_018txt.cif	12	"s ""Gunar"""	Gunar	Gunar
+data_m__data_m__m_018txt.cif	13	"sn 50 ""Wikinger"""	Wikinger	维京人
+data_m__data_m__m_018txt.cif	14	"s ""Jutson"""	Jutson	Jutson
+data_m__data_m__m_019_atxt.cif	1	"sn 0 ""Kampf um den Goldberg"""	Kampf um den Goldberg	"sn 0 ""金山之争"""
+data_m__data_m__m_019_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_019_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_019_atxt.cif	4	"s ""Svenson"""	Svenson	"s ""斯文森"""
+data_m__data_m__m_019_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_019_atxt.cif	6	"s ""Timson"""	Timson	"s ""蒂姆森"""
+data_m__data_m__m_019_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_019_atxt.cif	8	"s ""Vjornson"""	Vjornson	"s ""维约恩森"""
+data_m__data_m__m_019_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_019_atxt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_019txt.cif	1	"sn 0 ""Kampf um den Goldberg"""	Kampf um den Goldberg	"sn 0 ""金山之争"""
+data_m__data_m__m_019txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_019txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_019txt.cif	4	"s ""Svenson"""	Svenson	"s ""斯文森"""
+data_m__data_m__m_019txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_019txt.cif	6	"s ""Timson"""	Timson	"s ""蒂姆森"""
+data_m__data_m__m_019txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_019txt.cif	8	"s ""Vjornson"""	Vjornson	"s ""维约恩森"""
+data_m__data_m__m_019txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_019txt.cif	10	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_020_atxt.cif	1	"sn 0 ""Leben am Rande Utgards"""	Leben am Rande Utgards	乌特加德边缘的生活
+data_m__data_m__m_020_atxt.cif	2	"s ""Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!"""	Baue im Wettstreit gegen andere Mitspieler deine Siedlung auf!	与其他玩家竞赛，建立你的定居点！
+data_m__data_m__m_020_atxt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_020_atxt.cif	4	"s ""Svenson"""	Svenson	"s ""斯文森"""
+data_m__data_m__m_020_atxt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_020_atxt.cif	6	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_020_atxt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_020_atxt.cif	8	"s ""Gunar"""	Gunar	Gunar
+data_m__data_m__m_020_atxt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_020_atxt.cif	10	"s ""Jutson"""	Jutson	Jutson
+data_m__data_m__m_020txt.cif	1	"sn 0 ""Leben am Rande Utgards"""	Leben am Rande Utgards	乌特加德边缘的生活
+data_m__data_m__m_020txt.cif	2	"s ""Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!"""	Kämpfe gegen andere Mitspieler um die totale Vorherrschaft in diesem Gebiet!	"s ""与其他玩家争夺此区域的绝对霸权！"""
+data_m__data_m__m_020txt.cif	3	"sn 90 ""Wikinger"""	Wikinger	"sn 90 ""维京人"""
+data_m__data_m__m_020txt.cif	4	"s ""Svenson"""	Svenson	"s ""斯文森"""
+data_m__data_m__m_020txt.cif	5	"sn 10 ""Wikinger"""	Wikinger	"sn 10 ""维京人"""
+data_m__data_m__m_020txt.cif	6	"s ""Steinthor"""	Steinthor	"s ""斯泰因索尔"""
+data_m__data_m__m_020txt.cif	7	"sn 20 ""Wikinger"""	Wikinger	"sn 20 ""维京人"""
+data_m__data_m__m_020txt.cif	8	"s ""Gunar"""	Gunar	Gunar
+data_m__data_m__m_020txt.cif	9	"sn 30 ""Wikinger"""	Wikinger	"sn 30 ""维京人"""
+data_m__data_m__m_020txt.cif	10	"s ""Jutson"""	Jutson	Jutson
+data_m__data_m__s_001txt.cif	1	"sn 0 ""EasterEggs"""	EasterEggs	彩蛋
+data_m__data_m__s_001txt.cif	2	"s ""Entdecke das Geheimnis der Cultures Entwickler"""	Entdecke das Geheimnis der Cultures Entwickler	发现Cultures开发者的秘密
+data_m__data_m__s_001txt.cif	3	"sn 20 ""Cultures Team"""	Cultures Team	Cultures团队
+data_m__data_m__s_001txt.cif	4	"sn 100 ""Ralf (Tarzan) Angerbauer"""	Ralf (Tarzan) Angerbauer	Ralf (Tarzan) Angerbauer
+data_m__data_m__s_001txt.cif	5	"s ""Robert (Shiva) Heinrich"""	Robert (Shiva) Heinrich	Robert (Shiva) Heinrich
+data_m__data_m__s_001txt.cif	6	"s ""Tobias (Losksley) Frin"""	Tobias (Losksley) Frin	Tobias (Losksley) Frin
+data_m__data_m__s_001txt.cif	7	"s ""Lars (Larry) Hammer"""	Lars (Larry) Hammer	Lars (Larry) Hammer
+data_m__data_m__s_001txt.cif	8	"s ""Thomas (Merlin) Friedmann"""	Thomas (Merlin) Friedmann	Thomas (Merlin) Friedmann
+data_m__data_m__s_001txt.cif	9	"s ""Thomas (Maverick) Häuser """	Thomas (Maverick) Häuser 	Thomas (Maverick) Häuser 
+data_m__data_m__s_001txt.cif	10	"s ""Sven (Devilman) Denda"""	Sven (Devilman) Denda	Sven (Devilman) Denda
+data_m__data_m__s_001txt.cif	11	"s ""Fabian (Gonzo) Aus den Siepen"""	Fabian (Gonzo) Aus den Siepen	Fabian (Gonzo) Aus den Siepen
+data_m__data_m__s_001txt.cif	12	"s ""Peter (MaG) Sprys"""	Peter (MaG) Sprys	Peter (MaG) Sprys
+data_m__data_m__s_001txt.cif	13	"s ""Thorsten (Tank Girl) Knop"""	Thorsten (Tank Girl) Knop	Thorsten (Tank Girl) Knop
+data_m__data_m__s_001txt.cif	14	"s ""Mark Dinnup"""	Mark Dinnup	Mark Dinnup
+data_m__data_m__s_001txt.cif	15	"s ""Frank (Dreadman) Hoffmeister"""	Frank (Dreadman) Hoffmeister	Frank (Dreadman) Hoffmeister
+data_m__data_m__s_001txt.cif	16	"sn 200 ""Entdecke das Geheimnis der Cultures Entwickler"""	Entdecke das Geheimnis der Cultures Entwickler	发现Cultures开发者的秘密
+data_m__data_m__s_001txt.cif	17	"s ""Ahhhhh! Ja, genau! Vernichte sie ALLE!!!"""	Ahhhhh! Ja, genau! Vernichte sie ALLE!!!	啊啊啊啊！没错！把他们全消灭！！！

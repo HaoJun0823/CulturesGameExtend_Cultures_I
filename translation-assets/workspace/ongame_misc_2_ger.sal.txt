@@ -1,0 +1,102 @@
+%s möchte %s heiraten
+%s hat einen neuen Beruf (%s) erfunden
+%s hat einen neuen Beruf (%s) in der Schule gelernt
+%s, von Beruf %s, ist gestorben
+Eine Hungersnot bahnt sich an - behalte deine Nahrungsproduktion im Auge
+Macht Ausbildung zum %s (%d%% Lernerfolg)
+Verfügbar: 
+Keine Punkte zu vergeben
+Ersten Handelposten anzeigen
+Zweiten Handelposten anzeigen
+Händler
+Baustelle
+Onlinehilfe
+Angebot
+Wunsch
+Musik Einstellungen
+Spielstände
+Musiken
+Einstellungen
+Musikoptionen
+Automatisches Speichern
+jede Minute
+alle 5 Minuten
+alle 15 Minuten
+aus
+Scrollmodus
+mittlere Maus
+Bildschirmgrenze
+beides
+Scrollgeschwindigkeit
+langsam
+mittel
+schnell
+Grafikdetails
+wenig (schneller)
+mittel
+viel
+Bildschirmhelligkeit
+dunkeler
+heller
+Maus
+Software
+Hardware
+Mausrad
+Perspektive wechseln
+Zoomen
+unbelegt
+Tonqualität
+niedrig
+mittel
+hoch
+Lautstärke Geräusche
+leiser
+lauter
+Lautstärke Musik
+leiser
+lauter
+Karte als PCX speichern
+Karte in 25% der Originalgröße als PCX speichern
+Karte in 100% der Originalgröße als PCX speichern
+Lade Spielstand %d
+Speichere Spielstand %d
+Starte Musiksammlung %d
+Bauen-Fenster öffnen
+Weiteres Beobachtungs-Fenster öffnen
+Partner
+MISSIONSZIELE
+BRIEFING
+Missionsziele
+Letztes Briefing
+%s ist gestorben!
+Möchten Sie das Spiel verlassen?
+Ja, leider
+Ja, ich muß auf Toilette
+Ja, es sind schon 3 Tage um...
+Ja, muß auch mal schlafen
+Ja, muß zur Arbeit
+Ja, ist spät geworden
+Ja, aber ich spiele gleich weiter
+Ja, hab' Hunger
+Ja, aber nur ungern
+Ja, Telefon klingelt
+Ja, mein Chef kommt grad!
+Ja, meine Frau quängelt
+Ja, mein Mann quängelt
+Ja, muß noch einkaufen
+Ja, Pizza ist fertig
+Ja, mein Hund muß Gassi
+Ja, ich höre Einbrecher
+Ja, mein PC braucht ne Pause
+Ja, aber nur kurz
+Ja, mein PC qualmt schon
+Nein, bloß nicht!
+Möchten Sie das Haus abreißen?
+Ja!
+Nein!
+Möchten Sie den Wegweiser abreißen?
+Ja!
+Nein!
+Zurück zum Menü...
+MISSION ERFÜLLT!
+MISSION VERLOREN!

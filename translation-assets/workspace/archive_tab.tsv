@@ -1,0 +1,168 @@
+﻿# Cultures Gold - TAB 菜单文本存档
+# 格式: source_file	line_no	german	chinese
+data_l__data__gui__language_ger.tab	0	Deutsch	德语
+data_l__data__gui__language_ger.tab	1	Credits	制作人员
+data_l__data__gui__language_ger.tab	2	Hauptmenü	主菜单
+data_l__data__gui__language_ger.tab	3	Einzelspieler	单人游戏
+data_l__data__gui__language_ger.tab	4	Mehrspieler	多人游戏
+data_l__data__gui__language_ger.tab	5	Einstellungen	设置
+data_l__data__gui__language_ger.tab	6	Intro	开场动画
+data_l__data__gui__language_ger.tab	7	Credits	制作人员
+data_l__data__gui__language_ger.tab	8	Einzelspieler	单人游戏
+data_l__data__gui__language_ger.tab	9	Tutorial	教程
+data_l__data__gui__language_ger.tab	10	Einzelnes Szenario	单个场景
+data_l__data__gui__language_ger.tab	11	Kampagne	战役
+data_l__data__gui__language_ger.tab	12	Für Einsteiger	新手入门
+data_l__data__gui__language_ger.tab	13	Spiel fortsetzen	继续游戏
+data_l__data__gui__language_ger.tab	14	Spielstand laden	读取存档
+data_l__data__gui__language_ger.tab	15	Karte wählen	选择地图
+data_l__data__gui__language_ger.tab	16	Mission wählen	选择任务
+data_l__data__gui__language_ger.tab	17	Einsteigerkarten	新手地图
+data_l__data__gui__language_ger.tab	18	Spielstand wählen	选择存档
+data_l__data__gui__language_ger.tab	19	Tutorial	教程
+data_l__data__gui__language_ger.tab	20	Einstellungen	设置
+data_l__data__gui__language_ger.tab	21	Einstellungen Grafik	画面设置
+data_l__data__gui__language_ger.tab	22	Einstellungen Sound	声音设置
+data_l__data__gui__language_ger.tab	23	Schwierigkeitsgrad	难度等级
+data_l__data__gui__language_ger.tab	24	einfach	简单
+data_l__data__gui__language_ger.tab	25	normal	标准
+data_l__data__gui__language_ger.tab	26	Detailstufe	细节等级
+data_l__data__gui__language_ger.tab	27	Scrollgeschwindigkeit	滚屏速度
+data_l__data__gui__language_ger.tab	28	Helligkeit	亮度
+data_l__data__gui__language_ger.tab	29	Grafikauflösung	画面分辨率
+data_l__data__gui__language_ger.tab	30	Mausradfunktion	鼠标滚轮功能
+data_l__data__gui__language_ger.tab	31	keine	无
+data_l__data__gui__language_ger.tab	32	Zoomen	缩放
+data_l__data__gui__language_ger.tab	33	Kippen	倾斜
+data_l__data__gui__language_ger.tab	34	Hardwaremauszeiger	硬件鼠标
+data_l__data__gui__language_ger.tab	35	Tonqualität	音质
+data_l__data__gui__language_ger.tab	36	Lautstärke Musik	音乐音量
+data_l__data__gui__language_ger.tab	37	Lautstärke Geräusche	音效音量
+data_l__data__gui__language_ger.tab	38	Netzwerkoptionen	网络选项
+data_l__data__gui__language_ger.tab	39	Cultures Onlineserver	Cultures 在线服务器
+data_l__data__gui__language_ger.tab	40	Mehrspielermodus	多人模式
+data_l__data__gui__language_ger.tab	41	Cultures im Internet	Cultures 联网
+data_l__data__gui__language_ger.tab	42	Klick auf den Button, um mit dem CULTURES	点击按钮连接到 CULTURES
+data_l__data__gui__language_ger.tab	43	Internetserver verbunden zu werden.	互联网服务器。
+data_l__data__gui__language_ger.tab	44	CULTURES wird beendet.	退出游戏
+data_l__data__gui__language_ger.tab	45	Verbindungsart	连接方式
+data_l__data__gui__language_ger.tab	46	Name eingeben	输入名称
+data_l__data__gui__language_ger.tab	47	Spielername:	玩家名称：
+data_l__data__gui__language_ger.tab	48	Spiel eröffnen	创建游戏
+data_l__data__gui__language_ger.tab	49	Spiel beitreten	加入游戏
+data_l__data__gui__language_ger.tab	50	Verbindungsdaten	连接信息
+data_l__data__gui__language_ger.tab	51	IP Adresse:	IP 地址：
+data_l__data__gui__language_ger.tab	52	Telefonnummer:	电话号码：
+data_l__data__gui__language_ger.tab	53	Wähle Modem:	选择调制解调器：
+data_l__data__gui__language_ger.tab	54	Offene Spiele	开放游戏
+data_l__data__gui__language_ger.tab	55	Spielinfo	游戏信息
+data_l__data__gui__language_ger.tab	56	Spielstand	存档
+data_l__data__gui__language_ger.tab	57	(unbekannter Spielstand)	（未知存档）
+data_l__data__gui__language_ger.tab	58	(unbekannte Karte)	（未知地图）
+data_l__data__gui__language_ger.tab	59	Spiel beitreten	加入游戏
+data_l__data__gui__language_ger.tab	60	Lobby	大厅
+data_l__data__gui__language_ger.tab	61	Datenabgleich	数据同步
+data_l__data__gui__language_ger.tab	62	Spiel wählen	选择游戏
+data_l__data__gui__language_ger.tab	63	Militärmacht	军事争霸
+data_l__data__gui__language_ger.tab	64	Wirtschaftsmacht	经济争霸
+data_l__data__gui__language_ger.tab	65	Spielstand laden	读取存档
+data_l__data__gui__language_ger.tab	66	Spiel fortsetzen	继续游戏
+data_l__data__gui__language_ger.tab	67	Karte wählen	选择地图
+data_l__data__gui__language_ger.tab	68	Spielstand wählen	选择存档
+data_l__data__gui__language_ger.tab	69	Baue Verbindung zur Lobby auf...	正在连接大厅...
+data_l__data__gui__language_ger.tab	70	Lese Service Provider...	正在读取服务提供商...
+data_l__data__gui__language_ger.tab	71	Verbindung wird aufgebaut...	正在建立连接...
+data_l__data__gui__language_ger.tab	72	Spiel wird angelegt...	正在创建游戏...
+data_l__data__gui__language_ger.tab	73	Trete Spiel bei...	正在加入游戏...
+data_l__data__gui__language_ger.tab	74	Verbindung wird beendet...	正在断开连接...
+data_l__data__gui__language_ger.tab	75	Möchtest du das Spiel wirklich beenden?	确定要退出游戏吗？
+data_l__data__gui__language_ger.tab	76	Möchtest du diesen Spieler rauswerfen?	确定要将该玩家踢出吗？
+data_l__data__gui__language_ger.tab	77	Möchtest du wirklich komplett abbrechen?	确定要完全取消吗？
+data_l__data__gui__language_ger.tab	78	Möchtest du diese Runde wirklich verlassen?	确定要离开本局吗？
+data_l__data__gui__language_ger.tab	79	Highscore	排行榜
+data_l__data__gui__language_ger.tab	80	Spielstand für	存档给
+data_l__data__gui__language_ger.tab	81	Spieler	玩家
+data_l__data__gui__language_ger.tab	82	Spieler	玩家
+data_l__data__gui__language_ger.tab	83	Daten werden abgeglichen, bitte warten...	正在同步数据，请稍候...
+data_l__data__gui__language_ger.tab	84	Starte Bonuskarte...	正在启动奖励地图...
+data_l__data__gui__language_ger.tab	85	Ist in dieser Demoversion nicht verfügbar!	此功能在试玩版中不可用！
+data_l__data__gui__language_ger.tab	86	Kein Zugriff auf CD möglich! Bitte beende alle Programme, die auf das CD-Laufwerk zugreifen (z.B. CD-Player u.a.) und starte Cultures neu.	无法访问光盘！请关闭所有访问光驱的程序（如 CD 播放器等），然后重新启动 Cultures。
+data_l__data__gui__language_ger.tab	87	Keine Orginal-CD gefunden! Drücke 'Nochmal suchen' für einen erneuten Versuch oder 'Netzwerkspiel', um einem lokalen Netzwerkspiel beizutreten.	未找到原始光盘！点击"再次查找"重试，或点击"网络游戏"加入局域网游戏。
+data_l__data__gui__language_ger.tab	88	Keine Orginal-CD gefunden! Drücke 'Nochmal suchen' für einen erneuten Versuch oder 'Abbruch', um das Spiel zu beenden.	未找到原始光盘！点击"再次查找"重试，或点击"取消"退出游戏。
+data_l__data__gui__language_ger.tab	89	Nochmal suchen	再次查找
+data_l__data__gui__language_ger.tab	90	Netzwerkspiel	网络游戏
+data_l__data__gui__language_ger.tab	91	Abbrechen	取消
+data_l__data__gui__language_ger.tab	92	Du brauchst mehr Mitspieler für diese Karte!	这张地图需要更多玩家！
+data_l__data__gui__language_ger.tab	93	Kein Netzwerkspieler vorhanden!	没有网络玩家！
+data_l__data__gui__language_ger.tab	94	Verbindung zum Host ist abgebrochen!	与主机的连接已断开！
+data_l__data__gui__language_ger.tab	95	Der Host hat dich aus dem Spiel geworfen!	主机已将您踢出游戏！
+data_l__data__gui__language_ger.tab	96	Eine Farbe ist doppelt!	有重复颜色！
+data_l__data__gui__language_ger.tab	97	Spiel ist voll!	游戏已满！
+data_l__data__gui__language_ger.tab	98	Falsche Programmversion!	程序版本不匹配！
+data_l__data__gui__language_ger.tab	99	Falsche Kartenversion!	地图版本不匹配！
+data_l__data__gui__language_ger.tab	100	(Kein Kartenbild vorhanden)	（无地图预览）
+data_l__data__gui__language_ger.tab	101	Wenn du alleine spielen willst...	如果你想独自游戏...
+data_l__data__gui__language_ger.tab	102	Wenn du mit Freunden spielen willst...	如果你想与朋友一起游戏...
+data_l__data__gui__language_ger.tab	103	Grafik- und Soundeinstellungen.	画面和声音设置。
+data_l__data__gui__language_ger.tab	104	Spielt das Intro ab.	播放开场动画。
+data_l__data__gui__language_ger.tab	105	Die Macher des Spiels.	游戏制作团队。
+data_l__data__gui__language_ger.tab	106	Zurück zum vorherigen Menü.	返回上一级菜单。
+data_l__data__gui__language_ger.tab	107	Beendet das Spiel.	退出游戏。
+data_l__data__gui__language_ger.tab	108	Im Tutorial bekommst du eine Einführung in das Spiel.	在教程中，你将了解游戏的基本操作。
+data_l__data__gui__language_ger.tab	109	Hier kannst du ein einzelnes Szenario spielen.	这里你可以游玩单个场景。
+data_l__data__gui__language_ger.tab	110	Startet eine Kampagne mit mehreren Missionen.	开始包含多个任务的战役。
+data_l__data__gui__language_ger.tab	111	Hier sind bereits alle Bonusgegenstände in großer Menge vorhanden. Dafür können nicht alle Gebäude gebaut werden.	此处已拥有大量奖励物资，但无法建造所有建筑。
+data_l__data__gui__language_ger.tab	112	Startet automatisch das zuletzt gespeicherte Einzelspieler-Spiel.	自动启动最后保存的单人游戏存档。
+data_l__data__gui__language_ger.tab	113	Hier kannst du einen gespeicherten Spielstand laden.	这里你可以读取已保存的游戏存档。
+data_l__data__gui__language_ger.tab	114	Zeigt die Highscore-Liste für Einzelspieler-Spiele.	显示单人游戏排行榜。
+data_l__data__gui__language_ger.tab	115	Hier kannst du Änderungen an den Grafikeinstellungen vornehmen.	这里你可以修改画面设置。
+data_l__data__gui__language_ger.tab	116	Hier kannst du Änderungen an den Soundeinstellungen vornehmen.	这里你可以修改声音设置。
+data_l__data__gui__language_ger.tab	117	Schaltet in den Einsteigermodus. Alle Missionen sind ein wenig leichter.	切换到新手模式，所有任务都会稍微容易一些。
+data_l__data__gui__language_ger.tab	118	Schaltet in den Standardmodus. Alle Missionen haben die normale Standardschwierigkeit.	切换到标准模式，所有任务都保持标准难度。
+data_l__data__gui__language_ger.tab	119	Ändert die Detailauflösung. Höhere Qualität kann die Geschwindigkeit des Spiels beeinflussen!	调整细节精度，更高质量可能影响游戏运行速度！
+data_l__data__gui__language_ger.tab	120	Das Mausrad hat keine Funktion.	鼠标滚轮无功能。
+data_l__data__gui__language_ger.tab	121	Mit dem Mausrad kann man hinein- und herauszoomen.	鼠标滚轮可以放大和缩小视角。
+data_l__data__gui__language_ger.tab	122	Mit dem Mausrad ändert man den Blickwinkel.	鼠标滚轮可以改变视角倾斜角度。
+data_l__data__gui__language_ger.tab	123	Schaltet den Hardware-Mauszeiger ein. Achtung! Geht nicht bei allen PCs!	开启硬件鼠标指针。注意！并非所有电脑都支持！
+data_l__data__gui__language_ger.tab	124	Schaltet den Software-Mauszeiger ein. Ist hübscher, aber langsamer!	开启软件鼠标指针。更美观，但更慢！
+data_l__data__gui__language_ger.tab	125	Ändert die Soundqualität. Höhere Qualität kann die Geschwindigkeit des Spiels beeinflussen!	调整音质，更高质量可能影响游戏运行速度！
+data_l__data__gui__language_ger.tab	126	Ändert die Geschwindigkeit, mit der der angezeigte Bildausschnitt verschoben werden kann.	调整画面边缘滚动的速度。
+data_l__data__gui__language_ger.tab	127	Ändert die Helligkeit.	调整亮度。
+data_l__data__gui__language_ger.tab	128	Regelt die Lautstärke für alle Musiktracks im Spiel.	调节游戏中所有音乐曲目的音量。
+data_l__data__gui__language_ger.tab	129	Regelt die Lautstärke für die Geräusche und Sprache im Spiel und im Intro.	调节游戏和开场动画中音效与语音的音量。
+data_l__data__gui__language_ger.tab	130	Startet ein neues Mehrspieler-Spiel, bei dem es um die militärische Vorherrschaft geht.	开始一场争夺军事霸权的多人游戏。
+data_l__data__gui__language_ger.tab	131	Startet ein neues Mehrspieler-Spiel, bei dem es um wirtschaftliche Ziele geht.	开始一场以经济为目标的多人游戏。
+data_l__data__gui__language_ger.tab	132	Zeigt alle Spielstände für Mehrspielerspiele an.	显示所有多人游戏存档。
+data_l__data__gui__language_ger.tab	133	Startet automatisch den letzten Mehrspieler-Spielstand.	自动启动最后的多人游戏存档。
+data_l__data__gui__language_ger.tab	134	Dieser Spieler hat das Spiel erzeugt. Er ist der HOST.	该玩家创建了游戏，即主机。
+data_l__data__gui__language_ger.tab	135	Hier kann der Host Spieler hinzufügen oder rauswerfen.	主机可以在此添加或踢出玩家。
+data_l__data__gui__language_ger.tab	136	Hier kann der Host Spieler hinzufügen oder rauswerfen. In diesem Spielstand kann die Gesamtzahl der Spieler nicht geändert werden.	主机可以在此添加或踢出玩家。此存档中的总玩家数无法更改。
+data_l__data__gui__language_ger.tab	137	Hier kann der Host Spieler hinzufügen oder rauswerfen. In diesem Spiel kann kein KI-Spieler hinzugefügt werden.	主机可以在此添加或踢出玩家。此游戏中无法添加 AI 玩家。
+data_l__data__gui__language_ger.tab	138	Das ist der lokale Spieler an diesem Rechner.	这是本机上的本地玩家。
+data_l__data__gui__language_ger.tab	139	Dies ist ein Spieler an einem anderen Rechner.	这是其他电脑上的玩家。
+data_l__data__gui__language_ger.tab	140	Dieser Spieler ist schon gestorben...	该玩家已经阵亡...
+data_l__data__gui__language_ger.tab	141	Dieser Spieler wird vom Computer gesteuert (KI-Spieler).	该玩家由电脑控制（AI 玩家）。
+data_l__data__gui__language_ger.tab	142	Dieser Computerspieler ist schon gestorben...	该电脑玩家已经阵亡...
+data_l__data__gui__language_ger.tab	143	Zeigt die Spielerfarbe an. Der Host kann die Farbe auch ändern.	显示玩家颜色。主机可以更改颜色。
+data_l__data__gui__language_ger.tab	144	Zeigt die Qualität der Verbindung zu diesem Spieler an. Je niedriger der Wert, desto besser.	显示与该玩家的连接质量。数值越低越好。
+data_l__data__gui__language_ger.tab	145	Zeigt den Status des Datenabgleich an.	显示数据同步状态。
+data_l__data__gui__language_ger.tab	146	Startet das Spiel mit den jetzigen Einstellungen.	以当前设置开始游戏。
+data_l__data__gui__language_ger.tab	147	Verbindet dich mit dem CULTURES-Onlineserver.	连接到 Cultures 在线服务器。
+data_l__data__gui__language_ger.tab	148	Startet ein Netzwerkspiel über LAN, Internet, Modem oder serielles Kabel.	通过局域网、互联网、调制解调器或串口线开始网络游戏。
+data_l__data__gui__language_ger.tab	149	Zeigt die Highscore-Liste für Mehrspielerspiele.	显示多人游戏排行榜。
+data_l__data__gui__language_ger.tab	150	Achtung! Du musst eine korrekt installierte Internetanbindung haben, um dieses Feature zu nutzen!	注意！您必须正确安装互联网连接才能使用此功能！
+data_l__data__gui__language_ger.tab	151	Hier kannst du ein neues Mehrspielerspiel als Host anbieten.	这里你可以作为主机开设新的多人游戏。
+data_l__data__gui__language_ger.tab	152	Hier kannst du einem angebotenen Spiel beitreten.	这里你可以加入已有的游戏。
+data_l__data__gui__language_ger.tab	153	Sucht nach offenen Spielen unter der angegeben IP-Adresse.	在指定 IP 地址下搜索开放游戏。
+data_l__data__gui__language_ger.tab	154	Über das gewählte Modem und die eingegebene Telefonnummer wird eine Verbindung zu einem anderen PC hergestellt.	通过所选调制解调器和输入的电话号码连接到另一台电脑。
+data_l__data__gui__language_ger.tab	155	Über die angegebenen Parameter wird eine Verbindung zu einem anderen Rechner hergestellt.	通过指定参数连接到另一台电脑。
+data_l__data__gui__language_ger.tab	156	Wähle den COM-Port, an dem das serielle Kabel angeschlossen ist (Vorgabewert ist 'COM 1').	选择串口线连接的 COM 端口（默认为 COM 1）。
+data_l__data__gui__language_ger.tab	157	Wähle die Verbindungsgeschwindigkeit (Vorgabe: '115200 baud').	选择连接速率（默认：115200 波特）。
+data_l__data__gui__language_ger.tab	158	Wähle die Anzahl der Stopbits (Vorgabe: '1 Stopbit').	选择停止位数量（默认：1 停止位）。
+data_l__data__gui__language_ger.tab	159	Wähle den Typ der Flow Control (Vorgabe: 'RTS/DTR Flow Control').	选择流控类型（默认：RTS/DTR 流控）。
+data_l__data__gui__language_ger.tab	160	Wähle die Parität (Vorgabe: 'No Parity').	选择校验方式（默认：无校验）。
+data_l__data__gui__language_ger.tab	161	Kampagnenauswahl	选择战役
+data_l__data__gui__language_ger.tab	162	Die Entdeckung Vinlands	发现文兰
+data_l__data__gui__language_ger.tab	163	Die Rache des Regengottes	雨神的复仇
+data_l__data__gui__language_ger.tab	164	Wählt die Kampagne aus dem Hauptspiel.	选择主游戏战役。
+data_l__data__gui__language_ger.tab	165	Wählt die Kampagne der Missions-CD.	选择任务光盘战役。
