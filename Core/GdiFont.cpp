@@ -327,7 +327,8 @@ std::vector<uint32_t> GdiFontRasterizer::DecodeUtf8(const char* s, size_t n) {
 void GdiFontRasterizer::BlitGlyph(uint8_t* fb, int pitch, int bpp,
                                   int dx, int dy, const Glyph* g, uint32_t color,
                                   int fbW, int fbH, bool idempotent,
-                                  int clipX, int clipY, int clipW, int clipH) {
+                                  int clipX, int clipY, int clipW, int clipH,
+                                  int outlineWidth, uint32_t outlineColor) {
     if (!fb || !g || g->w == 0 || g->h == 0) return;
     if (fbW <= 0 || fbH <= 0) return;
     bool doClip = (clipW > 0 && clipH > 0);
@@ -354,11 +355,13 @@ void GdiFontRasterizer::BlitGlyph(uint8_t* fb, int pitch, int bpp,
                 int a = srcRow[i];
                 if (a == 0) continue;
                 if (bpp == 1) {
-                    // 8bpp palettized: write palette index directly
+                    // 8bpp palettized: write the palette index directly. Do NOT
+                    // barycentric-blend old->tr in index space: the C1 palette is
+                    // not a grayscale ramp, so interpolated indices map to
+                    // arbitrary colors and produce ghosting / noisy edges.
                     uint8_t* p = fb + (size_t)fy * pitch + (size_t)fx;
                     if (idempotent && *p == tr) continue;  // already same color
-                    uint8_t old = *p;
-                    *p = (uint8_t)(old + ((tr - old) * a) / 255);
+                    *p = tr;
                 } else if (bpp == 2) {
                     uint16_t* p = (uint16_t*)(fb + (size_t)fy * pitch + (size_t)fx * 2);
     // ★ 上下边界裁剪（防越界写）
@@ -401,7 +404,25 @@ void GdiFontRasterizer::BlitGlyph(uint8_t* fb, int pitch, int bpp,
     uint8_t tr = (uint8_t)((color >> 16) & 0xFF);
     uint8_t tg = (uint8_t)((color >> 8)  & 0xFF);
     uint8_t tb = (uint8_t)( color        & 0xFF);
-BlitAt(0, 0, tr, tg, tb);
+
+    // ---- 描边 pass：先把字形在四邻域偏移用描边色画一遍，再用前景覆盖
+    //      中央，形成围绕字形的轮廓（8bpp 用索引，16bpp 用 RGB）----
+    // ---- outline pass: draw glyph at neighbouring offsets in the outline
+    //      color first, then the core overwrites the centre => a frame around
+    //      the glyph. 8bpp uses the index, 16bpp uses RGB ----
+    if (outlineWidth > 0) {  // 黑色(值==0)是合法描边，不能按 "!=0" 过滤
+        uint8_t ot, og, ob;
+        if (bpp == 1) { ot = (uint8_t)((outlineColor >> 16) & 0xFF); og = 0; ob = 0; }
+        else          { ot = (uint8_t)((outlineColor >> 16) & 0xFF);
+                        og = (uint8_t)((outlineColor >> 8) & 0xFF);
+                        ob = (uint8_t)( outlineColor        & 0xFF); }
+        for (int oy = -outlineWidth; oy <= outlineWidth; ++oy)
+            for (int ox = -outlineWidth; ox <= outlineWidth; ++ox) {
+                if (ox == 0 && oy == 0) continue;
+                BlitAt(ox, oy, ot, og, ob);
+            }
+    }
+    BlitAt(0, 0, tr, tg, tb);
 }
 
 #pragma region "SaveRGBAAsBMP"

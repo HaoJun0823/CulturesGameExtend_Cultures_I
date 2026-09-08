@@ -60,6 +60,16 @@ constexpr uintptr_t ADDR_TEXT_LOOKUP = 0x48DEA0;  // sub_48DEA0
 typedef const char* (__thiscall *OrigTextLookupFn)(void* this_ptr, uint32_t index);
 OrigTextLookupFn g_origTextLookup = nullptr;
 
+// ---- sub_48DED0: 字符串表写入器（strlen 空指针崩） ----
+// __thiscall(ecx=table, [esp+4]=index, [esp+8]=str), ret 8
+// 游戏在解析 GUI/text 文件时，无引号/空值条目会让 sub_482C30 返回 NULL 字符串，
+// 而 sub_48DED0 内部直接 strlen(str) 不判空 → 0x48DF4D 处对地址 0 读取 → AV 崩溃。
+// 钩子在入口把 NULL 替换成空串，再 relay 到原始函数，彻底消除该崩溃。
+constexpr uintptr_t ADDR_TABLE_WRITER = 0x48DED0;
+typedef int (__thiscall *OrigTableWriterFn)(void* table, uint32_t index, const char* str);
+OrigTableWriterFn g_origTableWriter = nullptr;
+static char kEmptyTableString[] = { 0 };
+
 // ---- Translation dictionary ----
 // Key: German text (CP1252 bytes, std::string)
 // Value: Chinese text (UTF-8, std::string, 持久存储)
@@ -233,6 +243,25 @@ extern "C" void __declspec(naked) GetTextStub() {
     }
 }
 
+// sub_48DED0 空字符串防护。
+// 入口: ecx=table, [esp+4]=index, [esp+8]=str (ret 8)。
+// 仅当 str==NULL 时原地替换为空串指针，然后原样 relay 到 trampoline。
+extern "C" void __declspec(naked) TableWriterGuardStub() {
+    __asm {
+        push ebx
+        mov ebx, ecx               // 暂存 this（非易失）
+        mov eax, dword ptr [esp+0x0C]  // str（push ebx 前是 [esp+8]）
+        test eax, eax
+        jnz twg_ok
+        mov eax, offset kEmptyTableString
+        mov dword ptr [esp+0x0C], eax  // NULL -> 空串
+    twg_ok:
+        mov ecx, ebx               // 恢复 this
+        pop ebx
+        jmp dword ptr [g_origTableWriter]  // relay 到原始函数
+    }
+}
+
 } // namespace
 
 // ===================================================================
@@ -283,6 +312,34 @@ public:
         LOG_INFO(kCat, "Hooked text_lookup @ 0x%X -> stub=%p tramp=%p origFn=%p",
                  (unsigned)ADDR_TEXT_LOOKUP,
                  (void*)&GetTextStub, tramp, (void*)g_origTextLookup);
+
+        // ---- Hook sub_48DED0: 空字符串防护（修 GUI/text 加载崩溃 0x48DF4D） ----
+        // Entry 8 字节: 53 8B D9 57 8B 7C 24 0C
+        //   (push ebx; mov ebx,ecx; push edi; mov edi,[esp+0xC])
+        auto twBytes = Patch::ReadBytes(ADDR_TABLE_WRITER, 12);
+        if (twBytes.size() >= 8 &&
+            twBytes[0] == 0x53 && twBytes[1] == 0x8B && twBytes[2] == 0xD9 && twBytes[3] == 0x57 &&
+            twBytes[4] == 0x8B && twBytes[5] == 0x7C && twBytes[6] == 0x24 && twBytes[7] == 0x0C) {
+            void* twTramp = MakeTrampoline(ADDR_TABLE_WRITER, 8);
+            if (!twTramp) {
+                LOG_ERROR(kCat, "Failed to create table_writer trampoline");
+                return false;
+            }
+            g_origTableWriter = (OrigTableWriterFn)twTramp;
+            // 5-byte JMP + 3 NOP 覆盖 8 字节窗口
+            if (!Patch::WriteJmp(ADDR_TABLE_WRITER, (uintptr_t)&TableWriterGuardStub, 3)) {
+                LOG_ERROR(kCat, "Failed to write table_writer JMP");
+                return false;
+            }
+            LOG_INFO(kCat, "Hooked table_writer @ 0x%X (NULL-str guard) -> stub=%p tramp=%p",
+                     (unsigned)ADDR_TABLE_WRITER, (void*)&TableWriterGuardStub, twTramp);
+        } else {
+            LOG_ERROR(kCat, "table_writer bytes MISMATCH! Expected 53 8B D9 57 8B 7C 24 0C");
+            LOG_ERROR(kCat, "  Got: %02X %02X %02X %02X %02X %02X %02X %02X",
+                     twBytes[0], twBytes[1], twBytes[2], twBytes[3],
+                     twBytes[4], twBytes[5], twBytes[6], twBytes[7]);
+            return false;
+        }
         LOG_INFO(kCat, "TextReplacementFeature installed successfully (dict=%zu entries)",
                  g_dict.size());
         return true;

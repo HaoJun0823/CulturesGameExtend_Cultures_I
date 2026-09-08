@@ -145,6 +145,27 @@ static int      s_ly   = 0;    // lead byte 时的 y
 // ---- 前景色调色板索引 (8bpp) ----
 // C1 调色板: 0xFF 通常是白色。可配置。
 uint8_t g_fgIndex = 0xFF;
+int    g_palettePitch = 0;   // 0 = auto (1024) : in-game 8bpp surface row stride
+
+// Secondary rasterizer for the in-game 8bpp palette surface. The main-menu
+// 16bpp font (g_fontSize=16) renders too large on the in-game UI (engine's
+// own glyphs there are smaller), so we use a separate size for bpp==1.
+ge::text::GdiFontRasterizer* g_rz8 = nullptr;
+int    g_fontSize8 = 0;      // 0 = same as g_fontSize (no secondary font)
+
+// Pick the rasterizer matching the target surface bpp.
+//   bpp==2 -> main font (16bpp menu);  bpp==1 -> smaller 8bpp font if set.
+static inline ge::text::GdiFontRasterizer* PickRZ(int bpp) {
+    return (bpp == 2 || !g_rz8) ? g_rasterizer : g_rz8;
+}
+
+// ---- 文字描边（黑色轮廓，提升可读性，尤其 8bpp 硬边文字）----
+int      g_outlineWidth = 0;
+int      g_outlineIdx   = 0;      // 8bpp 描边调色板索引（默认 0，可调）
+uint32_t g_outlineColor = 0x000000; // 16bpp 描边色（黑）
+static inline uint32_t OutlineColorFor(int bpp) {
+    return bpp == 1 ? ((uint32_t)(uint8_t)g_outlineIdx << 16) : g_outlineColor;
+}
 
 // ---- Y 偏移微调 ----
 int g_yOffset = 0;
@@ -209,15 +230,35 @@ static bool GetDisplayInfo(void* drawCtx, DisplayInfo& info) {
     if (!drawCtx) return false;
     char* ctx = (char*)drawCtx;
 
-    // Read from DrawCtx using original known-good offsets
+    // Framebuffer base pointer (both menu surface and in-game text workspaces).
     info.fb = *(uint8_t**)(ctx + 0x24);
-    int pitch_px = *(int32_t*)(ctx + 0x30);
-    if (!info.fb || pitch_px <= 0) return false;
+    if (!info.fb) return false;
 
-    // Fixed 16bpp RGB565 (known-good configuration)
-    info.bpp = 2;
-    info.pitchBytes = pitch_px * 2;
-    info.fbW = pitch_px;
+    // bpp field at DrawCtx+0x34:
+    //   main menu  = 2  => 16bpp RGB565 full-screen surface
+    //   in-game    = 1  => 8bpp palette-indexed text workspace
+    // Do NOT hardcode 2: writing 16bpp into an 8bpp buffer garbles text
+    // (shadows / oversized glyphs / dashed noise) on in-game HUD/UI.
+    int bpp = *(int32_t*)(ctx + 0x34);
+    if (bpp < 1 || bpp > 4) bpp = 2;  // fallback
+    info.bpp = bpp;
+
+    if (bpp >= 2) {
+        int pw = *(int32_t*)(ctx + 0x30);
+        if (pw <= 0) pw = 640;
+        info.pitchBytes = pw * bpp;
+        info.fbW = pw;
+    } else {
+        // 8bpp palette mode (in-game text surface). Its real row stride is the
+        // text-surface width (measured = 1024 px in this build). DrawCtx has no
+        // reliable stride field here (+0x30 is the per-glyph cell advance,
+        // +0x10 is the region width), so use the measured constant (overridable).
+        int rowBytes = g_palettePitch;
+        if (rowBytes < 16) rowBytes = 1024;
+        info.pitchBytes = rowBytes;
+        info.fbW = rowBytes;
+    }
+
     info.fbH = 2048;
     info.paletteIndex = g_fgIndex;
 
@@ -232,7 +273,8 @@ static bool GetDisplayInfo(void* drawCtx, DisplayInfo& info) {
 static void RenderGlyph(uint32_t cp, uint8_t* fb, int pitchBytes, int bpp,
                         int& x, int y, int cellW, int fbW, int fbH,
                         uint32_t color, bool skipBlit) {
-    const ge::text::Glyph* g = g_rasterizer->GetGlyph(cp);
+    ge::text::GdiFontRasterizer* rz = PickRZ(bpp);
+    const ge::text::Glyph* g = rz->GetGlyph(cp);
     if (!g || g->w == 0 || g->h == 0) {
         x += (cellW != 0) ? cellW : g_fontSize;
         return;
@@ -245,11 +287,12 @@ static void RenderGlyph(uint32_t cp, uint8_t* fb, int pitchBytes, int bpp,
         dx = x;
         advance = g->advance;
     }
-    int dy = y + g_yOffset + g_rasterizer->Ascent() + g->originY;
+    int dy = y + g_yOffset + rz->Ascent() + g->originY;
     dx += g->originX;
     if (!skipBlit)
         ge::text::GdiFontRasterizer::BlitGlyph(fb, pitchBytes, bpp, dx, dy, g, color,
-                                      fbW, fbH, true, -1, -1, -1, -1);
+                                      fbW, fbH, true, -1, -1, -1, -1,
+                                      g_outlineWidth, OutlineColorFor(bpp));
     x += advance;
 }
 
@@ -352,11 +395,15 @@ bool OnCharRender(void* drawCtx, uint8_t byte) {
         int dy = y + g_yOffset + g_rasterizer->Ascent() + g_glyph->originY;
         dx += g_glyph->originX;
 
-        // 8bpp: pass palette index; 16bpp: pass RGB
-        uint32_t renderColor = (di.bpp == 1) ? (uint32_t)di.paletteIndex : g_textColor;
+        // 8bpp: pass palette index in the high byte (BlitGlyph uses color>>16 as
+        // the palette index for bpp==1); 16bpp: pass RGB
+        uint32_t renderColor = (di.bpp == 1)
+                                   ? ((uint32_t)di.paletteIndex << 16)
+                                   : g_textColor;
         ge::text::GdiFontRasterizer::BlitGlyph(di.fb, di.pitchBytes, di.bpp, dx, dy,
                                       g_glyph, renderColor, di.fbW, di.fbH, true,
-                                      -1, -1, -1, -1);
+                                      -1, -1, -1, -1,
+                                      g_outlineWidth, OutlineColorFor(di.bpp));
 
         // 推进 x
         *(int32_t*)((char*)drawCtx + 0x58) = x + advance;
@@ -503,7 +550,7 @@ static void RenderStringCore(uint8_t* fb, int pitchBytes, int bpp,
                 if (cellW != 0) {
                     x += cellW;
                 } else {
-                    const ge::text::Glyph* sg = g_rasterizer->GetGlyph(0x20);
+                    const ge::text::Glyph* sg = PickRZ(bpp)->GetGlyph(0x20);
                     x += sg ? sg->advance : (g_fontSize / 2);
                 }
                 break;
@@ -613,8 +660,11 @@ int OnStringRender(void* drawCtx, const char* str) {
     }
 
     // ---- 直接渲染整串，推进 x（skipBlit 时只度量宽度）----
-    // 8bpp: pass palette index as color; 16bpp: pass RGB
-    uint32_t renderColor = (di.bpp == 1) ? (uint32_t)di.paletteIndex : g_textColor;
+    // 8bpp: pass palette index in the high byte (BlitGlyph uses color>>16 as
+    // the palette index for bpp==1); 16bpp: pass RGB
+    uint32_t renderColor = (di.bpp == 1)
+                               ? ((uint32_t)di.paletteIndex << 16)
+                               : g_textColor;
     int outX, outY;
     RenderStringCore(di.fb, di.pitchBytes, di.bpp, di.fbW, di.fbH,
                      x, y, rowStartX, cellW, font, str, renderColor, skipBlit,
@@ -683,6 +733,18 @@ public:
 
         // Foreground palette index (8bpp)
         g_fgIndex = (uint8_t)cfg.GetInt("TextRenderer", "FgIndex", 0xFF);
+        g_palettePitch = cfg.GetInt("TextRenderer", "PalettePitch", 0);
+
+        // In-game 8bpp surface often needs a smaller font than the 16bpp menu.
+        g_fontSize8 = cfg.GetInt("TextRenderer", "FontSize8", 0);
+
+        // Text outline (dark frame around glyphs for readability).
+        g_outlineWidth = cfg.GetInt("TextRenderer", "OutlineWidth", 0);
+        g_outlineIdx   = cfg.GetInt("TextRenderer", "OutlineIndex", 0);
+        {
+            std::string oc = cfg.GetString("TextRenderer", "OutlineColor", "000000");
+            g_outlineColor = (uint32_t)strtoul(oc.c_str(), nullptr, 16);
+        }
 
         // Y offset fine-tune
         g_yOffset = cfg.GetInt("TextRenderer", "YOffset", 0);
@@ -707,6 +769,20 @@ public:
                  fontName.c_str(), g_fontSize, g_fontWeight, (int)g_antiAlias, g_textColor, g_fgIndex, g_yOffset);
         LOG_INFO(kCat, "Font metrics: ascent=%d descent=%d",
                  g_rasterizer->Ascent(), g_rasterizer->Descent());
+
+        // Optional secondary (smaller) rasterizer for the in-game 8bpp surface.
+        if (g_fontSize8 > 0 && g_fontSize8 != g_fontSize) {
+            g_rz8 = new ge::text::GdiFontRasterizer();
+            if (!g_rz8->Create(g_fontName.c_str(), g_fontSize8, g_fontWeight,
+                               false, g_antiAlias)) {
+                LOG_WARN(kCat, "Failed to create 8bpp font size=%d, falling back", g_fontSize8);
+                delete g_rz8;
+                g_rz8 = nullptr;
+            } else {
+                LOG_INFO(kCat, "8bpp font created: size=%d ascent=%d descent=%d",
+                         g_fontSize8, g_rz8->Ascent(), g_rz8->Descent());
+            }
+        }
 
         // ---- Hook 1: sub_48BF40 (char render) ----
         // 还原 9841A43C 正常版：默认禁用此 hook。所有文本由 OnStringRender
@@ -813,6 +889,10 @@ public:
     void OnUninstall() {
         // Restore original bytes (not implemented; would need to save/restore)
         g_ready = false;
+        if (g_rz8) {
+            delete g_rz8;
+            g_rz8 = nullptr;
+        }
         if (g_rasterizer) {
             delete g_rasterizer;
             g_rasterizer = nullptr;

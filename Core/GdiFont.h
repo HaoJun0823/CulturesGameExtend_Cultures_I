@@ -147,7 +147,8 @@ public:
                           // (caller should substitute a space / tofu box).
                           int fbW, int fbH, bool idempotent = true,
 
-                          int clipX = -1, int clipY = -1, int clipW = -1, int clipH = -1);
+                          int clipX = -1, int clipY = -1, int clipW = -1, int clipH = -1,
+                          int outlineWidth = 0, uint32_t outlineColor = 0);
     static bool SaveRGBAAsBMP(const char* path, int w, int h, const uint8_t* rgba);
 private:
 
