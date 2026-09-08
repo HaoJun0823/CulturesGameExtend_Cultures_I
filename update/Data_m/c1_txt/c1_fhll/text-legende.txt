@@ -1,0 +1,26 @@
+
+------------------------------------
+-
+-      文化 Mission-CD		
+-   BRIEFING NUMMERNSCHLÜSSEL
+-
+-     File: Text-Legende.txt
+-
+-
+- Author: Tobias 'Loksley' Frin
+------------------------------------
+
+
+
+
+Art der Mission:     Nummernschlüssel:
+--------------------------------------
+Campain-Texte:       50XYYY
+--------------------------------------
+Multiplayer-Texte:   8000xy
+--------------------------------------
+Singelplayer-Texte:  9x000y
+--------------------------------------
+
+x: Nummer der Mission
+y: Textnummer innerhalb der Mission

@@ -1,0 +1,28 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-BRIEFING
+-      GRÖNLAND
+- Seite 3
+-
+- File:text_010152.txt
+-
+-
+- Author: Merlin
+------------------------------------
+>
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+
+
+目标：
+\n
+<font:3>
+\n
+- Sammle 100 Einheiten Nahrung, 30 Hölzern und 30 Stück Leder.
+\n
+\n
+- Versuche besagte Eskimosiedlung zu finden und bei ihnen die nötigen Waren zu erhandeln.
+
+<rem:------------------------------------------------------------------------------>

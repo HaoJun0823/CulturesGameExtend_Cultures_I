@@ -1,0 +1,37 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-BRIEFING
+-
+- File:text_009994.txt
+-
+- easter egg Abfrage: Abfrage people killed >= 9 ?
+-
+- Author: Tobias "Loksley" Frin
+------------------------------------
+>
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+\n
+\n
+\n
+\n
+<picture:0>
+\n
+\n
+好一场战斗！
+\n
+你对 文化 永远都不会厌倦吗？
+\n
+好吧，那就先等下一个资料片和任务CD吧！
+
+
+\n
+\n
+<picture:0>
+\n
+\n
+<rem:------------------------------------------------------------------------------>

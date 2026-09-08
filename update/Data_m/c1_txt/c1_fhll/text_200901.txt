@@ -1,0 +1,39 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- FREEPLAYER-BRIEFING
+-
+- RAGNARÖK - DAS LETZTE GEFECHT
+-
+- wenn der Spieler durch den östlichen Wald streift und auf ein Haus trifft
+-
+- Author:       Arben"Beny"Rexhbogaj
+- Version from: 04.07.200	
+------------------------------------
+>
+
+
+<setdatafileid:0>
+<anchor:0>
+
+<font:1>
+<block:2>
+<color:0>
+\n
+
+<rem:------------------------------------------------------------------------------>
+
+
+<font:3>
+\n
+\n
+无所不见、无所不知的诺伦三女神之屋空了！
+三位神秘女子曾在此安家，但洛基派士兵赶走了她们。
+因为害怕女人们会泄露他和他的计划。
+\n
+\n
+<picture:0>
+\n
+\n
+<rem:------------------------------------------------------------------------------>

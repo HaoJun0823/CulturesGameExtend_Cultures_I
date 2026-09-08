@@ -1,0 +1,28 @@
+<rem:
+------------------------------------
+-
+-      文化 Mission-CD		
+-       CAMPAIGN-BRIEFING
+-
+-     File: text_501099.txt
+-
+-
+- Author: 
+------------------------------------
+>
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+任务失败！
+\n
+<picture:201>
+\n
+<font:3>
+\n
+船被毁了！大冒险无法开始了！
+\n
+\n
+<icon:0>
+\n
+\n
+ 

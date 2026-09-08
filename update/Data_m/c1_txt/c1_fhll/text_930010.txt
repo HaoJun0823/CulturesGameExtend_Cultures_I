@@ -1,0 +1,33 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- WeihnachtsMap-BRIEFING
+-
+- File:text_988801.txt
+-
+-
+- Author: Frank "Dreadman" Hoffmeister
+------------------------------------
+>
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission verloren!
+\n
+<font:2>
+\n
+<rem: picture:20>
+\n
+\n
+可惜你未能达成任务目标。再来一次吧……
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+\n
+<rem:------------------------------------------------------------------------------>
+
+

@@ -1,0 +1,26 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-MISSION-CD-BRIEFING
+-
+- File:text_500003.txt
+-
+- Endtext Campaign2  01
+-
+- Author: Ralf Angerbauer
+------------------------------------
+>
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+Hola, amigo mío，欢迎来到Miguel的流动商店。全新mercancías或二手都行。不管要什么，你们想要的都有。
+\n
+\n
+Rápido，趁我心情好赶紧买，给你们的好Precio连我自己都快活不下去了。A qué esperas？别处再也找不到这么好的货。
+\n
+\n
+\n
+\n
+<rem:------------------------------------------------------------------------------>

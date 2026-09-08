@@ -1,0 +1,40 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-BRIEFING
+-
+- File:text_009990.txt
+-
+- Startgoal easter egg
+-
+- Author: Tobias "Loksley" Frin
+------------------------------------
+>
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+
+\n
+\n
+\n
+\n
+\n
+\n
+<picture:0>
+\n
+\n
+呃……你好，又是你？？你怎么又来了？这里本来不该有人来的！
+\n
+但你永远也发现不了我们的秘密！
+\n
+\n
+<font:4>
+别靠近我们！
+<font:3>
+\n
+\n
+<picture:0>
+\n
+\n
+\n
+<rem:------------------------------------------------------------------------------>

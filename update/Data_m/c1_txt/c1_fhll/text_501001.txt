@@ -1,0 +1,28 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-MISSION-CD-BRIEFING
+-
+- File:text_500001.txt
+-
+- Endtext Campaign2  01
+-
+- Author: Ralf Angerbauer
+------------------------------------
+>
+<setdatafileid:0><anchor:0>
+<font:1><block:2><color:3>
+\n
+任务完成！
+\n
+\n
+<font:3>
+<picture:200>
+给养已装好，我们可以启程了。
+<onscreencallback:1,501001,0>
+风向对我们有利，没过多久，
+我们就看到了那个经历过许多冒险的世界的海岸。
+\n
+\n
+<rem:------------------------------------------------------------------------------>

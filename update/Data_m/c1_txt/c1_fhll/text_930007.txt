@@ -1,0 +1,31 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- WeihnachtsMap-BRIEFING
+-
+- File:text_930007.txt
+-  -> Maya gesichtet, ohne Ziele erreicht.
+-
+- Author: Mark Dinnups
+------------------------------------
+>
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+\n
+\n
+务必高度警惕，危险的玛雅人就在近旁。
+\n
+\n
+不要高估自己！你还没准备好面对这些精锐战士！
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+<rem:------------------------------------------------------------------------------>
+
+

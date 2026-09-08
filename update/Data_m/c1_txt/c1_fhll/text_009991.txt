@@ -1,0 +1,37 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-BRIEFING
+-
+- File:text_009991.txt
+-
+- easter egg Abfrage player_known ?
+-
+- Author: Tobias "Loksley" Frin
+------------------------------------
+>
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+\n
+\n
+\n
+\n
+<picture:0>
+\n
+\n
+好吧好吧！你找到我们了！秘密揭开了！其实我们就是神秘的玛雅神！！
+\n
+\n
+<font:4>
+现在欢呼赞美 Funatics 文化 团队吧！最重要的是——别打我们！
+<font:3>
+\n
+\n
+<picture:0>
+\n
+\n
+\n
+<rem:------------------------------------------------------------------------------>

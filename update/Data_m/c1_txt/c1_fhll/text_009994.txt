@@ -1,0 +1,38 @@
+<rem:
+------------------------------------
+-
+-      文化		
+- CAMPAIGN-BRIEFING
+-
+- File:text_009994.txt
+-
+- easter egg Abfrage: Abfrage people killed >= 1 ?
+-
+- Author: Tobias "Loksley" Frin
+------------------------------------
+>
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+\n
+\n
+\n
+\n
+<picture:0>
+\n
+\n
+哼！我们不会这么容易认输的！
+请留意 Funatics 后续的精彩作品！
+\n
+\n
+到时候见！
+\n
+\n
+敬请期待！
+\n
+\n
+<picture:0>
+\n
+\n
+<rem:------------------------------------------------------------------------------>
