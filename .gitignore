@@ -1,0 +1,18 @@
+﻿# Build artifacts
+Release/*.asi
+Release/*.pdb
+Release/*.ipdb
+Release/*.iobj
+Release/*.pch
+Release/*.obj
+Release/*.tlog/
+Release/*.log
+Release/*.i64
+
+# Temp
+.temp/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
