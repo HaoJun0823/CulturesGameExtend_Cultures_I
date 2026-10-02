@@ -1,14 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '8e773950-51d5-47c6-aacd-18443885b2e0'
-  PropagateID: '8e773950-51d5-47c6-aacd-18443885b2e0'
-  ReservedCode1: '8164c502-06b5-4074-b52b-98d1d289f26f'
-  ReservedCode2: '8164c502-06b5-4074-b52b-98d1d289f26f'
----
-
 # Cultures Gold 1 汉化扩展（CulturesGameExtend_Cultures_I）
 
 《Cultures Gold 1》（德语版）的简体中文汉化项目归档仓库，整合了 DLL 扩展工程（CulturesGameExtend）与翻译资产，保留完整 git 历史。

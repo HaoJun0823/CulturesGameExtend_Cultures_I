@@ -1,4 +1,4 @@
-﻿# Build artifacts
+# Build artifacts
 Release/*.asi
 Release/*.pdb
 Release/*.ipdb
